@@ -1,0 +1,25 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/WioSinema.cs3",
+    "status": 3,
+    "version": 1,
+    "name": "WioSinema",
+    "internalName": "WioSinema",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "TMDB v3 destekli birleşik Türkçe sinema ve dizi eklentisi. 50+ yerli sağlayıcıyı tek çatı altında toplar.",
+    "fileSize": 1637594,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Cartoon",
+      "Documentary"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png",
+    "apiVersion": 1
+  }
+]
