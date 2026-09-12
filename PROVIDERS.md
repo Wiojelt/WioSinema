@@ -34,12 +34,11 @@ Derleme sırasında 60 ayrı indirilebilir eklenti paketi bulunur. Yanıt vermey
 28. TRasyalog
 29. TurkAnime
 
-## BronzeCloud — 8
+## BronzeCloud — 7
 
 30. CineStream
 31. CineSimkl
-32. CineTmdb
-33. DiziPalOriginal
+32. DiziPalOriginal
 34. HDFilmDelisi
 35. SezonlukDizi
 36. Watch2Movies
