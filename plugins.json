@@ -2,14 +2,14 @@
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/WioSinema.cs3",
     "status": 3,
-    "version": 4,
+    "version": 5,
     "name": "WioSinema",
     "internalName": "WioSinema",
     "authors": [
       "Wiojelt"
     ],
     "description": "TMDB v3 Türkçe katalog (23 ayrıştırılmış kategori), Ultra HD afişler, ClipBox/CineStream direkt TMDB motoru ve 66 sağlayıcıyı tek çatı altında toplayan birleşik sinema ve dizi eklentisi.",
-    "fileSize": 1696937,
+    "fileSize": 1696428,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
