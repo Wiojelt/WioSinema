@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>WioSinema — CloudStream İçin Birleşik Sinema Eklentisi</title>
-  <meta name="description" content="TMDB v3 Türkçe katalog ve 50+ sağlayıcı akış toplayıcı ile CloudStream için en gelişmiş sinema ve dizi eklentisi.">
+  <meta name="description" content="TMDB v3 Türkçe katalog, ClipBox & CineStream direkt akış motoru ve 55+ yerli sağlayıcı ile CloudStream için en gelişmiş sinema eklentisi.">
   <meta name="theme-color" content="#0b0e14">
   <link rel="icon" type="image/png" href="assets/logo.png">
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -15,10 +15,12 @@
       --bg: #07090e;
       --card-bg: rgba(22, 27, 39, 0.7);
       --card-border: rgba(255, 255, 255, 0.08);
-      --primary: #00f0ff;
-      --primary-glow: rgba(0, 240, 255, 0.35);
-      --secondary: #d946ef;
-      --secondary-glow: rgba(217, 70, 239, 0.35);
+      --primary: #ffb703;
+      --primary-glow: rgba(255, 183, 3, 0.35);
+      --secondary: #fb8500;
+      --secondary-glow: rgba(251, 133, 0, 0.35);
+      --cyan: #00f0ff;
+      --cyan-glow: rgba(0, 240, 255, 0.3);
       --text: #f1f5f9;
       --text-muted: #94a3b8;
       --accent: #3b82f6;
@@ -36,9 +38,9 @@
       overflow-x: hidden;
       min-height: 100vh;
       background-image: 
-        radial-gradient(circle at 20% 15%, rgba(0, 240, 255, 0.12) 0%, transparent 40%),
-        radial-gradient(circle at 80% 30%, rgba(217, 70, 239, 0.12) 0%, transparent 40%),
-        radial-gradient(circle at 50% 80%, rgba(59, 130, 246, 0.1) 0%, transparent 50%);
+        radial-gradient(circle at 20% 15%, rgba(255, 183, 3, 0.1) 0%, transparent 45%),
+        radial-gradient(circle at 80% 30%, rgba(251, 133, 0, 0.08) 0%, transparent 40%),
+        radial-gradient(circle at 50% 80%, rgba(0, 240, 255, 0.07) 0%, transparent 50%);
     }
     .container {
       max-width: 1100px;
@@ -59,7 +61,7 @@
       text-decoration: none;
       color: var(--text);
       font-weight: 800;
-      font-size: 1.25rem;
+      font-size: 1.3rem;
     }
     .brand img {
       width: 42px;
@@ -69,7 +71,7 @@
     }
     .header-links {
       display: flex;
-      gap: 16px;
+      gap: 14px;
       align-items: center;
     }
     .btn-header {
@@ -93,49 +95,49 @@
       border-color: rgba(255, 255, 255, 0.2);
     }
     .hero {
-      padding: 70px 0 40px;
+      padding: 60px 0 35px;
       text-align: center;
     }
     .hero-badge {
       display: inline-flex;
       align-items: center;
       gap: 8px;
-      background: rgba(0, 240, 255, 0.1);
-      border: 1px solid rgba(0, 240, 255, 0.25);
+      background: rgba(255, 183, 3, 0.12);
+      border: 1px solid rgba(255, 183, 3, 0.3);
       color: var(--primary);
       padding: 6px 18px;
       border-radius: 100px;
       font-size: 0.85rem;
-      font-weight: 600;
-      margin-bottom: 24px;
+      font-weight: 700;
+      margin-bottom: 22px;
       text-transform: uppercase;
       letter-spacing: 0.5px;
     }
     .hero-logo {
-      width: 170px;
-      height: 170px;
+      width: 160px;
+      height: 160px;
       margin: 0 auto 24px;
       display: block;
       border-radius: 28px;
-      box-shadow: 0 0 50px rgba(0, 240, 255, 0.3), 0 0 80px rgba(217, 70, 239, 0.2);
+      box-shadow: 0 0 45px rgba(255, 183, 3, 0.3), 0 0 80px rgba(251, 133, 0, 0.2);
       transition: transform 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
     }
     .hero-logo:hover {
       transform: scale(1.05) rotate(-2deg);
     }
     h1 {
-      font-size: 3.5rem;
+      font-size: 3.4rem;
       font-weight: 800;
       letter-spacing: -1.5px;
       margin-bottom: 16px;
-      background: linear-gradient(135deg, #ffffff 30%, var(--primary) 70%, var(--secondary) 100%);
+      background: linear-gradient(135deg, #ffffff 30%, var(--primary) 75%, var(--secondary) 100%);
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
     }
     .hero p {
-      font-size: 1.25rem;
+      font-size: 1.2rem;
       color: var(--text-muted);
-      max-width: 650px;
+      max-width: 700px;
       margin: 0 auto 36px;
     }
     .hero-actions {
@@ -143,7 +145,7 @@
       justify-content: center;
       gap: 16px;
       flex-wrap: wrap;
-      margin-bottom: 48px;
+      margin-bottom: 20px;
     }
     .btn-main {
       padding: 16px 36px;
@@ -159,13 +161,13 @@
       border: none;
     }
     .btn-primary {
-      background: linear-gradient(135deg, var(--primary) 0%, #0284c7 100%);
+      background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
       color: #030712;
       box-shadow: 0 8px 30px var(--primary-glow);
     }
     .btn-primary:hover {
       transform: translateY(-2px);
-      box-shadow: 0 12px 35px rgba(0, 240, 255, 0.5);
+      box-shadow: 0 12px 35px rgba(255, 183, 3, 0.55);
     }
     .btn-secondary {
       background: rgba(255, 255, 255, 0.05);
@@ -177,14 +179,27 @@
       border-color: rgba(255, 255, 255, 0.2);
       transform: translateY(-2px);
     }
+    .alt-link-wrap {
+      margin-bottom: 44px;
+    }
+    .alt-link {
+      font-size: 0.85rem;
+      color: var(--text-muted);
+      text-decoration: none;
+      transition: color 0.2s ease;
+    }
+    .alt-link:hover {
+      color: var(--primary);
+      text-decoration: underline;
+    }
     .install-box {
       background: var(--card-bg);
       backdrop-filter: blur(16px);
       border: 1px solid var(--card-border);
       border-radius: 20px;
-      padding: 28px;
-      max-width: 650px;
-      margin: 0 auto 60px;
+      padding: 26px;
+      max-width: 680px;
+      margin: 0 auto 55px;
       box-shadow: 0 20px 40px rgba(0,0,0,0.5);
     }
     .install-box h3 {
@@ -242,53 +257,53 @@
     .features-grid {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-      gap: 24px;
-      margin-bottom: 80px;
+      gap: 22px;
+      margin-bottom: 70px;
     }
     .feature-card {
       background: var(--card-bg);
       backdrop-filter: blur(16px);
       border: 1px solid var(--card-border);
       border-radius: 18px;
-      padding: 28px;
+      padding: 26px;
       transition: all 0.3s ease;
     }
     .feature-card:hover {
       transform: translateY(-4px);
-      border-color: rgba(0, 240, 255, 0.3);
-      box-shadow: 0 15px 35px rgba(0, 240, 255, 0.08);
+      border-color: rgba(255, 183, 3, 0.3);
+      box-shadow: 0 15px 35px rgba(255, 183, 3, 0.08);
     }
     .feature-icon {
       font-size: 2rem;
-      margin-bottom: 16px;
+      margin-bottom: 14px;
       display: inline-block;
     }
     .feature-card h3 {
-      font-size: 1.25rem;
-      margin-bottom: 10px;
+      font-size: 1.2rem;
+      margin-bottom: 8px;
       font-weight: 700;
     }
     .feature-card p {
       color: var(--text-muted);
-      font-size: 0.95rem;
+      font-size: 0.92rem;
     }
     .preview-section {
       text-align: center;
-      margin-bottom: 80px;
+      margin-bottom: 70px;
     }
     .preview-section h2 {
-      font-size: 2.2rem;
+      font-size: 2.1rem;
       font-weight: 800;
       margin-bottom: 12px;
     }
     .preview-section p {
       color: var(--text-muted);
-      margin-bottom: 40px;
+      margin-bottom: 35px;
     }
     .preview-gallery {
       display: grid;
       grid-template-columns: 1fr 1fr;
-      gap: 24px;
+      gap: 22px;
     }
     .preview-img {
       width: 100%;
@@ -304,38 +319,58 @@
       background: var(--card-bg);
       border: 1px solid var(--card-border);
       border-radius: 24px;
-      padding: 40px;
-      margin-bottom: 80px;
+      padding: 40px 32px;
+      margin-bottom: 70px;
     }
     .providers-section h2 {
-      font-size: 1.8rem;
-      margin-bottom: 12px;
+      font-size: 2rem;
+      margin-bottom: 10px;
       text-align: center;
     }
-    .providers-section p {
+    .providers-section .lead {
       text-align: center;
       color: var(--text-muted);
-      margin-bottom: 30px;
+      margin-bottom: 32px;
+    }
+    .provider-category-title {
+      font-size: 1.15rem;
+      font-weight: 700;
+      color: var(--primary);
+      margin: 24px 0 14px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
     }
     .providers-chips {
       display: flex;
       flex-wrap: wrap;
       gap: 10px;
-      justify-content: center;
     }
     .provider-chip {
       background: rgba(255, 255, 255, 0.04);
       border: 1px solid rgba(255, 255, 255, 0.08);
-      padding: 8px 16px;
+      padding: 7px 15px;
       border-radius: 100px;
-      font-size: 0.9rem;
+      font-size: 0.88rem;
       font-weight: 500;
       transition: all 0.2s ease;
     }
     .provider-chip:hover {
       border-color: var(--primary);
       color: var(--primary);
-      background: rgba(0, 240, 255, 0.05);
+      background: rgba(255, 183, 3, 0.08);
+    }
+    .chip-gold {
+      background: rgba(255, 183, 3, 0.12);
+      border-color: rgba(255, 183, 3, 0.35);
+      color: #ffd166;
+      font-weight: 600;
+    }
+    .chip-cyan {
+      background: rgba(0, 240, 255, 0.1);
+      border-color: rgba(0, 240, 255, 0.3);
+      color: #70f7ff;
+      font-weight: 600;
     }
     .footer {
       border-top: 1px solid var(--card-border);
@@ -352,7 +387,7 @@
       text-decoration: underline;
     }
     @media (max-width: 768px) {
-      h1 { font-size: 2.4rem; }
+      h1 { font-size: 2.3rem; }
       .preview-gallery { grid-template-columns: 1fr; }
       .hero { padding: 40px 0 20px; }
       .hero-actions { flex-direction: column; }
@@ -381,13 +416,13 @@
 
     <main>
       <section class="hero">
-        <div class="hero-badge">✨ CloudStream Eklentisi</div>
+        <div class="hero-badge">🎬 58 Sağlayıcı • TMDB v3 Katalog</div>
         <img src="assets/logo.png" alt="WioSinema Logo" class="hero-logo">
         <h1>Sinema Dünyası Tek Çatıda</h1>
-        <p>TMDB v3 Türkçe katalog altyapısı, IMDb puanları ve 50'den fazla yerli sağlayıcıyı anında tarayan birleşik akış motoru.</p>
+        <p>TMDB v3 Türkçe katalog altyapısı, IMDb puanları ve 58 sinema/dizi sağlayıcısını anında tarayan birleşik akış motoru.</p>
 
         <div class="hero-actions">
-          <a href="https://intradeus.github.io/http-protocol-redirector?r=cloudstreamrepo://raw.githubusercontent.com/Wiojelt/WioSinema/main/repo.json" class="btn-main btn-primary">
+          <a href="cloudstreamrepo://raw.githubusercontent.com/Wiojelt/WioSinema/builds/repo.json" onclick="triggerCloudstreamInstall(event)" class="btn-main btn-primary" id="add-btn">
             <svg width="22" height="22" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M12 4v16m8-8H4"/></svg>
             CloudStream'e Ekle
           </a>
@@ -397,14 +432,20 @@
           </a>
         </div>
 
+        <div class="alt-link-wrap">
+          <a href="https://intradeus.github.io/http-protocol-redirector?r=cloudstreamrepo%3A%2F%2Fraw.githubusercontent.com%2FWiojelt%2FWioSinema%2Fbuilds%2Frepo.json" target="_blank" class="alt-link">
+            🔗 Buton açılmıyorsa alternatif web yönlendirici linki için tıklayın
+          </a>
+        </div>
+
         <div class="install-box">
-          <h3>📦 Manuel Kurulum</h3>
+          <h3>📦 Manuel Kurulum / CloudStream Deposu</h3>
           <div class="code-row">
             <span class="code-text" id="shortcode">!wiosinema</span>
             <button class="btn-copy" onclick="copyText('shortcode', this)">Kısa Kodu Kopyala</button>
           </div>
           <div class="code-row">
-            <span class="code-text" id="repourl">https://raw.githubusercontent.com/Wiojelt/WioSinema/main/repo.json</span>
+            <span class="code-text" id="repourl">https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/repo.json</span>
             <button class="btn-copy" onclick="copyText('repourl', this)">Depo Linkini Kopyala</button>
           </div>
         </div>
@@ -412,40 +453,40 @@
 
       <section class="features-grid">
         <div class="feature-card">
+          <div class="feature-icon">⚡</div>
+          <h3>ClipBox & CineStream Motoru</h3>
+          <p>HTML arama engellerine takılmadan TMDB kimliğiyle doğrudan 1080p yüksek hızlı akışları çözen yerleşik Direct Resolver altyapısı.</p>
+        </div>
+        <div class="feature-card">
           <div class="feature-icon">🎬</div>
           <h3>TMDB v3 Türkçe Katalog</h3>
-          <p>Trend Filmler, Popüler Diziler, Vizyondakiler, Türk Sineması ve Yerli Diziler dahil 16 zengin kategori.</p>
+          <p>Trend Filmler, Popüler Diziler, Vizyondakiler, Türk Sineması ve Yerli Diziler dahil 16 zengin kategori ve Türkçe sinopsis.</p>
         </div>
         <div class="feature-card">
           <div class="feature-icon">⭐</div>
-          <h3>Canlı IMDb Rozetleri</h3>
-          <p>Afişlerin üzerinde anlık puan rozetleri, oyuncu kadrosu fotoğrafları ve Türkçe sinopsis bilgisi.</p>
-        </div>
-        <div class="feature-card">
-          <div class="feature-icon">⚡</div>
-          <h3>50+ Akış Toplayıcı</h3>
-          <p>Bir filme tıkladığınızda FilmMakinesi, Dizilla, FilmModu, HDFilmCehennemi gibi kaynaklar arka planda paralel taranır.</p>
+          <h3>Canlı IMDb & Oyuncu Bilgisi</h3>
+          <p>Afişlerin üzerinde anlık IMDb rozetleri, oyuncu kadrosu fotoğrafları ve resmi Türkçe fragmanlar.</p>
         </div>
         <div class="feature-card">
           <div class="feature-icon">📺</div>
-          <h3>TV Box Modu</h3>
-          <p>Düşük donanımlı Android TV cihazlarında donmayı önleyen eşzamanlı istek kısıtlaması ve 7 sn zaman aşımı koruması.</p>
+          <h3>İlk Kurulum Sihirbazı & TV Modu</h3>
+          <p>İlk açılışta TV Box Modu veya Standart Mod seçimi. Düşük bellekli Android TV cihazlarında RAM koruması ve donmama garantisi.</p>
         </div>
         <div class="feature-card">
           <div class="feature-icon">🔍</div>
           <h3>Akıllı Türkçe Eşleme</h3>
-          <p>Türkçe karakterleri (ç, ğ, ı, ö, ş, ü) ve sezon/bölüm formatlarını otomatik normalize eden zeki eşleştirme algoritması.</p>
+          <p>Türkçe karakterleri (ç, ğ, ı, ö, ş, ü) ve sezon/bölüm formatlarını otomatik normalize eden akıllı arama algoritması.</p>
         </div>
         <div class="feature-card">
           <div class="feature-icon">⚙️</div>
-          <h3>Özelleştirilebilir</h3>
-          <p>Ayarlar panelinden istediğiniz sağlayıcıları tek dokunuşla açıp kapatarak tarama hızını kontrol edin.</p>
+          <h3>58 Sağlayıcı Yönetim Paneli</h3>
+          <p>Kontrol panelinden 58 sağlayıcıyı tek tıkla 'Tümünü Aç', 'Önerilenler' veya tek tek açıp kapatabilme esnekliği.</p>
         </div>
       </section>
 
       <section class="preview-section">
         <h2>Uygulama İçi Görünüm</h2>
-        <p>Modern arayüz, yüksek çözünürlüklü afişler ve akıcı oynatıcı entegrasyonu.</p>
+        <p>Modern arayüz, zengin afişler, kurulum sihirbazı ve gelişmiş ayar paneli.</p>
         <div class="preview-gallery">
           <img src="assets/preview_home.png" alt="WioSinema Ana Sayfa Kataloğu" class="preview-img">
           <img src="assets/preview_details.png" alt="Film Detay ve Oyuncular" class="preview-img">
@@ -453,28 +494,77 @@
       </section>
 
       <section class="providers-section">
-        <h2>Desteklenen Sağlayıcılar</h2>
-        <p>WioSinema tek bir tıklamayla tüm bu kaynaklarda aynı anda arama yapar:</p>
+        <h2>Desteklenen Tüm Sağlayıcılar (58)</h2>
+        <p class="lead">WioSinema tek bir tıklamayla tüm bu 58 sağlayıcıda eşzamanlı tarama yapar:</p>
+        
+        <div class="provider-category-title">⚡ Direkt TMDB & Uluslararası Yüksek Hızlı Sağlayıcılar (9)</div>
+        <div class="providers-chips">
+          <span class="provider-chip chip-gold">ClipBox • TurkSinema</span>
+          <span class="provider-chip chip-gold">CineStream</span>
+          <span class="provider-chip chip-gold">CineTmdb</span>
+          <span class="provider-chip chip-gold">CineSimkl</span>
+          <span class="provider-chip chip-gold">FlixNetwork</span>
+          <span class="provider-chip chip-cyan">Disney+ Mirror</span>
+          <span class="provider-chip chip-cyan">Netflix Mirror</span>
+          <span class="provider-chip chip-cyan">Prime Video Mirror</span>
+          <span class="provider-chip chip-cyan">HotStar Mirror</span>
+        </div>
+
+        <div class="provider-category-title">🎬 Popüler Türk Sinema & Film Sağlayıcıları (24)</div>
         <div class="providers-chips">
           <span class="provider-chip">FilmMakinesi</span>
-          <span class="provider-chip">Dizilla</span>
-          <span class="provider-chip">FilmModu</span>
           <span class="provider-chip">HDFilmCehennemi</span>
-          <span class="provider-chip">DiziBox</span>
-          <span class="provider-chip">InatBox</span>
+          <span class="provider-chip">HDFilmCehennemi • Alternatif</span>
+          <span class="provider-chip">FilmModu</span>
           <span class="provider-chip">FullHDFilm</span>
+          <span class="provider-chip">FullHDFilmizlesene</span>
+          <span class="provider-chip">InatBox</span>
           <span class="provider-chip">JetFilmizle</span>
-          <span class="provider-chip">SezonlukDizi</span>
-          <span class="provider-chip">YabancıDizi</span>
-          <span class="provider-chip">AnimeciX</span>
-          <span class="provider-chip">BelgeselX</span>
-          <span class="provider-chip">DiziMom</span>
-          <span class="provider-chip">DiziPal</span>
-          <span class="provider-chip">666Filmİzle</span>
           <span class="provider-chip">SetFilmIzle</span>
+          <span class="provider-chip">WebteIzle</span>
+          <span class="provider-chip">HDFilmDelisi</span>
+          <span class="provider-chip">666 Film İzle</span>
+          <span class="provider-chip">Kült Filmler</span>
+          <span class="provider-chip">RareFilmm</span>
           <span class="provider-chip">SinemaCX</span>
+          <span class="provider-chip">Sinewix</span>
+          <span class="provider-chip">Sinemakolik</span>
+          <span class="provider-chip">NetFilmizle</span>
+          <span class="provider-chip">HDFilmizleBest</span>
+          <span class="provider-chip">HDFilmİzle Vip</span>
+          <span class="provider-chip">Filmİzzle</span>
+          <span class="provider-chip">LiderFilm</span>
+          <span class="provider-chip">Watch2Movies</span>
+          <span class="provider-chip">Internet Archive</span>
+        </div>
+
+        <div class="provider-category-title">📺 Dizi, Belgesel & Anime Sağlayıcıları (25)</div>
+        <div class="providers-chips">
+          <span class="provider-chip">Dizilla</span>
+          <span class="provider-chip">DiziBox</span>
+          <span class="provider-chip">DiziBox • Alternatif</span>
+          <span class="provider-chip">DiziPal</span>
+          <span class="provider-chip">DiziPal Original</span>
+          <span class="provider-chip">SezonlukDizi</span>
+          <span class="provider-chip">DiziMom</span>
+          <span class="provider-chip">DiziYou</span>
+          <span class="provider-chip">DiziKorea</span>
+          <span class="provider-chip">DDizi</span>
+          <span class="provider-chip">DDizi • Alternatif</span>
+          <span class="provider-chip">YabancıDizi</span>
+          <span class="provider-chip">TrDiziİzle</span>
+          <span class="provider-chip">DiziBal</span>
+          <span class="provider-chip">DiziRella</span>
+          <span class="provider-chip">DiziBol</span>
+          <span class="provider-chip">DiziFilm</span>
+          <span class="provider-chip">AnimeciX</span>
           <span class="provider-chip">TurkAnime</span>
-          <span class="provider-chip">+30 Sağlayıcı Daha</span>
+          <span class="provider-chip">AsyaAnimeleri</span>
+          <span class="provider-chip">BelgeselX</span>
+          <span class="provider-chip">CizgiMax</span>
+          <span class="provider-chip">TRanimaci</span>
+          <span class="provider-chip">TRasyalog</span>
+          <span class="provider-chip">TLCTR</span>
         </div>
       </section>
     </main>
@@ -486,6 +576,11 @@
   </div>
 
   <script>
+    function triggerCloudstreamInstall(e) {
+      const repoUrl = "cloudstreamrepo://raw.githubusercontent.com/Wiojelt/WioSinema/builds/repo.json";
+      window.location.href = repoUrl;
+    }
+
     function copyText(elementId, btn) {
       const text = document.getElementById(elementId).innerText;
       navigator.clipboard.writeText(text).then(() => {
