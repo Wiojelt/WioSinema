@@ -7,7 +7,7 @@
 
 <h1 align="center">🎬 WioSinema</h1>
 
-<p align="center">CloudStream için TMDB v3 Türkçe Katalog, ClipBox/CineStream Direkt Resolver ve 58 Sağlayıcı Akış Toplayıcı Destekli Birleşik Sinema & Dizi Eklentisi</p>
+<p align="center">CloudStream için TMDB v3 Türkçe Katalog, ClipBox/CineStream Direkt Resolver ve 66 Sağlayıcı Akış Toplayıcı Destekli Birleşik Sinema & Dizi Eklentisi</p>
 
 <p align="center">
   <a href="https://t.me/wiolandcs3"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram"></a>
@@ -40,12 +40,12 @@ https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/repo.json
 ## 🌟 Öne Çıkan Özellikler
 
 - ⚡ **ClipBox & CineStream Direkt TMDB Motoru:** Arama motoruna takılmadan doğrudan TMDB kimliği üzerinden 1080p yüksek hızlı link çözer.
-- 🎬 **TMDB v3 Türkçe Katalog:** 16 zengin kategori (Trend Filmler, Popüler Diziler, Vizyondakiler, Türk Sineması, Yerli Diziler ve daha fazlası).
+- 🎬 **TMDB v3 Türkçe Katalog:** 23 ayrıştırılmış kategori (Trend Filmler, Popüler Diziler, Vizyondakiler, Türk Sineması, Yerli Diziler ve daha fazlası).
 - ⭐ **Canlı IMDb Puan Rozetleri:** Afişlerin üzerinde doğrudan puan göstergesi.
 - 👥 **Detaylı Oyuncu Kadrosu & Özetler:** Türkçe sinopsis, oyuncu fotoğrafları, tür etiketleri ve fragmanlar.
 - 🪄 **İlk Kurulum Sihirbazı:** İlk açılışta TV Box Modu veya Standart Mod seçimi ile optimize başlangıç.
 - 📺 **TV Box Modu:** Zayıf donanımlı Android TV cihazları için eşzamanlı istek kısıtlama ve bellek koruması.
-- ⚙️ **Gelişmiş Sağlayıcı Yönetimi:** 58 sağlayıcının tamamı tek tıkla 'Tümünü Aç', 'Önerilenler' veya özel olarak açılıp kapatılabilir.
+- ⚙️ **Gelişmiş Sağlayıcı Yönetimi:** 66 sağlayıcının tamamı tek tıkla 'Tümünü Aç', 'Önerilenler' veya özel olarak açılıp kapatılabilir.
 
 ---
 
