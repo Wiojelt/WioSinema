@@ -1,0 +1,503 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>WioSinema — CloudStream İçin Birleşik Sinema Eklentisi</title>
+  <meta name="description" content="TMDB v3 Türkçe katalog ve 50+ sağlayıcı akış toplayıcı ile CloudStream için en gelişmiş sinema ve dizi eklentisi.">
+  <meta name="theme-color" content="#0b0e14">
+  <link rel="icon" type="image/png" href="assets/logo.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #07090e;
+      --card-bg: rgba(22, 27, 39, 0.7);
+      --card-border: rgba(255, 255, 255, 0.08);
+      --primary: #00f0ff;
+      --primary-glow: rgba(0, 240, 255, 0.35);
+      --secondary: #d946ef;
+      --secondary-glow: rgba(217, 70, 239, 0.35);
+      --text: #f1f5f9;
+      --text-muted: #94a3b8;
+      --accent: #3b82f6;
+    }
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+      background-color: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      overflow-x: hidden;
+      min-height: 100vh;
+      background-image: 
+        radial-gradient(circle at 20% 15%, rgba(0, 240, 255, 0.12) 0%, transparent 40%),
+        radial-gradient(circle at 80% 30%, rgba(217, 70, 239, 0.12) 0%, transparent 40%),
+        radial-gradient(circle at 50% 80%, rgba(59, 130, 246, 0.1) 0%, transparent 50%);
+    }
+    .container {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 0 24px;
+    }
+    header {
+      padding: 24px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-bottom: 1px solid var(--card-border);
+    }
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      text-decoration: none;
+      color: var(--text);
+      font-weight: 800;
+      font-size: 1.25rem;
+    }
+    .brand img {
+      width: 42px;
+      height: 42px;
+      border-radius: 10px;
+      box-shadow: 0 0 15px var(--primary-glow);
+    }
+    .header-links {
+      display: flex;
+      gap: 16px;
+      align-items: center;
+    }
+    .btn-header {
+      padding: 8px 18px;
+      border-radius: 100px;
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 0.9rem;
+      transition: all 0.2s ease;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .btn-outline {
+      border: 1px solid var(--card-border);
+      background: rgba(255, 255, 255, 0.03);
+      color: var(--text);
+    }
+    .btn-outline:hover {
+      background: rgba(255, 255, 255, 0.08);
+      border-color: rgba(255, 255, 255, 0.2);
+    }
+    .hero {
+      padding: 70px 0 40px;
+      text-align: center;
+    }
+    .hero-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      background: rgba(0, 240, 255, 0.1);
+      border: 1px solid rgba(0, 240, 255, 0.25);
+      color: var(--primary);
+      padding: 6px 18px;
+      border-radius: 100px;
+      font-size: 0.85rem;
+      font-weight: 600;
+      margin-bottom: 24px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+    .hero-logo {
+      width: 170px;
+      height: 170px;
+      margin: 0 auto 24px;
+      display: block;
+      border-radius: 28px;
+      box-shadow: 0 0 50px rgba(0, 240, 255, 0.3), 0 0 80px rgba(217, 70, 239, 0.2);
+      transition: transform 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+    }
+    .hero-logo:hover {
+      transform: scale(1.05) rotate(-2deg);
+    }
+    h1 {
+      font-size: 3.5rem;
+      font-weight: 800;
+      letter-spacing: -1.5px;
+      margin-bottom: 16px;
+      background: linear-gradient(135deg, #ffffff 30%, var(--primary) 70%, var(--secondary) 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+    .hero p {
+      font-size: 1.25rem;
+      color: var(--text-muted);
+      max-width: 650px;
+      margin: 0 auto 36px;
+    }
+    .hero-actions {
+      display: flex;
+      justify-content: center;
+      gap: 16px;
+      flex-wrap: wrap;
+      margin-bottom: 48px;
+    }
+    .btn-main {
+      padding: 16px 36px;
+      border-radius: 14px;
+      font-weight: 700;
+      font-size: 1.1rem;
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 12px;
+      cursor: pointer;
+      transition: all 0.25s ease;
+      border: none;
+    }
+    .btn-primary {
+      background: linear-gradient(135deg, var(--primary) 0%, #0284c7 100%);
+      color: #030712;
+      box-shadow: 0 8px 30px var(--primary-glow);
+    }
+    .btn-primary:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 12px 35px rgba(0, 240, 255, 0.5);
+    }
+    .btn-secondary {
+      background: rgba(255, 255, 255, 0.05);
+      border: 1px solid var(--card-border);
+      color: var(--text);
+    }
+    .btn-secondary:hover {
+      background: rgba(255, 255, 255, 0.1);
+      border-color: rgba(255, 255, 255, 0.2);
+      transform: translateY(-2px);
+    }
+    .install-box {
+      background: var(--card-bg);
+      backdrop-filter: blur(16px);
+      border: 1px solid var(--card-border);
+      border-radius: 20px;
+      padding: 28px;
+      max-width: 650px;
+      margin: 0 auto 60px;
+      box-shadow: 0 20px 40px rgba(0,0,0,0.5);
+    }
+    .install-box h3 {
+      font-size: 1.1rem;
+      margin-bottom: 16px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+    }
+    .code-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      background: #0b0f19;
+      border: 1px solid rgba(255, 255, 255, 0.06);
+      border-radius: 12px;
+      padding: 12px 18px;
+      margin-bottom: 12px;
+    }
+    .code-row:last-child {
+      margin-bottom: 0;
+    }
+    .code-text {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+      font-size: 0.95rem;
+      color: var(--primary);
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      margin-right: 12px;
+    }
+    .btn-copy {
+      background: rgba(255, 255, 255, 0.08);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      color: var(--text);
+      padding: 6px 14px;
+      border-radius: 8px;
+      font-size: 0.8rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      white-space: nowrap;
+    }
+    .btn-copy:hover {
+      background: var(--primary);
+      color: #030712;
+      border-color: var(--primary);
+    }
+    .btn-copy.copied {
+      background: #10b981;
+      color: white;
+      border-color: #10b981;
+    }
+    .features-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 24px;
+      margin-bottom: 80px;
+    }
+    .feature-card {
+      background: var(--card-bg);
+      backdrop-filter: blur(16px);
+      border: 1px solid var(--card-border);
+      border-radius: 18px;
+      padding: 28px;
+      transition: all 0.3s ease;
+    }
+    .feature-card:hover {
+      transform: translateY(-4px);
+      border-color: rgba(0, 240, 255, 0.3);
+      box-shadow: 0 15px 35px rgba(0, 240, 255, 0.08);
+    }
+    .feature-icon {
+      font-size: 2rem;
+      margin-bottom: 16px;
+      display: inline-block;
+    }
+    .feature-card h3 {
+      font-size: 1.25rem;
+      margin-bottom: 10px;
+      font-weight: 700;
+    }
+    .feature-card p {
+      color: var(--text-muted);
+      font-size: 0.95rem;
+    }
+    .preview-section {
+      text-align: center;
+      margin-bottom: 80px;
+    }
+    .preview-section h2 {
+      font-size: 2.2rem;
+      font-weight: 800;
+      margin-bottom: 12px;
+    }
+    .preview-section p {
+      color: var(--text-muted);
+      margin-bottom: 40px;
+    }
+    .preview-gallery {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 24px;
+    }
+    .preview-img {
+      width: 100%;
+      border-radius: 16px;
+      border: 1px solid var(--card-border);
+      box-shadow: 0 20px 40px rgba(0,0,0,0.6);
+      transition: transform 0.3s ease;
+    }
+    .preview-img:hover {
+      transform: scale(1.02);
+    }
+    .providers-section {
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: 24px;
+      padding: 40px;
+      margin-bottom: 80px;
+    }
+    .providers-section h2 {
+      font-size: 1.8rem;
+      margin-bottom: 12px;
+      text-align: center;
+    }
+    .providers-section p {
+      text-align: center;
+      color: var(--text-muted);
+      margin-bottom: 30px;
+    }
+    .providers-chips {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      justify-content: center;
+    }
+    .provider-chip {
+      background: rgba(255, 255, 255, 0.04);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      padding: 8px 16px;
+      border-radius: 100px;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.2s ease;
+    }
+    .provider-chip:hover {
+      border-color: var(--primary);
+      color: var(--primary);
+      background: rgba(0, 240, 255, 0.05);
+    }
+    .footer {
+      border-top: 1px solid var(--card-border);
+      padding: 40px 0;
+      text-align: center;
+      color: var(--text-muted);
+      font-size: 0.9rem;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .footer a:hover {
+      text-decoration: underline;
+    }
+    @media (max-width: 768px) {
+      h1 { font-size: 2.4rem; }
+      .preview-gallery { grid-template-columns: 1fr; }
+      .hero { padding: 40px 0 20px; }
+      .hero-actions { flex-direction: column; }
+      .btn-main { width: 100%; justify-content: center; }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <header>
+      <a href="#" class="brand">
+        <img src="assets/logo.png" alt="WioSinema Logo">
+        <span>WioSinema</span>
+      </a>
+      <div class="header-links">
+        <a href="https://t.me/wiolandcs3" target="_blank" class="btn-header btn-outline">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm4.64 6.8c-.15 1.58-.8 5.42-1.13 7.19-.14.75-.42 1-.68 1.03-.58.05-1.02-.38-1.58-.75-.88-.58-1.38-.94-2.23-1.5-.99-.65-.35-1.01.22-1.59.15-.15 2.71-2.48 2.76-2.69a.2.2 0 00-.05-.18c-.06-.05-.14-.03-.21-.02-.09.02-1.49.95-4.22 2.79-.4.27-.76.41-1.08.4-.36-.01-1.04-.2-1.55-.37-.63-.2-1.12-.31-1.08-.66.02-.18.27-.36.74-.55 2.92-1.27 4.86-2.11 5.83-2.51 2.78-1.16 3.35-1.36 3.73-1.36.08 0 .27.02.39.12.1.08.13.19.14.27-.01.06.01.24 0 .38z"/></svg>
+          Telegram
+        </a>
+        <a href="https://buymeacoffee.com/wiojelt" target="_blank" class="btn-header btn-outline">
+          ☕ Destek Ol
+        </a>
+      </div>
+    </header>
+
+    <main>
+      <section class="hero">
+        <div class="hero-badge">✨ CloudStream Eklentisi</div>
+        <img src="assets/logo.png" alt="WioSinema Logo" class="hero-logo">
+        <h1>Sinema Dünyası Tek Çatıda</h1>
+        <p>TMDB v3 Türkçe katalog altyapısı, IMDb puanları ve 50'den fazla yerli sağlayıcıyı anında tarayan birleşik akış motoru.</p>
+
+        <div class="hero-actions">
+          <a href="https://intradeus.github.io/http-protocol-redirector?r=cloudstreamrepo://raw.githubusercontent.com/Wiojelt/WioSinema/main/repo.json" class="btn-main btn-primary">
+            <svg width="22" height="22" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M12 4v16m8-8H4"/></svg>
+            CloudStream'e Ekle
+          </a>
+          <a href="https://t.me/wiolandcs3" target="_blank" class="btn-main btn-secondary">
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm4.64 6.8c-.15 1.58-.8 5.42-1.13 7.19-.14.75-.42 1-.68 1.03-.58.05-1.02-.38-1.58-.75-.88-.58-1.38-.94-2.23-1.5-.99-.65-.35-1.01.22-1.59.15-.15 2.71-2.48 2.76-2.69a.2.2 0 00-.05-.18c-.06-.05-.14-.03-.21-.02-.09.02-1.49.95-4.22 2.79-.4.27-.76.41-1.08.4-.36-.01-1.04-.2-1.55-.37-.63-.2-1.12-.31-1.08-.66.02-.18.27-.36.74-.55 2.92-1.27 4.86-2.11 5.83-2.51 2.78-1.16 3.35-1.36 3.73-1.36.08 0 .27.02.39.12.1.08.13.19.14.27-.01.06.01.24 0 .38z"/></svg>
+            Telegram Kanalı
+          </a>
+        </div>
+
+        <div class="install-box">
+          <h3>📦 Manuel Kurulum</h3>
+          <div class="code-row">
+            <span class="code-text" id="shortcode">!wiosinema</span>
+            <button class="btn-copy" onclick="copyText('shortcode', this)">Kısa Kodu Kopyala</button>
+          </div>
+          <div class="code-row">
+            <span class="code-text" id="repourl">https://raw.githubusercontent.com/Wiojelt/WioSinema/main/repo.json</span>
+            <button class="btn-copy" onclick="copyText('repourl', this)">Depo Linkini Kopyala</button>
+          </div>
+        </div>
+      </section>
+
+      <section class="features-grid">
+        <div class="feature-card">
+          <div class="feature-icon">🎬</div>
+          <h3>TMDB v3 Türkçe Katalog</h3>
+          <p>Trend Filmler, Popüler Diziler, Vizyondakiler, Türk Sineması ve Yerli Diziler dahil 16 zengin kategori.</p>
+        </div>
+        <div class="feature-card">
+          <div class="feature-icon">⭐</div>
+          <h3>Canlı IMDb Rozetleri</h3>
+          <p>Afişlerin üzerinde anlık puan rozetleri, oyuncu kadrosu fotoğrafları ve Türkçe sinopsis bilgisi.</p>
+        </div>
+        <div class="feature-card">
+          <div class="feature-icon">⚡</div>
+          <h3>50+ Akış Toplayıcı</h3>
+          <p>Bir filme tıkladığınızda FilmMakinesi, Dizilla, FilmModu, HDFilmCehennemi gibi kaynaklar arka planda paralel taranır.</p>
+        </div>
+        <div class="feature-card">
+          <div class="feature-icon">📺</div>
+          <h3>TV Box Modu</h3>
+          <p>Düşük donanımlı Android TV cihazlarında donmayı önleyen eşzamanlı istek kısıtlaması ve 7 sn zaman aşımı koruması.</p>
+        </div>
+        <div class="feature-card">
+          <div class="feature-icon">🔍</div>
+          <h3>Akıllı Türkçe Eşleme</h3>
+          <p>Türkçe karakterleri (ç, ğ, ı, ö, ş, ü) ve sezon/bölüm formatlarını otomatik normalize eden zeki eşleştirme algoritması.</p>
+        </div>
+        <div class="feature-card">
+          <div class="feature-icon">⚙️</div>
+          <h3>Özelleştirilebilir</h3>
+          <p>Ayarlar panelinden istediğiniz sağlayıcıları tek dokunuşla açıp kapatarak tarama hızını kontrol edin.</p>
+        </div>
+      </section>
+
+      <section class="preview-section">
+        <h2>Uygulama İçi Görünüm</h2>
+        <p>Modern arayüz, yüksek çözünürlüklü afişler ve akıcı oynatıcı entegrasyonu.</p>
+        <div class="preview-gallery">
+          <img src="assets/preview_home.png" alt="WioSinema Ana Sayfa Kataloğu" class="preview-img">
+          <img src="assets/preview_details.png" alt="Film Detay ve Oyuncular" class="preview-img">
+        </div>
+      </section>
+
+      <section class="providers-section">
+        <h2>Desteklenen Sağlayıcılar</h2>
+        <p>WioSinema tek bir tıklamayla tüm bu kaynaklarda aynı anda arama yapar:</p>
+        <div class="providers-chips">
+          <span class="provider-chip">FilmMakinesi</span>
+          <span class="provider-chip">Dizilla</span>
+          <span class="provider-chip">FilmModu</span>
+          <span class="provider-chip">HDFilmCehennemi</span>
+          <span class="provider-chip">DiziBox</span>
+          <span class="provider-chip">InatBox</span>
+          <span class="provider-chip">FullHDFilm</span>
+          <span class="provider-chip">JetFilmizle</span>
+          <span class="provider-chip">SezonlukDizi</span>
+          <span class="provider-chip">YabancıDizi</span>
+          <span class="provider-chip">AnimeciX</span>
+          <span class="provider-chip">BelgeselX</span>
+          <span class="provider-chip">DiziMom</span>
+          <span class="provider-chip">DiziPal</span>
+          <span class="provider-chip">666Filmİzle</span>
+          <span class="provider-chip">SetFilmIzle</span>
+          <span class="provider-chip">SinemaCX</span>
+          <span class="provider-chip">TurkAnime</span>
+          <span class="provider-chip">+30 Sağlayıcı Daha</span>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <p>WioSinema bir indeksleme ve arama eklentisidir. Herhangi bir video dosyası barındırmaz.</p>
+      <p style="margin-top: 8px;">made with ♥ by <a href="https://github.com/Wiojelt" target="_blank">@Wiojelt</a></p>
+    </footer>
+  </div>
+
+  <script>
+    function copyText(elementId, btn) {
+      const text = document.getElementById(elementId).innerText;
+      navigator.clipboard.writeText(text).then(() => {
+        const orig = btn.innerText;
+        btn.innerText = 'Kopyalandı! ✓';
+        btn.classList.add('copied');
+        setTimeout(() => {
+          btn.innerText = orig;
+          btn.classList.remove('copied');
+        }, 2000);
+      });
+    }
+  </script>
+</body>
+</html>
