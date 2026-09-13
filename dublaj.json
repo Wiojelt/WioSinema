@@ -1,8 +1,0 @@
-﻿{
-    "pluginLists":  [
-                        "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/plugins-dublaj.json"
-                    ],
-    "description":  "Sadece Dublajlı veya Hem Dublaj Hem Altyazılı yayın yapan sağlayıcılar.",
-    "name":  "WioSinema - Dublajlı İçerikler",
-    "manifestVersion":  1
-}
