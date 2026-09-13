@@ -1,17 +1,15 @@
 [
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/WioSinema.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/WioSinema.cs3",
     "status": 3,
-    "version": 6,
+    "version": 5,
     "name": "WioSinema",
     "internalName": "WioSinema",
     "authors": [
-      "Wiojelt",
-      "Saloo1575",
-      "keyiflerolsun"
+      "Wiojelt"
     ],
     "description": "TMDB v3 Türkçe katalog (23 ayrıştırılmış kategori), Ultra HD afişler, ClipBox/CineStream direkt TMDB motoru ve 66 sağlayıcıyı tek çatı altında toplayan birleşik sinema ve dizi eklentisi.",
-    "fileSize": 1692326,
+    "fileSize": 1696428,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -22,7 +20,6 @@
       "Documentary"
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-45ebc136a7dfec1eff329a36fb68bc80d46f6f5e4693feeb89bd7db735093ed8"
+    "apiVersion": 1
   }
 ]
