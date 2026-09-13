@@ -49,25 +49,6 @@ https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/repo.json
 
 ---
 
-## 📱 Ekran Görüntüleri
-
-<p align="center">
-  <img src="assets/preview_home.png" alt="Ana Sayfa Kataloğu" width="48%">
-  <img src="assets/preview_details.png" alt="Film Detayları ve Oyuncular" width="48%">
-</p>
-
----
-
-## 🔌 Desteklenen Tüm Sağlayıcılar (58)
-
-| Tür | Sayı | Sağlayıcılar |
-|-----|------|-------------|
-| ⚡ **Direkt TMDB / Hızlı Akış** | 8 | ClipBox • TurkSinema, CineStream, CineSimkl, FlixNetwork, Disney+ Mirror, Netflix Mirror, Prime Video Mirror, HotStar Mirror |
-| 🍿 **Sinema & Film Sağlayıcıları** | 24 | FilmMakinesi, HDFilmCehennemi, HDFilmCehennemi Alternatif, FilmModu, FullHDFilm, FullHDFilmizlesene, InatBox, JetFilmizle, SetFilmIzle, WebteIzle, HDFilmDelisi, 666Filmİzle, Kült Filmler, RareFilmm, SinemaCX, Sinewix, Sinemakolik, NetFilmizle, HDFilmizleBest, HDFilmİzle Vip, Filmİzzle, LiderFilm, Watch2Movies, Internet Archive |
-| 📺 **Dizi, Belgesel & Anime** | 25 | Dizilla, DiziBox, DiziBox Alternatif, DiziPal, DiziPal Original, SezonlukDizi, DiziMom, DiziYou, DiziKorea, DDizi, DDizi Alternatif, YabancıDizi, TrDiziİzle, DiziBal, DiziRella, DiziBol, DiziFilm, AnimeciX, TurkAnime, AsyaAnimeleri, BelgeselX, CizgiMax, TRanimaci, TRasyalog, TLCTR |
-
----
-
 ## ☕ Destek Ol & İletişim
 
 Eklentinin geliştirilmesine katkıda bulunmak ve yeni özelliklerin gelmesini desteklemek için:
