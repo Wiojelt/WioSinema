@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://intradeus.github.io/http-protocol-redirector?r=cloudstreamrepo%3A%2F%2Fraw.githubusercontent.com%2FWiojelt%2FTurkSinema%2Fmain%2Frepo.json">
+  <a href="https://intradeus.github.io/http-protocol-redirector?r=cloudstreamrepo%3A%2F%2Fraw.githubusercontent.com%2FWiojelt%2FWioSinema%2Fmain%2Frepo.json">
     <img src="assets/logo.png" alt="WioSinema" width="180">
   </a><br>
   <strong>👉 Logoya Tıkla Eklentiyi CloudStream'e Ekle.</strong>
@@ -24,13 +24,13 @@
 
 ## 📥 CloudStream'e Ekle
 
-- **Tek Tıkla Ekle:** [CloudStream'e Doğrudan Ekle](cloudstreamrepo://raw.githubusercontent.com/Wiojelt/TurkSinema/main/repo.json) *(Veya [Web Yönlendirici ile Ekle](https://intradeus.github.io/http-protocol-redirector?r=cloudstreamrepo%3A%2F%2Fraw.githubusercontent.com%2FWiojelt%2FTurkSinema%2Fmain%2Frepo.json))*
+- **Tek Tıkla Ekle:** [CloudStream'e Doğrudan Ekle](cloudstreamrepo://raw.githubusercontent.com/Wiojelt/WioSinema/main/repo.json) *(Veya [Web Yönlendirici ile Ekle](https://intradeus.github.io/http-protocol-redirector?r=cloudstreamrepo%3A%2F%2Fraw.githubusercontent.com%2FWiojelt%2FWioSinema%2Fmain%2Frepo.json))*
 - **Kısa kod:** `!wiosinema`
 
 CloudStream içinde **Eklentiler → Depolar → Depo ekle** yolunu açıp kısa kodu veya aşağıdaki depo bağlantısını girin:
 
 ```text
-https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/repo.json
+https://raw.githubusercontent.com/Wiojelt/WioSinema/main/repo.json
 ```
 
 > **İpucu:** Güncel CloudStream Beta sürümünde kısa kod doğrudan çalışır ve VPN gerektirmez.
