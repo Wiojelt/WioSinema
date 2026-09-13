@@ -1,0 +1,8 @@
+﻿{
+    "pluginLists":  [
+                        "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/plugins-altyazi.json"
+                    ],
+    "description":  "Orijinal dilde ve Sadece Altyazılı yayın yapan sağlayıcılar.",
+    "name":  "WioSinema - Sadece Altyazılı İçerikler",
+    "manifestVersion":  1
+}
