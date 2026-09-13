@@ -422,7 +422,7 @@
         <p>TMDB v3 Türkçe katalog altyapısı, IMDb puanları ve 58 sinema/dizi sağlayıcısını anında tarayan birleşik akış motoru.</p>
 
         <div class="hero-actions">
-          <a href="cloudstreamrepo://raw.githubusercontent.com/Wiojelt/WioSinema/main/repo.json" onclick="triggerCloudstreamInstall(event)" class="btn-main btn-primary" id="add-btn">
+          <a href="cloudstreamrepo://raw.githubusercontent.com/Wiojelt/WioSinema/builds/repo.json" onclick="triggerCloudstreamInstall(event)" class="btn-main btn-primary" id="add-btn">
             <svg width="22" height="22" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M12 4v16m8-8H4"/></svg>
             CloudStream'e Ekle
           </a>
@@ -433,7 +433,7 @@
         </div>
 
         <div class="alt-link-wrap">
-          <a href="https://intradeus.github.io/http-protocol-redirector?r=cloudstreamrepo%3A%2F%2Fraw.githubusercontent.com%2FWiojelt%2FWioSinema%2Fmain%2Frepo.json" target="_blank" class="alt-link">
+          <a href="https://intradeus.github.io/http-protocol-redirector?r=cloudstreamrepo%3A%2F%2Fraw.githubusercontent.com%2FWiojelt%2FWioSinema%2Fbuilds%2Frepo.json" target="_blank" class="alt-link">
             🔗 Buton açılmıyorsa alternatif web yönlendirici linki için tıklayın
           </a>
         </div>
@@ -445,7 +445,7 @@
             <button class="btn-copy" onclick="copyText('shortcode', this)">Kısa Kodu Kopyala</button>
           </div>
           <div class="code-row">
-            <span class="code-text" id="repourl">https://raw.githubusercontent.com/Wiojelt/WioSinema/main/repo.json</span>
+            <span class="code-text" id="repourl">https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/repo.json</span>
             <button class="btn-copy" onclick="copyText('repourl', this)">Depo Linkini Kopyala</button>
           </div>
         </div>
@@ -579,7 +579,7 @@
 
   <script>
     function triggerCloudstreamInstall(e) {
-      const repoUrl = "cloudstreamrepo://raw.githubusercontent.com/Wiojelt/WioSinema/main/repo.json";
+      const repoUrl = "cloudstreamrepo://raw.githubusercontent.com/Wiojelt/WioSinema/builds/repo.json";
       window.location.href = repoUrl;
     }
 

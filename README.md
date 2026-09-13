@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://intradeus.github.io/http-protocol-redirector?r=cloudstreamrepo%3A%2F%2Fraw.githubusercontent.com%2FWiojelt%2FWioSinema%2Fmain%2Frepo.json">
+  <a href="https://intradeus.github.io/http-protocol-redirector?r=cloudstreamrepo%3A%2F%2Fraw.githubusercontent.com%2FWiojelt%2FWioSinema%2Fbuilds%2Frepo.json">
     <img src="assets/logo.png" alt="WioSinema" width="180">
   </a><br>
   <strong>👉 Logoya Tıkla Eklentiyi CloudStream'e Ekle.</strong>
@@ -24,13 +24,13 @@
 
 ## 📥 CloudStream'e Ekle
 
-- **Tek Tıkla Ekle:** [CloudStream'e Doğrudan Ekle](cloudstreamrepo://raw.githubusercontent.com/Wiojelt/WioSinema/main/repo.json) *(Veya [Web Yönlendirici ile Ekle](https://intradeus.github.io/http-protocol-redirector?r=cloudstreamrepo%3A%2F%2Fraw.githubusercontent.com%2FWiojelt%2FWioSinema%2Fmain%2Frepo.json))*
+- **Tek Tıkla Ekle:** [CloudStream'e Doğrudan Ekle](cloudstreamrepo://raw.githubusercontent.com/Wiojelt/WioSinema/builds/repo.json) *(Veya [Web Yönlendirici ile Ekle](https://intradeus.github.io/http-protocol-redirector?r=cloudstreamrepo%3A%2F%2Fraw.githubusercontent.com%2FWiojelt%2FWioSinema%2Fbuilds%2Frepo.json))*
 - **Kısa kod:** `!wiosinema`
 
 CloudStream içinde **Eklentiler → Depolar → Depo ekle** yolunu açıp kısa kodu veya aşağıdaki depo bağlantısını girin:
 
 ```text
-https://raw.githubusercontent.com/Wiojelt/WioSinema/main/repo.json
+https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/repo.json
 ```
 
 > **İpucu:** Güncel CloudStream Beta sürümünde kısa kod doğrudan çalışır ve VPN gerektirmez.
@@ -46,6 +46,25 @@ https://raw.githubusercontent.com/Wiojelt/WioSinema/main/repo.json
 - 🪄 **İlk Kurulum Sihirbazı:** İlk açılışta TV Box Modu veya Standart Mod seçimi ile optimize başlangıç.
 - 📺 **TV Box Modu:** Zayıf donanımlı Android TV cihazları için eşzamanlı istek kısıtlama ve bellek koruması.
 - ⚙️ **Gelişmiş Sağlayıcı Yönetimi:** 66 sağlayıcının tamamı tek tıkla 'Tümünü Aç', 'Önerilenler' veya özel olarak açılıp kapatılabilir.
+
+---
+
+## 📱 Ekran Görüntüleri
+
+<p align="center">
+  <img src="assets/preview_home.png" alt="Ana Sayfa Kataloğu" width="48%">
+  <img src="assets/preview_details.png" alt="Film Detayları ve Oyuncular" width="48%">
+</p>
+
+---
+
+## 🔌 Desteklenen Tüm Sağlayıcılar (58)
+
+| Tür | Sayı | Sağlayıcılar |
+|-----|------|-------------|
+| ⚡ **Direkt TMDB / Hızlı Akış** | 8 | ClipBox • TurkSinema, CineStream, CineSimkl, FlixNetwork, Disney+ Mirror, Netflix Mirror, Prime Video Mirror, HotStar Mirror |
+| 🍿 **Sinema & Film Sağlayıcıları** | 24 | FilmMakinesi, HDFilmCehennemi, HDFilmCehennemi Alternatif, FilmModu, FullHDFilm, FullHDFilmizlesene, InatBox, JetFilmizle, SetFilmIzle, WebteIzle, HDFilmDelisi, 666Filmİzle, Kült Filmler, RareFilmm, SinemaCX, Sinewix, Sinemakolik, NetFilmizle, HDFilmizleBest, HDFilmİzle Vip, Filmİzzle, LiderFilm, Watch2Movies, Internet Archive |
+| 📺 **Dizi, Belgesel & Anime** | 25 | Dizilla, DiziBox, DiziBox Alternatif, DiziPal, DiziPal Original, SezonlukDizi, DiziMom, DiziYou, DiziKorea, DDizi, DDizi Alternatif, YabancıDizi, TrDiziİzle, DiziBal, DiziRella, DiziBol, DiziFilm, AnimeciX, TurkAnime, AsyaAnimeleri, BelgeselX, CizgiMax, TRanimaci, TRasyalog, TLCTR |
 
 ---
 
