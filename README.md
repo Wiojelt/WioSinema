@@ -24,13 +24,13 @@
 
 ## 📥 CloudStream'e Ekle
 
-- **Tek Tıkla Ekle:** [CloudStream'e Doğrudan Ekle](cloudstreamrepo://raw.githubusercontent.com/Wiojelt/WioSinema/main/dublaj.json) *(Veya [Web Yönlendirici ile Ekle](https://intradeus.github.io/http-protocol-redirector?r=cloudstreamrepo%3A%2F%2Fraw.githubusercontent.com%2FWiojelt%2FWioSinema%2Fbuilds%2Frepo.json))*
+- **Tek Tıkla Ekle:** [CloudStream'e Doğrudan Ekle](cloudstreamrepo://raw.githubusercontent.com/Wiojelt/WioSinema/builds/repo.json) *(Veya [Web Yönlendirici ile Ekle](https://intradeus.github.io/http-protocol-redirector?r=cloudstreamrepo%3A%2F%2Fraw.githubusercontent.com%2FWiojelt%2FWioSinema%2Fbuilds%2Frepo.json))*
 - **Kısa kod:** `!wiosinema`
 
 CloudStream içinde **Eklentiler → Depolar → Depo ekle** yolunu açıp kısa kodu veya aşağıdaki depo bağlantısını girin:
 
 ```text
-https://raw.githubusercontent.com/Wiojelt/WioSinema/main/dublaj.json
+https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/repo.json
 ```
 
 > **İpucu:** Güncel CloudStream Beta sürümünde kısa kod doğrudan çalışır ve VPN gerektirmez.
