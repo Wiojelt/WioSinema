@@ -1,6 +1,6 @@
 [
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/2d618b14c4fd553180e36ce91371861cb8422043/WioSinema.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/WioSinema.cs3",
     "status": 3,
     "version": 6,
     "name": "WioSinema",
@@ -10,7 +10,7 @@
       "Saloo1575",
       "keyiflerolsun"
     ],
-    "description": "Tum Turkce film ve dizi saglayicilarini tek eklentide.",
+    "description": "TMDB v3 Türkçe katalog (23 ayrıştırılmış kategori), Ultra HD afişler, ClipBox/CineStream direkt TMDB motoru ve 66 sağlayıcıyı tek çatı altında toplayan birleşik sinema ve dizi eklentisi.",
     "fileSize": 1692326,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
