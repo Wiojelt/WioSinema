@@ -4,5 +4,6 @@
   "manifestVersion": 1,
   "pluginLists": [
     "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/plugins.json"
-  ]
+  ],
+  "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png"
 }
