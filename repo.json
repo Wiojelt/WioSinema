@@ -1,8 +1,8 @@
 {
-    "name": "WioSinema",
-    "description": "CloudStream için TMDB v3 destekli birleşik Türkçe sinema ve dizi eklentisi.",
-    "manifestVersion": 1,
-    "pluginLists": [
-        "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/plugins.json?v=1789514567"
-    ]
+  "name": "WioSinema",
+  "description": "CloudStream için TMDB v3 destekli birleşik Türkçe sinema ve dizi eklentisi.",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/plugins.json?v=1789515708"
+  ]
 }
