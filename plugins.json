@@ -1,26 +1,26 @@
 [
-  {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/WioSinema.cs3",
-    "status": 3,
-    "version": 6,
-    "name": "WioSinema",
-    "internalName": "WioSinema",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "TMDB v3 Türkçe katalog (23 ayrıştırılmış kategori), Ultra HD afişler, ClipBox/CineStream direkt TMDB motoru ve 68 sağlayıcıyı (Anizium & Deokwave 4K dahil) tek çatı altında toplayan birleşik sinema ve dizi eklentisi.",
-    "fileSize": 1792187,
-    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Cartoon",
-      "Documentary"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-889f1ddc2da5b9717e226befb19988758188e7bddcbcd140e9b373ec1428d1f6"
-  }
+    {
+        "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/WioSinema.cs3",
+        "status": 3,
+        "version": 6,
+        "name": "WioSinema",
+        "internalName": "WioSinema",
+        "authors": [
+            "Wiojelt"
+        ],
+        "description": "TMDB v3 Türkçe katalog (23 ayrıştırılmış kategori), Ultra HD afişler, ClipBox/CineStream direkt TMDB motoru ve 68 sağlayıcıyı (Anizium & Deokwave 4K dahil) tek çatı altında toplayan birleşik sinema ve dizi eklentisi.",
+        "fileSize": 1791879,
+        "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+        "language": "tr",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Cartoon",
+            "Documentary"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-f39f867b0ca3261c0bdaf63d54baca3702045ef92fef91779f78febfa006eef8"
+    }
 ]
