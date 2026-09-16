@@ -9,7 +9,7 @@
             "Wiojelt"
         ],
         "description": "TMDB v3 Türkçe katalog (23 ayrıştırılmış kategori), Ultra HD afişler, ClipBox/CineStream direkt TMDB motoru ve 68 sağlayıcıyı (Anizium & Deokwave 4K dahil) tek çatı altında toplayan birleşik sinema ve dizi eklentisi.",
-        "fileSize": 1824793,
+        "fileSize": 1828353,
         "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
         "language": "tr",
         "tvTypes": [
@@ -21,6 +21,6 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png",
         "apiVersion": 1,
-        "fileHash": "sha256-109d96b60353293990627885d5c55d5ac44d7108c7695db2455d2b3634fd29c7"
+        "fileHash": "sha256-fefc69950585b0884cb2bc4e1f87be6a68402f6cd59c2e5858260e3c69e8aef9"
     }
 ]
