@@ -2,14 +2,14 @@
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/WioSinema.cs3",
     "status": 3,
-    "version": 12,
+    "version": 13,
     "name": "WioSinema",
     "internalName": "WioSinema",
     "authors": [
       "Wiojelt"
     ],
     "description": "TMDB v3 Türkçe katalog (23 ayrıştırılmış kategori), Ultra HD afişler, ClipBox/CineStream direkt TMDB motoru ve 68 sağlayıcıyı tek çatı altında toplayan birleşik sinema ve dizi eklentisi.",
-    "fileSize": 1917913,
+    "fileSize": 1917367,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -21,28 +21,6 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png",
     "apiVersion": 1,
-    "fileHash": "sha256-b1bb04127e4b84dfd7d8d85cc72411354018ac3c5d386ee6cf74a9b30cf343a1"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/TurkAnime.cs3",
-    "status": 3,
-    "version": 8,
-    "name": "TurkAnime",
-    "internalName": "TurkAnime",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "TurkAnime · Türkçe Altyazılı & Dublajlı Anime Portalı (Film ve Dizi Destekli)",
-    "fileSize": 58926,
-    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "language": "tr",
-    "tvTypes": [
-      "Anime",
-      "Movie",
-      "TvSeries"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.turkanime.tv&sz=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-7c2d987f4df87e064114d3f2afc4878839bed6dd58ea1d72507dd62a38cae2fe"
+    "fileHash": "sha256-a381d011ba370943ee6f2ecadeb295325f58927c66959267cf2c31505405cb4a"
   }
 ]
