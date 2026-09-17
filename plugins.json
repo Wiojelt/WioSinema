@@ -1,28 +1,18 @@
 [
-    {
-        "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/WioSinema.cs3",
-        "status": 3,
-        "version": 15,
-        "name": "WioSinema",
-        "internalName": "WioSinema",
-        "authors": [
-            "Wiojelt"
-        ],
-        "description": "TMDB v3 Türkçe katalog (23 ayrıştırılmış kategori), Ultra HD afişler, ClipBox/CineStream direkt TMDB motoru ve 70 sağlayıcıyı (TurkAnime, DramaDizilerim, NetShort dahil) tek çatı altında toplayan birleşik sinema ve dizi eklentisi.",
-        "fileSize": 1946985,
-        "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-        "language": "tr",
-        "tvTypes": [
-            "Movie",
-            "TvSeries",
-            "Anime",
-            "Cartoon",
-            "Documentary"
-        ],
-        "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-ef8109303e1552168406d98ecefe31e9ffe3171e3b8f113358f628ded0146100",
-        "filesize": 1946985,
-        "hash": "ef8109303e1552168406d98ecefe31e9ffe3171e3b8f113358f628ded0146100"
-    }
+  {
+    "name": "WioSinema",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/WioSinema.cs3",
+    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "language": "tr",
+    "tvTypes": [
+      "TvSeries",
+      "Movie"
+    ],
+    "status": 1,
+    "apiVersion": 1,
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png",
+    "fileHash": "44a03c3478fbdbbd2c3b8d4a02114a083162a3fd374bc0c288a64cb61715d0c1",
+    "fileSize": 1950807,
+    "version": 16
+  }
 ]
