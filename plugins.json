@@ -2,7 +2,7 @@
   {
     "name": "WioSinema",
     "internalName": "WioSinema",
-    "version": 19,
+    "version": 20,
     "description": "Tüm Türkçe film ve dizi sağlayıcıları tek eklentide. TMDB katalog ve çoklu kaynak akışı.",
     "authors": [
       "Wiojelt"
@@ -17,8 +17,8 @@
     ],
     "language": "tr",
     "status": 3,
-    "fileSize": 1919306,
-    "fileHash": "sha256-264ecf45ad66b982d1a784e4c89ef1f1c344c7a641c6910e6b599b8602598539",
+    "fileSize": 1923242,
+    "fileHash": "sha256-66efdbcbb48b76a7b0f87c78edf0f3c852377acd39c8d387935f4a1b34b8ab57",
     "apiVersion": 1
   }
 ]
