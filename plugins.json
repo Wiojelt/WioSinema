@@ -1,49 +1,67 @@
 [
   {
     "name": "WioSinema",
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/WioSinema.cs3",
-    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "language": "tr",
-    "tvTypes": [
-      "TvSeries",
-      "Movie"
+    "internalName": "WioSinema",
+    "version": 17,
+    "description": "Tüm Türkçe film ve dizi sağlayıcıları tek eklentide. TMDB katalog ve çoklu kaynak akışı.",
+    "authors": [
+      "Wiojelt"
     ],
-    "status": 1,
-    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/WioSinema.cs3",
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png",
-    "fileHash": "fabc1f38eba9eba44833eafb66c7cee5d0881ec5a90bf96658455606351ccdf1",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime"
+    ],
+    "language": "tr",
+    "status": 3,
     "fileSize": 1919310,
-    "version": 17
+    "fileHash": "sha256-717dbdf324a603c77bd9481f73b9b82d8c42a0612620a3ccdb98a9241770b8b0",
+    "apiVersion": 1
   },
   {
     "name": "DramaDizilerim",
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/DramaDizilerim.cs3",
+    "internalName": "DramaDizilerim",
+    "version": 1,
+    "description": "DramaDizilerim · Asya ve Kore dizileri",
+    "authors": [
+      "Wiojelt"
+    ],
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "language": "tr",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/DramaDizilerim.cs3",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/dramadizilerim.png",
     "tvTypes": [
       "TvSeries",
-      "Movie"
+      "Movie",
+      "AsianDrama"
     ],
-    "status": 1,
-    "apiVersion": 1,
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/dramadizilerim.png",
-    "fileHash": "bab209cba987fa45d9d9135e4b5021473f27fbdd30c2cd3a3f302e784a01fb79",
+    "language": "tr",
+    "status": 3,
     "fileSize": 19119,
-    "version": 1
+    "fileHash": "sha256-bab209cba987fa45d9d9135e4b5021473f27fbdd30c2cd3a3f302e784a01fb79",
+    "apiVersion": 1
   },
   {
     "name": "NetShort",
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/NetShort.cs3",
-    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "language": "tr",
-    "tvTypes": [
-      "TvSeries"
+    "internalName": "NetShort",
+    "version": 1,
+    "description": "NetShort · Kısa dikey diziler",
+    "authors": [
+      "Wiojelt"
     ],
-    "status": 1,
-    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/NetShort.cs3",
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/netshort.png",
-    "fileHash": "43cf0849c058483d5a10e4486e41fb748a207d1dbacd7f083be148145143f037",
+    "tvTypes": [
+      "TvSeries",
+      "AsianDrama"
+    ],
+    "language": "tr",
+    "status": 3,
     "fileSize": 29858,
-    "version": 1
+    "fileHash": "sha256-43cf0849c058483d5a10e4486e41fb748a207d1dbacd7f083be148145143f037",
+    "apiVersion": 1
   }
 ]
