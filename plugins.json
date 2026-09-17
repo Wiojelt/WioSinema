@@ -14,5 +14,36 @@
     "fileHash": "44a03c3478fbdbbd2c3b8d4a02114a083162a3fd374bc0c288a64cb61715d0c1",
     "fileSize": 1950807,
     "version": 16
+  },
+  {
+    "name": "DramaDizilerim",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/DramaDizilerim.cs3",
+    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "language": "tr",
+    "tvTypes": [
+      "TvSeries",
+      "Movie"
+    ],
+    "status": 1,
+    "apiVersion": 1,
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/dramadizilerim.png",
+    "fileHash": "bab209cba987fa45d9d9135e4b5021473f27fbdd30c2cd3a3f302e784a01fb79",
+    "fileSize": 19119,
+    "version": 1
+  },
+  {
+    "name": "NetShort",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/NetShort.cs3",
+    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "language": "tr",
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "status": 1,
+    "apiVersion": 1,
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/netshort.png",
+    "fileHash": "43cf0849c058483d5a10e4486e41fb748a207d1dbacd7f083be148145143f037",
+    "fileSize": 29858,
+    "version": 1
   }
 ]
