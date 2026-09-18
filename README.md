@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://t.me/wiolandcs3"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="https://buymeacoffee.com/wiojelt"><img src="https://img.shields.io/badge/Destek_ol-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"></a>
+  <a href="https://kreosus.com/wiojelt"><img src="https://img.shields.io/badge/Destek_ol-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black" alt="Kreosus"></a>
   <img src="https://img.shields.io/badge/made_with-%E2%99%A5-c394d5?style=flat" alt="made with ♥">
   <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin"></a>
 </p>
@@ -73,8 +73,8 @@ https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/repo.json
 Eklentinin geliştirilmesine katkıda bulunmak ve yeni özelliklerin gelmesini desteklemek için:
 
 <p align="center">
-  <a href="https://buymeacoffee.com/wiojelt">
-    <img src="assets/support-qr.png" width="120" alt="Buy Me a Coffee QR"><br>
+  <a href="https://kreosus.com/wiojelt">
+    <img src="assets/support-qr.png" width="120" alt="Kreosus QR"><br>
     <strong>Bir kahveyle destek ol ☕</strong>
   </a>
 </p>
