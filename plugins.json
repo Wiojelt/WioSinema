@@ -1,25 +1,23 @@
-[
-  {
-    "name": "WioSinema",
-    "internalName": "WioSinema",
-    "version": 28,
-    "description": "Tüm Türkçe film ve dizi sağlayıcıları tek eklentide. TMDB katalog ve çoklu kaynak akışı.",
-    "authors": [
-      "Wiojelt"
-    ],
-    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/WioSinema.cs3",
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime"
-    ],
-    "language": "tr",
-    "status": 3,
-    "fileSize": 1695166,
-    "fileHash": "sha256-b288b96e51f8c90fa4e8db63c4393022c19aaf48eea708bf9a469e1071fcb623",
-    "apiVersion": 1,
-    "hash": "b288b96e51f8c90fa4e8db63c4393022c19aaf48eea708bf9a469e1071fcb623"
-  }
-]
+{
+  "name": "WioSinema",
+  "internalName": "WioSinema",
+  "version": 29,
+  "description": "Tüm Türkçe film ve dizi sağlayıcıları tek eklentide. TMDB katalog ve çoklu kaynak akışı.",
+  "authors": [
+    "Wiojelt"
+  ],
+  "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+  "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/WioSinema.cs3",
+  "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png",
+  "tvTypes": [
+    "Movie",
+    "TvSeries",
+    "Anime"
+  ],
+  "language": "tr",
+  "status": 3,
+  "fileSize": 1694140,
+  "fileHash": "sha256-7824040440892e3a403127fd591a8bc6f689d59cb8e727980c53d50ec203982e",
+  "apiVersion": 1,
+  "hash": "7824040440892e3a403127fd591a8bc6f689d59cb8e727980c53d50ec203982e"
+}
