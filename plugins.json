@@ -1,25 +1,22 @@
-[
-  {
-    "name": "WioSinema",
-    "internalName": "WioSinema",
-    "version": 37,
-    "description": "Tüm Türkçe film ve dizi sağlayıcıları tek eklentide. TMDB katalog ve çoklu kaynak akışı.",
-    "authors": [
-      "Wiojelt"
-    ],
-    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/555ad373cf02c905748f250651ec16a174b45769/WioSinema.cs3",
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime"
-    ],
-    "language": "tr",
-    "status": 3,
-    "fileSize": 2038328,
-    "fileHash": "sha256-d87fa35abdd4efbd60eec13f14f2854c78c6a21314d6d69ad9a7f70365c705df",
-    "apiVersion": 1,
-    "hash": "d87fa35abdd4efbd60eec13f14f2854c78c6a21314d6d69ad9a7f70365c705df"
-  }
-]
+{
+  "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/7210a26b2bb234eb5ed4f5fc1a4b1991cb10c198/WioSinema.cs3",
+  "status": 3,
+  "version": 38,
+  "name": "WioSinema",
+  "internalName": "WioSinema",
+  "authors": [
+    "Wiojelt"
+  ],
+  "description": "Tum Turkce film ve dizi saglayicilari tek eklentide. TMDB katalog ve coklu kaynak akisi.",
+  "fileSize": 2037947,
+  "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+  "language": "tr",
+  "tvTypes": [
+    "Movie",
+    "TvSeries",
+    "Anime"
+  ],
+  "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png",
+  "apiVersion": 1,
+  "fileHash": "sha256-08c4c59684012f11f3ac9fc48dc66347905dcef0a8b3531b9f70aadaf33fb724"
+}
