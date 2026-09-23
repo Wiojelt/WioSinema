@@ -9,7 +9,7 @@
       "Wiojelt"
     ],
     "description": "Tum Turkce film ve dizi saglayicilari tek eklentide. TMDB katalog ve coklu kaynak akisi.",
-    "fileSize": 2037156,
+    "fileSize": 2037781,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -18,7 +18,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png",
     "apiVersion": 1,
-    "fileHash": "sha256-87b79ba3c8cffc50038a5eb1a7bd38ff1d689952d3e65d1c5f5031c184956ab2"
+    "fileHash": "sha256-aba5a52d8e1462300998287fba88c19d2f53bf12ea4d35c8b10e5976b90a5926"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/AltiYuzAltmisAltiFilmIzle.cs3",
