@@ -67,95 +67,6 @@
     "fileHash": "sha256-312d97f42254d0ff8e9f0ea7d46caac2b185acf95a806bfae060dd69282cabea"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/BingeBang.cs3",
-    "status": 3,
-    "version": 1,
-    "name": "BingeBang",
-    "internalName": "BingeBang",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "BingeBang - Film ve Dizi Portali (bingebang.tv). 4K Ultra HD ve Full HD HLS akislari.",
-    "fileSize": 93535,
-    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "language": "all",
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "iconUrl": "https://bingebang.tv/icon-512.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-7341e06faf8a606d2f6a040c6e2bf3eb50dd3c9ecff842be6b8ef36e15234105"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/CineCat.cs3",
-    "status": 3,
-    "version": 2,
-    "name": "CineCat",
-    "internalName": "CineCat",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "Cinecat · Dizi & Film Portalı (cinecat.eu)",
-    "fileSize": 795677,
-    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "language": "all",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime"
-    ],
-    "iconUrl": "https://cinecat.eu/android-chrome-192x192.png?v=3",
-    "apiVersion": 1,
-    "fileHash": "sha256-44d7f4c8bfe701e1dbe8c0c179b280af83b6cf7c974f44b38394386f54fd8255"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/CineSimkl.cs3",
-    "status": 3,
-    "version": 7,
-    "name": "CineSimkl",
-    "internalName": "CineSimkl",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "CineSimkl · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 795245,
-    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=simkl.com&sz=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-6d4d08359f1e44096168c23d344e89efcfd890865911b55d3a83525ec5b67917"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/CineStream.cs3",
-    "status": 3,
-    "version": 7,
-    "name": "CineStream",
-    "internalName": "CineStream",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "CineStream · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 795293,
-    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/master/CineStream/icon.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-bc31ddaa5343a29911f1948e2696a991b25f6f31f3621c4aa73e0dc5b14812d8"
-  },
-  {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/CizgiMax.cs3",
     "status": 3,
     "version": 7,
@@ -177,29 +88,6 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=cizgimax.online&sz=128",
     "apiVersion": 1,
     "fileHash": "sha256-36b514016207bcd4de4cc57a1f8345bd995169af3abf8e2e25c301a271e45148"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/ClipBox.cs3",
-    "status": 3,
-    "version": 7,
-    "name": "ClipBox",
-    "internalName": "ClipBox",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "Clip Box · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 801214,
-    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/ClipBox.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-bb4bc1f0da087697517a6de25093837ef57237168d767aced48cc7e0e4937623"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/CNCVerseDisneyPlus.cs3",
@@ -638,29 +526,6 @@
     "fileHash": "sha256-010a18919095b23ed99de07921b33328bb66e573711bf517f4d78cdcc6af0077"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/FlixNetwork.cs3",
-    "status": 3,
-    "version": 7,
-    "name": "FlixNetwork",
-    "internalName": "FlixNetwork",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "Flix Network · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 81086,
-    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=flixnetwork.is&sz=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-2e749e8636248427453a25b848811d516c12a8d5db91df692f19b051915e6d50"
-  },
-  {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/FullHDFilm.cs3",
     "status": 3,
     "version": 7,
@@ -911,28 +776,6 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=liderfilmizle.com&sz=128",
     "apiVersion": 1,
     "fileHash": "sha256-2fd54a9b47e9e01df0eaaa81478b54927f4dc60d4f2df114a9ce1787eb89b69e"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/Mapple.cs3",
-    "status": 3,
-    "version": 3,
-    "name": "Mapple",
-    "internalName": "Mapple",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "Mapple - Stream Movies, TV Shows & Anime in HD/4K (mapple.fun). Multi-source HLS streams.",
-    "fileSize": 103277,
-    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "language": "all",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/test/builds/logos/mapple.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-af323f282d7a07952774bb985751fb6a23e6ab1e6c81cbd07f2fe56d00a6e5d5"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/NetFilmizle.cs3",
@@ -1207,29 +1050,6 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=trdiziizle.tv&sz=128",
     "apiVersion": 1,
     "fileHash": "sha256-6c397a5ef895f729a3a1dabf9112a36e0d26e14ee357d9b0d0c6ccaa11b65077"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/Watch2Movies.cs3",
-    "status": 3,
-    "version": 7,
-    "name": "Watch2Movies",
-    "internalName": "Watch2Movies",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "Watch2 Movies · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 85339,
-    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=movies2watch.watch&sz=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-10f8bb17f60920d7d54ced2dc892a1a99f3f8372b712a225367d371f5ff0d99e"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/WebteIzle.cs3",
