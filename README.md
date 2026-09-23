@@ -7,7 +7,7 @@
 
 <h1 align="center">🎬 WioSinema</h1>
 
-<p align="center">CloudStream için TMDB v3 Türkçe Katalog, ClipBox/CineStream Direkt Resolver ve 66 Sağlayıcı Akış Toplayıcı Destekli Birleşik Sinema & Dizi Eklentisi</p>
+<p align="center">CloudStream için TMDB v3 Türkçe katalog ve seçilebilir çoklu kaynak desteğine sahip birleşik sinema ve dizi eklentisi.</p>
 
 <p align="center">
   <a href="https://t.me/wiolandcs3"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram"></a>
@@ -43,9 +43,8 @@ https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/repo.json
 - 🎬 **TMDB v3 Türkçe Katalog:** 23 ayrıştırılmış kategori (Trend Filmler, Popüler Diziler, Vizyondakiler, Türk Sineması, Yerli Diziler ve daha fazlası).
 - ⭐ **Canlı IMDb Puan Rozetleri:** Afişlerin üzerinde doğrudan puan göstergesi.
 - 👥 **Detaylı Oyuncu Kadrosu & Özetler:** Türkçe sinopsis, oyuncu fotoğrafları, tür etiketleri ve fragmanlar.
-- 🪄 **İlk Kurulum Sihirbazı:** İlk açılışta TV Box Modu veya Standart Mod seçimi ile optimize başlangıç.
 - 📺 **TV Box Modu:** Zayıf donanımlı Android TV cihazları için eşzamanlı istek kısıtlama ve bellek koruması.
-- ⚙️ **Gelişmiş Sağlayıcı Yönetimi:** 66 sağlayıcının tamamı tek tıkla 'Tümünü Aç', 'Önerilenler' veya özel olarak açılıp kapatılabilir.
+- ⚙️ **Gelişmiş Sağlayıcı Yönetimi:** Sağlayıcılar Türk/yabancı gruplarıyla veya tek tek açılıp kapatılabilir; StreamXTV yabancı kaynaklar arasındadır.
 
 ---
 
@@ -58,13 +57,15 @@ https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/repo.json
 
 ---
 
-## 🔌 Desteklenen Tüm Sağlayıcılar (58)
+## 🔌 Sağlayıcı Grupları
 
 | Tür | Sayı | Sağlayıcılar |
 |-----|------|-------------|
-| ⚡ **Direkt TMDB / Hızlı Akış** | 8 | ClipBox • TurkSinema, CineStream, CineSimkl, FlixNetwork, Disney+ Mirror, Netflix Mirror, Prime Video Mirror, HotStar Mirror |
+| ⚡ **Direkt TMDB / Hızlı Akış** | — | ClipBox, CineStream, CineSimkl, FlixNetwork ve seçili uluslararası kaynaklar |
 | 🍿 **Sinema & Film Sağlayıcıları** | 24 | FilmMakinesi, HDFilmCehennemi, HDFilmCehennemi Alternatif, FilmModu, FullHDFilm, FullHDFilmizlesene, InatBox, JetFilmizle, SetFilmIzle, WebteIzle, HDFilmDelisi, 666Filmİzle, Kült Filmler, RareFilmm, SinemaCX, Sinewix, Sinemakolik, NetFilmizle, HDFilmizleBest, HDFilmİzle Vip, Filmİzzle, LiderFilm, Watch2Movies, Internet Archive |
-| 📺 **Dizi, Belgesel & Anime** | 25 | Dizilla, DiziBox, DiziBox Alternatif, DiziPal, DiziPal Original, SezonlukDizi, DiziMom, DiziYou, DiziKorea, DDizi, DDizi Alternatif, YabancıDizi, TrDiziİzle, DiziBal, DiziRella, DiziBol, DiziFilm, AnimeciX, TurkAnime, AsyaAnimeleri, BelgeselX, CizgiMax, TRanimaci, TRasyalog, TLCTR |
+| 📺 **Dizi & Belgesel** | — | Dizilla, DiziBox, DiziPal, SezonlukDizi, DDizi, YabancıDizi, BelgeselX ve diğer etkin kaynaklar |
+
+Anime kaynakları **WioAnime**, Asya dizileri **WioAsya**, kısa dramalar **WioDrama** deposuna taşınmıştır.
 
 ---
 
