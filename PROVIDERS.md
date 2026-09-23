@@ -1,6 +1,6 @@
 # Sağlayıcılar
 
-Derleme sırasında 60 ayrı indirilebilir eklenti paketi bulunur. Yanıt vermeyen ve doğrulanabilir güncel adresi bulunamayan RecTV ve StreamXTV paketleri katalogdan çıkarılmıştır.
+Derleme sırasında 58 ayrı indirilebilir eklenti paketi bulunur. WioSinema ana sağlayıcısı listenin başındadır; diğer sinema sağlayıcıları ayrı indirilebilir paketler olarak altında yer alır.
 
 ## SalooRepo — 29
 
