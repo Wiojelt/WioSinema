@@ -1209,26 +1209,6 @@
     "fileHash": "sha256-6c397a5ef895f729a3a1dabf9112a36e0d26e14ee357d9b0d0c6ccaa11b65077"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/TurkSinemaDestek.cs3",
-    "status": 1,
-    "version": 1,
-    "name": "TurkSinemaDestek",
-    "internalName": "TurkSinemaDestek",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "TurkSinema'ya destek ol ☕ · @wiojelt · made with ♥",
-    "fileSize": 4401,
-    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "language": "tr",
-    "tvTypes": [
-      "Others"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/support-qr.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-aa2da2374532ed5388d754fd01b74d928aa79edf3322eb5ffa7270d8f625f4ec"
-  },
-  {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/Watch2Movies.cs3",
     "status": 3,
     "version": 7,
