@@ -1,5 +1,5 @@
 {
-  "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/7210a26b2bb234eb5ed4f5fc1a4b1991cb10c198/WioSinema.cs3",
+  "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/8060942a402bc0ebda26bc6488e091202640edc9/WioSinema.cs3",
   "status": 3,
   "version": 38,
   "name": "WioSinema",
@@ -8,15 +8,14 @@
     "Wiojelt"
   ],
   "description": "Tum Turkce film ve dizi saglayicilari tek eklentide. TMDB katalog ve coklu kaynak akisi.",
-  "fileSize": 2037947,
+  "fileSize": 2037871,
   "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
   "language": "tr",
   "tvTypes": [
     "Movie",
-    "TvSeries",
-    "Anime"
+    "TvSeries"
   ],
   "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png",
   "apiVersion": 1,
-  "fileHash": "sha256-08c4c59684012f11f3ac9fc48dc66347905dcef0a8b3531b9f70aadaf33fb724"
+  "fileHash": "sha256-c0830184c8e0cf206806d1688a0e7fd8f676b5210c9c24faed5b1b4369de7f7f"
 }
