@@ -108,3 +108,5 @@ jobs:
             git -C main -c commit.gpgsign=false commit --allow-empty-message -m ""
             git -C main push origin HEAD:main
           fi
+
+# publish-trigger
