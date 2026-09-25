@@ -36,7 +36,7 @@ Derleme sırasında 58 ayrı indirilebilir eklenti paketi bulunur. WioSinema ana
 
 ## BronzeCloud — 7
 
-30. CineStream
+30. CineStream — harici upstream paket (`SaurabhKaperwan/CSX`), WioSinema tarafından yeniden derlenmez
 31. CineSimkl
 32. DiziPalOriginal
 34. HDFilmDelisi
