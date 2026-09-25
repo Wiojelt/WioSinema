@@ -39,7 +39,7 @@ https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/repo.json
 
 ## 🌟 Öne Çıkan Özellikler
 
-- ⚡ **ClipBox & CineStream Direkt TMDB Motoru:** Arama motoruna takılmadan doğrudan TMDB kimliği üzerinden 1080p yüksek hızlı link çözer.
+- ⚡ **ClipBox Direkt TMDB Motoru + Harici CineStream:** WioSinema kendi CineStream kopyasını derlemez; CineStream depoda doğrudan `SaurabhKaperwan/CSX` upstream `.cs3` bağlantısıyla sunulur.
 - 🎬 **TMDB v3 Türkçe Katalog:** 23 ayrıştırılmış kategori (Trend Filmler, Popüler Diziler, Vizyondakiler, Türk Sineması, Yerli Diziler ve daha fazlası).
 - ⭐ **Canlı IMDb Puan Rozetleri:** Afişlerin üzerinde doğrudan puan göstergesi.
 - 👥 **Detaylı Oyuncu Kadrosu & Özetler:** Türkçe sinopsis, oyuncu fotoğrafları, tür etiketleri ve fragmanlar.
@@ -61,7 +61,7 @@ https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/repo.json
 
 | Tür | Sayı | Sağlayıcılar |
 |-----|------|-------------|
-| ⚡ **Direkt TMDB / Hızlı Akış** | — | ClipBox, CineStream, CineSimkl, FlixNetwork ve seçili uluslararası kaynaklar |
+| ⚡ **Direkt TMDB / Hızlı Akış** | — | ClipBox; CineStream *(harici CSX upstream paketi)*; CineSimkl, FlixNetwork ve seçili uluslararası kaynaklar |
 | 🍿 **Sinema & Film Sağlayıcıları** | 24 | FilmMakinesi, HDFilmCehennemi, HDFilmCehennemi Alternatif, FilmModu, FullHDFilm, FullHDFilmizlesene, InatBox, JetFilmizle, SetFilmIzle, WebteIzle, HDFilmDelisi, 666Filmİzle, Kült Filmler, RareFilmm, SinemaCX, Sinewix, Sinemakolik, NetFilmizle, HDFilmizleBest, HDFilmİzle Vip, Filmİzzle, LiderFilm, Watch2Movies, Internet Archive |
 | 📺 **Dizi & Belgesel** | — | Dizilla, DiziBox, DiziPal, SezonlukDizi, DDizi, YabancıDizi, BelgeselX ve diğer etkin kaynaklar |
 
