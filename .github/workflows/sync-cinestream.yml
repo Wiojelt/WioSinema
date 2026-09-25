@@ -1,0 +1,89 @@
+name: Sync upstream CineStream
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */6 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-upstream-cinestream
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Mirror CineStream catalogue metadata from CSX
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          upstream="$RUNNER_TEMP/csx-plugins.json"
+          builds_dir="$RUNNER_TEMP/wiosinema-builds"
+
+          curl -fsSL             "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/plugins.json"             -o "$upstream"
+
+          git fetch origin builds
+          git worktree add "$builds_dir" origin/builds
+
+          python - "$upstream" "$builds_dir/plugins.json" "$builds_dir/repo.json" <<'PY'
+          import json
+          import sys
+          from pathlib import Path
+
+          upstream_path = Path(sys.argv[1])
+          plugins_path = Path(sys.argv[2])
+          repo_path = Path(sys.argv[3])
+
+          upstream = json.loads(upstream_path.read_text(encoding="utf-8"))
+          cine = next((row for row in upstream if row.get("internalName") == "CineStream"), None)
+          if cine is None:
+              raise SystemExit("CineStream missing from upstream CSX plugins.json")
+
+          expected = "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3"
+          if cine.get("url") != expected:
+              raise SystemExit(f"Unexpected CineStream URL: {cine.get('url')}")
+
+          rows = json.loads(plugins_path.read_text(encoding="utf-8"))
+          rows = [row for row in rows if row.get("internalName") != "CineStream"]
+
+          aggregate = [row for row in rows if row.get("internalName") == "WioSinema"]
+          others = [row for row in rows if row.get("internalName") != "WioSinema"]
+          others.append(cine)
+          others.sort(key=lambda row: str(row.get("internalName", "")).casefold())
+
+          plugins_path.write_text(
+              json.dumps(aggregate + others, ensure_ascii=False, indent=2) + "\n",
+              encoding="utf-8",
+          )
+
+          repo = json.loads(repo_path.read_text(encoding="utf-8"))
+          digest = str(cine.get("fileHash", "")).removeprefix("sha256-")[:12]
+          repo["pluginLists"] = [
+              "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/"
+              f"plugins.json?v=cinestream-{cine.get('version')}-{digest}"
+          ]
+          repo_path.write_text(
+              json.dumps(repo, ensure_ascii=False, indent=2) + "\n",
+              encoding="utf-8",
+          )
+          PY
+
+          # WioSinema must never host its own CineStream binary.
+          rm -f "$builds_dir/CineStream.cs3"
+
+          git -C "$builds_dir" config user.name "github-actions[bot]"
+          git -C "$builds_dir" config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git -C "$builds_dir" add -A
+
+          if ! git -C "$builds_dir" diff --cached --quiet; then
+            git -C "$builds_dir" -c commit.gpgsign=false commit -m "Sync CineStream from upstream CSX"
+            git -C "$builds_dir" push origin HEAD:builds
+          fi
