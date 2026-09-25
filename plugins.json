@@ -68,6 +68,30 @@
     "fileHash": "sha256-312d97f42254d0ff8e9f0ea7d46caac2b185acf95a806bfae060dd69282cabea"
   },
   {
+    "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
+    "status": 1,
+    "version": 487,
+    "name": "CineStream",
+    "internalName": "CineStream",
+    "authors": [
+      "megix"
+    ],
+    "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
+    "fileSize": 695013,
+    "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
+    "language": "en",
+    "tvTypes": [
+      "TvSeries",
+      "Movie",
+      "AsianDrama",
+      "Anime",
+      "Torrent"
+    ],
+    "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-30dc643628702d6b2fe139339e59996783c95a0c1d41efe0a31872ae4d10908b"
+  },
+  {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/CizgiMax.cs3",
     "status": 3,
     "version": 7,
