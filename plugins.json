@@ -2,14 +2,14 @@
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/WioSinema.cs3",
     "status": 3,
-    "version": 40,
+    "version": 41,
     "name": "0 WioSinema",
     "internalName": "WioSinema",
     "authors": [
       "Wiojelt"
     ],
     "description": "Tum Turkce film ve dizi saglayicilari tek eklentide. TMDB katalog ve coklu kaynak akisi.",
-    "fileSize": 2033752,
+    "fileSize": 2035491,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -18,8 +18,8 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png",
     "apiVersion": 1,
-    "fileHash": "sha256-ad9f23027a5a8d899a448aa1a9af721170615f2fd74bd5199d87256a6908afa6",
-    "hash": "ad9f23027a5a8d899a448aa1a9af721170615f2fd74bd5199d87256a6908afa6"
+    "fileHash": "sha256-66982ed92116482a67333e04be8ed4d39e0b919991f3112d2250a39141ac2886",
+    "hash": "66982ed92116482a67333e04be8ed4d39e0b919991f3112d2250a39141ac2886"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/AltiYuzAltmisAltiFilmIzle.cs3",
@@ -346,14 +346,14 @@
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/DiziPal.cs3",
     "status": 3,
-    "version": 9,
+    "version": 10,
     "name": "DiziPal",
     "internalName": "DiziPal",
     "authors": [
       "Wiojelt"
     ],
     "description": "Dizi Pal · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 91059,
+    "fileSize": 98699,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -364,7 +364,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DiziPal.png",
     "apiVersion": 1,
-    "fileHash": "sha256-4ea022ef016564670d3afbbffd33248cc96c2cf2a56c764b5dc2da2be7c21051"
+    "fileHash": "sha256-897f13fbb920e9ad0c57950a8d8ed860e4957d9c278e971c31ebeee562658c5f"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/DiziPalOriginal.cs3",
@@ -552,14 +552,14 @@
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/FullHDFilmizlesene.cs3",
     "status": 3,
-    "version": 7,
+    "version": 8,
     "name": "FullHDFilmizlesene",
     "internalName": "FullHDFilmizlesene",
     "authors": [
       "Wiojelt"
     ],
     "description": "Full H D Filmizlesene · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 101920,
+    "fileSize": 99809,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -570,7 +570,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.now&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-1d7eb3b63ace7a4bf82ddf3236f13b1a7e29707edf765d1ad16c244bb6584d3c"
+    "fileHash": "sha256-029a2a80564f6de9ca57d3578023784f92cd483113f1b274bb8c4363769b7d13"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/HDFilmCehennemi.cs3",
