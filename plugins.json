@@ -321,29 +321,6 @@
     "fileHash": "sha256-01d7f0c4031ed4383477b79686bb7cf4851d2ee5fd2eacc02f19d81108afecd7"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/DiziMom.cs3",
-    "status": 3,
-    "version": 8,
-    "name": "DiziMom",
-    "internalName": "DiziMom",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "Dizi Mom · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 95150,
-    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DiziMom.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-00d7100f89b87a2cb7e25280e24ee38c8fc2613d262c468ff76aec4d2d8872c6"
-  },
-  {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/DiziPal.cs3",
     "status": 3,
     "version": 10,
@@ -571,29 +548,6 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.now&sz=128",
     "apiVersion": 1,
     "fileHash": "sha256-029a2a80564f6de9ca57d3578023784f92cd483113f1b274bb8c4363769b7d13"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/HDFilmCehennemi.cs3",
-    "status": 3,
-    "version": 7,
-    "name": "HDFilmCehennemi",
-    "internalName": "HDFilmCehennemi",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "H D Film Cehennemi · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 92497,
-    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.hdfilmcehennemi.nl&sz=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-a8a3ea4b43dde7638f4813dee595fe861bdd009cbb0bf4174607c7938670d92b"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/HDFilmDelisi.cs3",
@@ -959,29 +913,6 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=sinema.gg&sz=128",
     "apiVersion": 1,
     "fileHash": "sha256-0ee0b38cc36638dd5807770c8ee03a75dfecb431b6211cd6c0fe3dbb53a5ec93"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/Sinemakolik.cs3",
-    "status": 3,
-    "version": 1,
-    "name": "Sinemakolik",
-    "internalName": "Sinemakolik",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "Sinemakolik · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 91109,
-    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=sinemakolik.com&sz=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-356178c41fa923d317f673e6581445a049932286d988d1cb51615b6086337ebe"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/Sinewix.cs3",
