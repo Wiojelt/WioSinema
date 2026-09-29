@@ -2,7 +2,7 @@
   {
     "name": "0 WioSinema",
     "internalName": "WioSinema",
-    "version": 44,
+    "version": 45,
     "description": "WioSinema - Tüm Türkçe film ve dizi sağlayıcıları tek katalogda (33 Kaynak). Hızlı anlık akış motoru.",
     "authors": [
       "Wiojelt"
@@ -17,8 +17,8 @@
     ],
     "language": "tr",
     "status": 3,
-    "fileSize": 2101481,
-    "fileHash": "sha256-a899c9fc8acf5aa06933a7ff4a7c9909a69f264c710371d9ecc76004e614051f",
+    "fileSize": 2100549,
+    "fileHash": "sha256-611ae9a0f8f6d0829f062cec81da7974550eef21726989a10551229ec8324ed9",
     "apiVersion": 1
   },
   {
