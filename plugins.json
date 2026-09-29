@@ -1,5 +1,51 @@
 [
   {
+    "name": "0 WioSinema",
+    "internalName": "WioSinema",
+    "version": 33,
+    "description": "WioSinema · Tüm Türkçe film ve dizi sağlayıcıları tek katalogda. TMDB eşleşmeli hızlı akıcı oynatıcı.",
+    "authors": [
+      "Wiojelt"
+    ],
+    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/WioSinema.cs3",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime"
+    ],
+    "language": "tr",
+    "status": 3,
+    "fileSize": 1692333,
+    "fileHash": "sha256-7b90e5568d9755d133807e1727a2ec43dafa4091d78e5e4297fb3975da006c8f",
+    "apiVersion": 1
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/TurkishCineStream.cs3",
+    "status": 1,
+    "version": 6,
+    "name": "1 TurkishCineStream",
+    "internalName": "TurkishCineStream",
+    "authors": [
+      "Wiojelt",
+      "megix"
+    ],
+    "description": "CineStream video motoru + Türkçe çoklu altyazı motoru + upstream CineStream ayar paneli",
+    "fileSize": 391581,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioCinema/main/assets/providers/turkishcinestream.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-e6f3262d9a448365068ce7c4a67baafb147bfbb06f0f8e637aeeb77d13113b53"
+  },
+  {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/BelgeselX.cs3",
     "status": 3,
     "version": 7,
@@ -67,29 +113,6 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.live&sz=128",
     "apiVersion": 1,
     "fileHash": "sha256-6b1108148d4abdf825f52bc265b1197180d177efa2e638601ac124996945c821"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/Dizilla.cs3",
-    "status": 3,
-    "version": 7,
-    "name": "Dizilla",
-    "internalName": "Dizilla",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "Dizilla · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 49450,
-    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-82add9e9517714bc9e5c368569622d036460a18fa9a304eac076a5983720a958"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/DiziMom.cs3",
@@ -182,6 +205,29 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.diziyou.one&sz=128",
     "apiVersion": 1,
     "fileHash": "sha256-6a2a074287bf4593a6d391f5e5192c92daab8278e168409764564324ef0c10d4"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/Dizilla.cs3",
+    "status": 3,
+    "version": 7,
+    "name": "Dizilla",
+    "internalName": "Dizilla",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Dizilla · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 49450,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-82add9e9517714bc9e5c368569622d036460a18fa9a304eac076a5983720a958"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/Dmax.cs3",
@@ -680,30 +726,6 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=trdiziizle.tv&sz=128",
     "apiVersion": 1,
     "fileHash": "sha256-e3a520cef520c88af32a2fc2e022d8b9d93675402b7bbd8366a82e2192e3c8c5"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/TurkishCineStream.cs3",
-    "status": 1,
-    "version": 6,
-    "name": "TurkishCineStream",
-    "internalName": "TurkishCineStream",
-    "authors": [
-      "Wiojelt",
-      "megix"
-    ],
-    "description": "CineStream video motoru + Türkçe çoklu altyazı motoru + upstream CineStream ayar paneli",
-    "fileSize": 391581,
-    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "AsianDrama"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioCinema/main/assets/providers/turkishcinestream.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-e6f3262d9a448365068ce7c4a67baafb147bfbb06f0f8e637aeeb77d13113b53"
   },
   {
     "internalName": "TvDiziler",
