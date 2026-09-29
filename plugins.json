@@ -1,50 +1,5 @@
 [
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/WioSinema.cs3",
-    "status": 3,
-    "version": 48,
-    "name": "0 WioSinema",
-    "internalName": "WioSinema",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "Tum Turkce film ve dizi saglayicilari tek eklentide. TMDB katalog ve coklu kaynak akisi.",
-    "fileSize": 2000429,
-    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-665b15493de5e6d0f4accf4b05ff1ff098b53a4d8a488ac23656d32f6e905943",
-    "hash": "665b15493de5e6d0f4accf4b05ff1ff098b53a4d8a488ac23656d32f6e905943"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/AltiYuzAltmisAltiFilmIzle.cs3",
-    "status": 3,
-    "version": 8,
-    "name": "AltiYuzAltmisAltiFilmIzle",
-    "internalName": "AltiYuzAltmisAltiFilmIzle",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "Alti Yuz Altmis Alti Film Izle · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 73813,
-    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/AltiYuzAltmisAltiFilmIzle.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-5d160778529fd3bd3af9f0be97ffcdacb8c58f75a7b5fb8a0b5ed745f2db69ab"
-  },
-  {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/BelgeselX.cs3",
     "status": 3,
     "version": 7,
@@ -54,7 +9,7 @@
       "Wiojelt"
     ],
     "description": "Belgesel X · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 90436,
+    "fileSize": 86029,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -65,122 +20,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=belgeselx.com&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-312d97f42254d0ff8e9f0ea7d46caac2b185acf95a806bfae060dd69282cabea"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/CizgiMax.cs3",
-    "status": 3,
-    "version": 7,
-    "name": "CizgiMax",
-    "internalName": "CizgiMax",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "Cizgi Max · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 95874,
-    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=cizgimax.online&sz=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-36b514016207bcd4de4cc57a1f8345bd995169af3abf8e2e25c301a271e45148"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/CNCVerseDisneyPlus.cs3",
-    "status": 3,
-    "version": 8,
-    "name": "CNCVerseDisneyPlus",
-    "internalName": "CNCVerseDisneyPlus",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "Disney Plus · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 118218,
-    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/CNCVerse.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-f55e9e88c506cdc6e2d2696161e00ff9a599f1fba2680d2c02ff10bebc4f80f6"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/CNCVerseHotstar.cs3",
-    "status": 3,
-    "version": 8,
-    "name": "CNCVerseHotstar",
-    "internalName": "CNCVerseHotstar",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "Hotstar Mirror · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 118237,
-    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/CNCVerse.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-7d551e3b48ba8ade7ec9b393c6f569d5a5bb9138106bbadb3eff52fa7352a025"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/CNCVerseNetflix.cs3",
-    "status": 3,
-    "version": 8,
-    "name": "CNCVerseNetflix",
-    "internalName": "CNCVerseNetflix",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "Netflix Mirror · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 118219,
-    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/CNCVerse.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-30d70686dabe4cff95399869826c592b3802754142277d95fef984982c99ac7a"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/CNCVersePrimeVideo.cs3",
-    "status": 3,
-    "version": 8,
-    "name": "CNCVersePrimeVideo",
-    "internalName": "CNCVersePrimeVideo",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "Prime Video Mirror · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 118207,
-    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/CNCVerse.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-c20e2ef90bab2d24661d8226d72c27f38be451276c0918898c6faf2e58c2834c"
+    "fileHash": "sha256-546755a46bdf56d241bff8a1ca936aca9d402e3e3a6d6d7d80db7dd5ba1f73a7"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/DDizi.cs3",
@@ -192,7 +32,7 @@
       "Wiojelt"
     ],
     "description": "D Dizi · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 81497,
+    "fileSize": 33277,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -203,53 +43,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.ddizi.im&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-5ab6621531e24e1b3ad9af0c15d0eb4f215b5682000d8aa6aa20292e3ceabee4"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/DiziBal.cs3",
-    "status": 3,
-    "version": 7,
-    "name": "DiziBal",
-    "internalName": "DiziBal",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "DiziBal · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 102396,
-    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=dizibal.com&sz=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-41c1e4a15a4052c9b70183949ede3a95a11c074c1dd7f4231536633e506d81a5"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/DiziBol.cs3",
-    "status": 3,
-    "version": 7,
-    "name": "DiziBol",
-    "internalName": "DiziBol",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "DiziBol · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 102402,
-    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=dizibol.com&sz=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-86071d5e1ae6d95f0fb9ac423b9e5a75fe2062c9fbb70166f3addd7f5ca605ee"
+    "fileHash": "sha256-dd034c8f781e8f98583744bd4b81d854ef358fca593745fbdf6935f173102464"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/DiziBox.cs3",
@@ -261,7 +55,7 @@
       "Wiojelt"
     ],
     "description": "Dizi Box · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 83738,
+    "fileSize": 35833,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -272,30 +66,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.live&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-bfbd3fe0579e68e4856c6795d7e8bd0131a8acfc915678daa9e5e7725bfd6263"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/DiziFilmIzle.cs3",
-    "status": 3,
-    "version": 8,
-    "name": "DiziFilmIzle",
-    "internalName": "DiziFilmIzle",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "DiziFilmİzle · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 102424,
-    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DiziFilmIzle.jpg",
-    "apiVersion": 1,
-    "fileHash": "sha256-051b9ecd29b218d3b448eb30833b8eddfa3d8f46ee13a57c8479fcb7e8135da4"
+    "fileHash": "sha256-6b1108148d4abdf825f52bc265b1197180d177efa2e638601ac124996945c821"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/Dizilla.cs3",
@@ -307,7 +78,7 @@
       "Wiojelt"
     ],
     "description": "Dizilla · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 96040,
+    "fileSize": 49450,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -318,19 +89,42 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-01d7f0c4031ed4383477b79686bb7cf4851d2ee5fd2eacc02f19d81108afecd7"
+    "fileHash": "sha256-82add9e9517714bc9e5c368569622d036460a18fa9a304eac076a5983720a958"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/DiziMom.cs3",
+    "status": 3,
+    "version": 8,
+    "name": "DiziMom",
+    "internalName": "DiziMom",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Dizi Mom · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 48079,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DiziMom.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-d6d9580ac2918b52643067d6f81e3c4c6178dddaceb911b4f8fdc775b140d5b8"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/DiziPal.cs3",
     "status": 3,
-    "version": 10,
+    "version": 8,
     "name": "DiziPal",
     "internalName": "DiziPal",
     "authors": [
       "Wiojelt"
     ],
     "description": "Dizi Pal · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 98699,
+    "fileSize": 33181,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -341,30 +135,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DiziPal.png",
     "apiVersion": 1,
-    "fileHash": "sha256-897f13fbb920e9ad0c57950a8d8ed860e4957d9c278e971c31ebeee562658c5f"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/DiziPalOriginal.cs3",
-    "status": 3,
-    "version": 8,
-    "name": "DiziPalOriginal",
-    "internalName": "DiziPalOriginal",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "Dizi Pal Original · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 90700,
-    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=dizipal2123.com&sz=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-6f8987f454208f5a8a4d70381e6ff7c66f670fd7989d6ba03d29f26de9be0b29"
+    "fileHash": "sha256-6d52ee6a8dd2eddb70fe62db91a1ec6b0f2ac66f277961fc5aa5605c083de904"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/DiziRella.cs3",
@@ -376,7 +147,7 @@
       "Wiojelt"
     ],
     "description": "DiziRella · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 102390,
+    "fileSize": 58191,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -387,7 +158,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizirella.net&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-c3cac3d97570dd42230e6e06f305d4712ad879ff6a0b7741f9ee7a871fab88b5"
+    "fileHash": "sha256-4ade721e169e43b52e2325172786ef3f5eee56620980e162986e9e8cec4c9b6a"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/DiziYou.cs3",
@@ -399,7 +170,7 @@
       "Wiojelt"
     ],
     "description": "Dizi You · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 78456,
+    "fileSize": 30505,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -410,7 +181,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.diziyou.one&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-37451e9a04fd98a127a0bbcab26da9c12166bbf9aa8cddce677d3679c8e797c3"
+    "fileHash": "sha256-6a2a074287bf4593a6d391f5e5192c92daab8278e168409764564324ef0c10d4"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/Dmax.cs3",
@@ -422,7 +193,7 @@
       "Wiojelt"
     ],
     "description": "DMAX · Belgesel, Macera, Canlı TV & Popüler Programlar (dmax.com.tr)",
-    "fileSize": 82062,
+    "fileSize": 76118,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -432,42 +203,19 @@
     ],
     "iconUrl": "https://img-dmax.mncdn.com/dmaxcomtr_logo.png",
     "apiVersion": 1,
-    "fileHash": "sha256-84ea04c1bf1e6e4d10de47087f54a8f41e920b772d3954b36963515950e49522"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/FilmIzzle.cs3",
-    "status": 3,
-    "version": 7,
-    "name": "FilmIzzle",
-    "internalName": "FilmIzzle",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "FilmIzzle · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 102387,
-    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=filmizzle.com&sz=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-39d0e1dd7e5836e2e0ad2167b5e5ec731a364a8263226f700c08a209472360e9"
+    "fileHash": "sha256-38c737c896dd8882eff4009c265bba9f4433364ee6edf04bb43d430c6faa2a4a"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/FilmMakinesi.cs3",
     "status": 3,
-    "version": 8,
+    "version": 7,
     "name": "FilmMakinesi",
     "internalName": "FilmMakinesi",
     "authors": [
       "Wiojelt"
     ],
     "description": "Film Makinesi · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 81555,
+    "fileSize": 35803,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -478,7 +226,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.to&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-78c5684698639a268799ac54a860e72f5da0db3dd228de341fd3c6bc45f08b81"
+    "fileHash": "sha256-f3a62085e7322e7eb4a307946a210f3aeb114d92b48146912348e9346d1b492a"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/FilmModu.cs3",
@@ -490,7 +238,7 @@
       "Wiojelt"
     ],
     "description": "Film Modu · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 78769,
+    "fileSize": 29823,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -501,7 +249,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/FilmModu.png",
     "apiVersion": 1,
-    "fileHash": "sha256-010a18919095b23ed99de07921b33328bb66e573711bf517f4d78cdcc6af0077"
+    "fileHash": "sha256-335043eb536b5130930bc8a314ad98827bafd518f63475add3946e9a1d209195"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/FullHDFilm.cs3",
@@ -513,7 +261,7 @@
       "Wiojelt"
     ],
     "description": "Full H D Film · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 88864,
+    "fileSize": 41508,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -524,19 +272,19 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilm.us&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-259bd7af50114fb5c22c17e1613e49785be46e31808d1dacaa4ff9a829f723da"
+    "fileHash": "sha256-a564454c5d75179cee1d4244b5efb22afd87d5f05a917e23e7c9d99a9936c037"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/FullHDFilmizlesene.cs3",
     "status": 3,
-    "version": 8,
+    "version": 7,
     "name": "FullHDFilmizlesene",
     "internalName": "FullHDFilmizlesene",
     "authors": [
       "Wiojelt"
     ],
     "description": "Full H D Filmizlesene · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 99809,
+    "fileSize": 53522,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -547,7 +295,30 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.now&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-029a2a80564f6de9ca57d3578023784f92cd483113f1b274bb8c4363769b7d13"
+    "fileHash": "sha256-a6a2fc57b6477a3fe28ccea298ef3fdb201860a83451a4a033d3c18fb8f4d0af"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/HDFilmCehennemi.cs3",
+    "status": 3,
+    "version": 7,
+    "name": "HDFilmCehennemi",
+    "internalName": "HDFilmCehennemi",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "H D Film Cehennemi · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 44865,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.hdfilmcehennemi.nl&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-ce7a9387f21983d706e810f93e56b67082089927396b212fe16e06686a38a752"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/HDFilmDelisi.cs3",
@@ -559,7 +330,7 @@
       "Wiojelt"
     ],
     "description": "H D Film Delisi · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 122813,
+    "fileSize": 76649,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -570,30 +341,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmdelisi.one&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-f5fc4390c6fc2af65640217f82cc380f2c43383079a6321a0a61e7ba37fa2da3"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/HDFilmizleBest.cs3",
-    "status": 3,
-    "version": 1,
-    "name": "HDFilmizleBest",
-    "internalName": "HDFilmizleBest",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "H D Filmizle Best · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 83712,
-    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.hdfilmizle.best&sz=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-66d4117139523759a7d5f34ec7af34aea90dab47853336a45a8a44555ae50474"
+    "fileHash": "sha256-0d6c7222b24ae722a20832350d4cefece95997d8afff029489e448aeb632caf0"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/HDFilmIzleInk.cs3",
@@ -605,7 +353,7 @@
       "Wiojelt"
     ],
     "description": "HDFilmİzle Ink · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 100412,
+    "fileSize": 53755,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -616,7 +364,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmizle.ink&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-68906b0d55e3d0bb50d88f01accdf4b8ebe2560cbf9c6d494184246b2c37e267"
+    "fileHash": "sha256-4ab7e02d0d705a32987ea3af9d443062d6d09e9d284d686a230f7d9b654b51e4"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/HDFilmIzleVip.cs3",
@@ -628,7 +376,7 @@
       "Wiojelt"
     ],
     "description": "HDFilmİzle Vip · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 100430,
+    "fileSize": 53762,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -639,19 +387,42 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmizle.vip&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-a81ee893de37db9159d1f8c44da4ba6dd7f1b477c14a9990eb1f789f9e3c3ecc"
+    "fileHash": "sha256-10a3cf40ed45d54b6f28bc49ed829c4ffc937b6d03832edc2ceee146efccc510"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/HDFilmizleBest.cs3",
+    "status": 3,
+    "version": 1,
+    "name": "HDFilmizleBest",
+    "internalName": "HDFilmizleBest",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "H D Filmizle Best · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 35961,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.hdfilmizle.best&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-4ac4913e724f1443ea6a15bf99fe23542c80bbb1153826d940e36b56c28dfb3f"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/InatBox.cs3",
     "status": 3,
-    "version": 1,
+    "version": 13,
     "name": "InatBox",
     "internalName": "InatBox",
     "authors": [
       "Wiojelt"
     ],
     "description": "İnatBox · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 110510,
+    "fileSize": 67974,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -661,7 +432,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/assets/inatbox.png",
     "apiVersion": 1,
-    "fileHash": "sha256-799e19c84a89c249201fc9a717b4059d3862d2f654c3f6f970abba5bc85d814b"
+    "fileHash": "sha256-b65b59cb9b023688ac664c1ecbe63709f2433e4bc939da4af5f1f1ee5d77938a"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/JetFilmizle.cs3",
@@ -673,7 +444,7 @@
       "Wiojelt"
     ],
     "description": "Jet Filmizle · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 93100,
+    "fileSize": 46215,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -684,7 +455,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=jetfilmizle.now&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-26ad9322f108465fd2ef2eafb372530248bfb7a65820b2c58cc5f3f710317bd9"
+    "fileHash": "sha256-c604608224195c8020b2f6239e5cb703d216a00f1eb288d614d4de67d8c6d738"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/KultFilmler.cs3",
@@ -696,7 +467,7 @@
       "Wiojelt"
     ],
     "description": "Kult Filmler · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 87966,
+    "fileSize": 40661,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -707,7 +478,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=kultfilmler.net&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-b423a2277faeb6a347ba1167f7910da21de7608ffaef91d880b909e1292c1c7c"
+    "fileHash": "sha256-354ee43c89eddc1898b41bc14e4c3cc39bb05bf825338f70f0e68eff1a1e4d23"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/LiderFilmIzle.cs3",
@@ -719,7 +490,7 @@
       "Wiojelt"
     ],
     "description": "LiderFilmİzle · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 102413,
+    "fileSize": 58222,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -730,30 +501,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=liderfilmizle.com&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-2fd54a9b47e9e01df0eaaa81478b54927f4dc60d4f2df114a9ce1787eb89b69e"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/NetFilmizle.cs3",
-    "status": 3,
-    "version": 1,
-    "name": "NetFilmizle",
-    "internalName": "NetFilmizle",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "Net Filmizle · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 92592,
-    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=netfilmizle.com&sz=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-bc3f75cc843f30958f78ab5c313ae68b54d18420fff262eb59e88d52257c43ea"
+    "fileHash": "sha256-05ab2b6a56b7d702bbc1ad1bb231b1c40ffe9856306ea22bec3e8106301a6c3b"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/PowerSinema.cs3",
@@ -765,7 +513,7 @@
       "Wiojelt"
     ],
     "description": "Power Sinema · 9.000+ Yerli & Yabancı Sinema, Animasyon ve Seri Filmler",
-    "fileSize": 83886,
+    "fileSize": 77989,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -775,30 +523,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/logo.png",
     "apiVersion": 1,
-    "fileHash": "sha256-e3bc98608efd836ef09e319fb8d9e5b7c07e35d3a3bbb379abdbafb71ac97ed8"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/RareFilmm.cs3",
-    "status": 3,
-    "version": 7,
-    "name": "RareFilmm",
-    "internalName": "RareFilmm",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "Rare Filmm · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 77736,
-    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=rarefilmm.com&sz=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-f407a612f981ad12e450f99d5ccd71574e063b878bca04819cfd50bb40b978ec"
+    "fileHash": "sha256-3e505bd4197af2e49aa620795ada1ca50aabd23b2968d1793276baef7c941c69"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/RecTV.cs3",
@@ -810,7 +535,7 @@
       "Wiojelt"
     ],
     "description": "RecTV · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 111453,
+    "fileSize": 105630,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -820,7 +545,26 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/assets/rectv.png",
     "apiVersion": 1,
-    "fileHash": "sha256-c71a877ff8f8ab86ae62248bc51667b0448fb4b22529b205cfe5e8525828a3c4"
+    "fileHash": "sha256-e9ade99a930a05b576325a2d6b4843712baf2e9c44237c132a2ff8785a18f2c5"
+  },
+  {
+    "internalName": "SelcukFlix",
+    "name": "SelcukFlix",
+    "version": 1,
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/SelcukFlix.cs3",
+    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "fileHash": "sha256-137ab7815cedeaf5de306f9181bd389ade3fd382f7845452b4f67782fe311ea3",
+    "fileSize": 2028318,
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "authors": [
+      "Wiojelt"
+    ]
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/SetFilmIzle.cs3",
@@ -832,7 +576,7 @@
       "Wiojelt"
     ],
     "description": "Set Film Izle · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 88540,
+    "fileSize": 37638,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -843,7 +587,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.setfilmizle.ltd&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-80c892922a3936a64e1a0ecafa1449bae5cd0ec799940cbae31eaa908ee547ef"
+    "fileHash": "sha256-4af24f0cfb69d7e26e0a358780b96850b821cd2b2a25e4f41d467e7c4a772bfb"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/SezonlukDizi.cs3",
@@ -855,7 +599,7 @@
       "Wiojelt"
     ],
     "description": "Sezonluk Dizi · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 83003,
+    "fileSize": 34867,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -866,65 +610,19 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=sezonlukdizi.cc&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-0c595f3609b62db02519fd77076e4155dba2f25c99644f11400ec06b815fc228"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/SinemaCX.cs3",
-    "status": 3,
-    "version": 7,
-    "name": "SinemaCX",
-    "internalName": "SinemaCX",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "Sinema C X · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 77968,
-    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.sinema.gg&sz=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-373c7c8a2669cec4f0e6577181500e6ebc84f5ca16c59368a0fd1d5b1b9f92b2"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/SinemaGG.cs3",
-    "status": 3,
-    "version": 1,
-    "name": "SinemaGG",
-    "internalName": "SinemaGG",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "SinemaGG · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 79414,
-    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=sinema.gg&sz=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-0ee0b38cc36638dd5807770c8ee03a75dfecb431b6211cd6c0fe3dbb53a5ec93"
+    "fileHash": "sha256-c7d968f9667347fa0c3892b3be209ac168adc0401a8c434aa477ad53eee3043a"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/Sinewix.cs3",
     "status": 3,
-    "version": 8,
+    "version": 7,
     "name": "Sinewix",
     "internalName": "Sinewix",
     "authors": [
       "Wiojelt"
     ],
     "description": "Sinewix · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 87700,
+    "fileSize": 39953,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -935,7 +633,7 @@
     ],
     "iconUrl": "https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX=w240-h480",
     "apiVersion": 1,
-    "fileHash": "sha256-cc2c055a03fb84d2cbb48ef4356b6196b75d8976afd38fed1561b40a5003b12a"
+    "fileHash": "sha256-05de88a7c81773fcff1479b85fb819bde193b39b61d509d2955a06b781acecd7"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/Tlctr.cs3",
@@ -947,7 +645,7 @@
       "Wiojelt"
     ],
     "description": "Tlctr · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 75966,
+    "fileSize": 27748,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -958,7 +656,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.tlctv.com.tr&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-dd63a969d483e9ecdd51186ed01748d856c6b724f4789bafb933164910eb88af"
+    "fileHash": "sha256-de139ba5b49bad036ec16d64b41e8d556c174a3367d262d3a92838124a3e7f35"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/TrDiziIzle.cs3",
@@ -970,7 +668,7 @@
       "Wiojelt"
     ],
     "description": "TrDiziİzle · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 102367,
+    "fileSize": 58223,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -981,30 +679,50 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=trdiziizle.tv&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-6c397a5ef895f729a3a1dabf9112a36e0d26e14ee357d9b0d0c6ccaa11b65077"
+    "fileHash": "sha256-e3a520cef520c88af32a2fc2e022d8b9d93675402b7bbd8366a82e2192e3c8c5"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/WebteIzle.cs3",
-    "status": 3,
-    "version": 7,
-    "name": "WebteIzle",
-    "internalName": "WebteIzle",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/TurkishCineStream.cs3",
+    "status": 1,
+    "version": 6,
+    "name": "TurkishCineStream",
+    "internalName": "TurkishCineStream",
     "authors": [
-      "Wiojelt"
+      "Wiojelt",
+      "megix"
     ],
-    "description": "Webte Izle · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 85028,
+    "description": "CineStream video motoru + Türkçe çoklu altyazı motoru + upstream CineStream ayar paneli",
+    "fileSize": 391581,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
       "Movie",
       "TvSeries",
       "Anime",
-      "Documentary"
+      "AsianDrama"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle3.xyz&sz=128",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioCinema/main/assets/providers/turkishcinestream.png",
     "apiVersion": 1,
-    "fileHash": "sha256-9a3be8fb22844a0b9fa20d2e914ed20649baf322530dfcdf9069c70929bc0fc2"
+    "fileHash": "sha256-e6f3262d9a448365068ce7c4a67baafb147bfbb06f0f8e637aeeb77d13113b53"
+  },
+  {
+    "internalName": "TvDiziler",
+    "name": "TvDiziler",
+    "version": 1,
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/TvDiziler.cs3",
+    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "fileHash": "sha256-09aa49b326aa151d9c73f58d6c4dec50cf40bb13e688cfb0c4da38f578d8f5e8",
+    "fileSize": 2028325,
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "authors": [
+      "Wiojelt"
+    ]
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/YabanciDizi.cs3",
@@ -1016,7 +734,7 @@
       "Wiojelt"
     ],
     "description": "Yabanci Dizi · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 107803,
+    "fileSize": 61137,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -1027,7 +745,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=yabancidizi.news&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-0c3e5fdda7e86a9b52ca0d1edebcf37e3a0c06a88b023350b3a7e1ec910065ab"
+    "fileHash": "sha256-085b7b29ae0ca897a587d47ce183cc229acca377d2ff48a8a690e2b2e6f5eb7f"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/YesilCamTv.cs3",
@@ -1039,7 +757,7 @@
       "Wiojelt"
     ],
     "description": "Yeşilçam TV · Klasik Türk Sineması, Kemal Sunal, Cüneyt Arkın arşivi",
-    "fileSize": 80003,
+    "fileSize": 73903,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -1047,6 +765,6 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=yesilcamtv.com.tr&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-6449fd6511942a9955a5974e34b1f774563e90bccc6290401e8ee1fafe83b6f6"
+    "fileHash": "sha256-ec1bcc6dff8bea79413243a8ce92201ea5a858688a6d6bbbd992f3969c40deaf"
   }
 ]
