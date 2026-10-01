@@ -2,13 +2,13 @@
   {
     "name": "0 WioSinema",
     "internalName": "WioSinema",
-    "version": 49,
+    "version": 52,
     "description": "WioSinema - Türkçe film ve dizi sağlayıcıları tek katalogda. Seçili kaynaklar ve alternatif eşleşmeler taranır.",
     "authors": [
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/90fcfa455b25bdd13779afa3923cc015a397eda8/releases/v49/WioSinema.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/02931dd8f20ae1c9e38baa7da78263d5b6fee48e/releases/v52/WioSinema.cs3",
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png",
     "tvTypes": [
       "Movie",
@@ -17,8 +17,8 @@
     ],
     "language": "tr",
     "status": 3,
-    "fileSize": 2001934,
-    "fileHash": "sha256-b7c06c4e92598a172532ebaac78e0d7ed83b15a625852df578050289ae165fc8",
+    "fileSize": 2004992,
+    "fileHash": "sha256-cc584df9ac6352b24982c2f0c25c973a70d5f40520bb87cff3023b70abb042ea",
     "apiVersion": 1
   },
   {
