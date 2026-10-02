@@ -809,5 +809,25 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=yesilcamtv.com.tr&sz=128",
     "apiVersion": 1,
     "fileHash": "sha256-ec1bcc6dff8bea79413243a8ce92201ea5a858688a6d6bbbd992f3969c40deaf"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/44b1557169a7ed8654b707d6e4fb24c3f5727fa9/WebteIzle.cs3",
+    "status": 3,
+    "version": 8,
+    "name": "WebteIzle",
+    "internalName": "WebteIzle",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "WebteIzle tekil sağlayıcı; katalog ve oynatma isteklerinde Cloudflare çözücü kullanır.",
+    "fileSize": 119701,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "language": "tr",
+    "tvTypes": [
+      "Movie"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle.info&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-f5d6218f6e3a5763ea236dce4f4c133265098e2f874bbdf0ca568466f95bfd3e"
   }
 ]
