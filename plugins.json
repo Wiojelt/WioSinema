@@ -2,13 +2,13 @@
   {
     "name": "0 WioSinema",
     "internalName": "WioSinema",
-    "version": 58,
+    "version": 59,
     "description": "WioSinema - Türkçe film ve dizi sağlayıcıları tek katalogda. Seçili kaynaklar ve alternatif eşleşmeler taranır.",
     "authors": [
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/b087c977de78d6de2c509af54f0b5a84fa3dd87d/releases/v58/WioSinema.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/9842a3d7446e12a7de5afbdf0489bc14af11db57/WioSinema.cs3",
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png",
     "tvTypes": [
       "Movie",
@@ -17,12 +17,12 @@
     ],
     "language": "tr",
     "status": 3,
-    "fileSize": 2064098,
-    "fileHash": "sha256-9b316e253726a1f1c842ba30b6496659101241f1d31230b616d45bc516ef196d",
+    "fileSize": 2066213,
+    "fileHash": "sha256-1221de1e5505e25f93a120327139ea1e32aa385947961565e2d6b832fd619b73",
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/TurkishCineStream.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/9842a3d7446e12a7de5afbdf0489bc14af11db57/TurkishCineStream.cs3",
     "status": 1,
     "version": 7,
     "name": "1 TurkishCineStream",
@@ -138,16 +138,37 @@
     "fileHash": "sha256-82add9e9517714bc9e5c368569622d036460a18fa9a304eac076a5983720a958"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/DiziMom.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/9842a3d7446e12a7de5afbdf0489bc14af11db57/DiziBol.cs3",
     "status": 3,
     "version": 8,
+    "name": "DiziBol",
+    "internalName": "DiziBol",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "DiziBol tekil sağlayıcı; güncel .org alan adı ve yenilenen yayın tokenı.",
+    "fileSize": 139406,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizibol.org&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-79a92c6489f1a306e37b1da990435458ccc5ba68c2ed8b37d577e9142db336e8"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/e4f75264987757df47ef7bcd4866f1b25394202b/DiziMom.cs3",
+    "status": 3,
+    "version": 9,
     "name": "DiziMom",
     "internalName": "DiziMom",
     "authors": [
       "Wiojelt"
     ],
     "description": "Dizi Mom · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 48079,
+    "fileSize": 131270,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -158,7 +179,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DiziMom.png",
     "apiVersion": 1,
-    "fileHash": "sha256-d6d9580ac2918b52643067d6f81e3c4c6178dddaceb911b4f8fdc775b140d5b8"
+    "fileHash": "sha256-03391ec5d7b028424aefc28e8e765a52114dec833e86edf82f564c471af4802c"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/85f17f77354d9fdb1f299485c1e8f190bb45997e/DiziPal.cs3",
