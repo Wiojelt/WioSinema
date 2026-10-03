@@ -2,13 +2,13 @@
   {
     "name": "0 WioSinema",
     "internalName": "WioSinema",
-    "version": 67,
+    "version": 70,
     "description": "WioSinema - Türkçe film ve dizi sağlayıcıları tek katalogda. Seçili kaynaklar ve alternatif eşleşmeler taranır.",
     "authors": [
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/WioSinema.cs3?v=8a9f71c0ded731cae0f94efa3d2b5e5524bcf5a9db515f68fba89111bd52c109",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/WioSinema.cs3?v=bc175b4d1dd8af9df4e588173318ce086a7b1837368bc2899693228371917319",
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png",
     "tvTypes": [
       "Movie",
@@ -17,8 +17,8 @@
     ],
     "language": "tr",
     "status": 3,
-    "fileSize": 2109311,
-    "fileHash": "sha256-8a9f71c0ded731cae0f94efa3d2b5e5524bcf5a9db515f68fba89111bd52c109",
+    "fileSize": 2109312,
+    "fileHash": "sha256-bc175b4d1dd8af9df4e588173318ce086a7b1837368bc2899693228371917319",
     "apiVersion": 1
   },
   {
@@ -808,16 +808,16 @@
     "fileHash": "sha256-ec1bcc6dff8bea79413243a8ce92201ea5a858688a6d6bbbd992f3969c40deaf"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/WebteIzle.cs3?v=6396e4a4e0a98ca35739c474c659fa90184baff700f32ebcaf23d97fd12dbcc6",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/WebteIzle.cs3?v=c0696e674cc71485604b08632313b5d8d65e8bdff62cd8e33b98ca8ad911d2ad",
     "status": 3,
-    "version": 14,
+    "version": 24,
     "name": "WebteIzle",
     "internalName": "WebteIzle",
     "authors": [
       "Wiojelt"
     ],
     "description": "WebteIzle tekil sağlayıcı; katalog ve oynatma isteklerinde Cloudflare çözücü kullanır.",
-    "fileSize": 117743,
+    "fileSize": 117745,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -825,6 +825,6 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle.info&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-6396e4a4e0a98ca35739c474c659fa90184baff700f32ebcaf23d97fd12dbcc6"
+    "fileHash": "sha256-c0696e674cc71485604b08632313b5d8d65e8bdff62cd8e33b98ca8ad911d2ad"
   }
 ]
