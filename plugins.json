@@ -2,13 +2,13 @@
   {
     "name": "0 WioSinema",
     "internalName": "WioSinema",
-    "version": 70,
+    "version": 71,
     "description": "WioSinema - Türkçe film ve dizi sağlayıcıları tek katalogda. Seçili kaynaklar ve alternatif eşleşmeler taranır.",
     "authors": [
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/WioSinema.cs3?v=bc175b4d1dd8af9df4e588173318ce086a7b1837368bc2899693228371917319",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/WioSinema.cs3?v=3fef5c640fe5885e801e604269aae3bc3375e86a3f35227f7e0620aa399ff11f",
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png",
     "tvTypes": [
       "Movie",
@@ -18,7 +18,7 @@
     "language": "tr",
     "status": 3,
     "fileSize": 2109312,
-    "fileHash": "sha256-bc175b4d1dd8af9df4e588173318ce086a7b1837368bc2899693228371917319",
+    "fileHash": "sha256-3fef5c640fe5885e801e604269aae3bc3375e86a3f35227f7e0620aa399ff11f",
     "apiVersion": 1
   },
   {
@@ -808,9 +808,9 @@
     "fileHash": "sha256-ec1bcc6dff8bea79413243a8ce92201ea5a858688a6d6bbbd992f3969c40deaf"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/WebteIzle.cs3?v=c0696e674cc71485604b08632313b5d8d65e8bdff62cd8e33b98ca8ad911d2ad",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/WebteIzle.cs3?v=04b713b4ca4675ab6df2f8868d0fcaa838af0f723be7e822ff2478f1074ce07d",
     "status": 3,
-    "version": 24,
+    "version": 15,
     "name": "WebteIzle",
     "internalName": "WebteIzle",
     "authors": [
@@ -825,6 +825,6 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle.info&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-c0696e674cc71485604b08632313b5d8d65e8bdff62cd8e33b98ca8ad911d2ad"
+    "fileHash": "sha256-04b713b4ca4675ab6df2f8868d0fcaa838af0f723be7e822ff2478f1074ce07d"
   }
 ]
