@@ -22,9 +22,9 @@
     "apiVersion": 1
   },
   {
-    "url": "https://github.com/Wiojelt/WioSinema/releases/download/wiosinema-artifacts-2026-10-03-r4/TurkishCineStream.cs3",
+    "url": "https://github.com/Wiojelt/WioSinema/releases/download/wiosinema-artifacts-2026-10-03-r6/TurkishCineStream.cs3",
     "status": 1,
-    "version": 485,
+    "version": 486,
     "name": "1 TurkishCineStream",
     "internalName": "TurkishCineStream",
     "authors": [
@@ -32,7 +32,7 @@
       "megix"
     ],
     "description": "Yerleşik CineStream kataloğu ve Türkçe altyazı kaynakları; ikinci eklenti indirmeden çalışır.",
-    "fileSize": 822954,
+    "fileSize": 823138,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -43,7 +43,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioCinema/main/assets/providers/turkishcinestream.png",
     "apiVersion": 1,
-    "fileHash": "sha256-340bc8d1ae7aeb89f4d1935d56295a6789e1bb8be60e9f4544f629326f037447"
+    "fileHash": "sha256-5743e1a5e8ff3cda30c72f83c3d56fe47601e05dd3a58a23d5509fd7b8b60a8a"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/BelgeselX.cs3",
