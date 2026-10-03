@@ -568,16 +568,16 @@
     "fileHash": "sha256-05ab2b6a56b7d702bbc1ad1bb231b1c40ffe9856306ea22bec3e8106301a6c3b"
   },
   {
-    "url": "https://github.com/Wiojelt/WioSinema/releases/download/wiosinema-artifacts-2026-10-03-r7/PowerSinema.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/PowerSinema.cs3",
     "status": 3,
-    "version": 2,
+    "version": 3,
     "name": "PowerSinema",
     "internalName": "PowerSinema",
     "authors": [
       "Wiojelt"
     ],
     "description": "Power Sinema · 9.000+ Yerli & Yabancı Sinema, Animasyon ve Seri Filmler",
-    "fileSize": 119965,
+    "fileSize": 125562,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -587,7 +587,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/logo.png",
     "apiVersion": 1,
-    "fileHash": "sha256-e8626ba93de83eb4d0e8a61d3d12f9781219ef07f5f1e4012d76b1811be48e69"
+    "fileHash": "sha256-c598dcad72acc41e37ab30db4af20d29508dae6ddd2ff8c9ee25a2ff35f71928"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/RecTV.cs3",
