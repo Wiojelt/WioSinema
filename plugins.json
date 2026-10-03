@@ -2,13 +2,13 @@
   {
     "name": "0 WioSinema",
     "internalName": "WioSinema",
-    "version": 62,
+    "version": 63,
     "description": "WioSinema - Türkçe film ve dizi sağlayıcıları tek katalogda. Seçili kaynaklar ve alternatif eşleşmeler taranır.",
     "authors": [
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "url": "https://github.com/Wiojelt/WioSinema/releases/download/wiosinema-artifacts-2026-10-03-r3/WioSinema.cs3",
+    "url": "https://github.com/Wiojelt/WioSinema/releases/download/wiosinema-artifacts-2026-10-03-r4/WioSinema.cs3",
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png",
     "tvTypes": [
       "Movie",
@@ -17,14 +17,14 @@
     ],
     "language": "tr",
     "status": 3,
-    "fileSize": 2095342,
-    "fileHash": "sha256-782ccf81fb6b563599a70def2d7a875f3bb46ccc25c16772a994658e2738fdf0",
+    "fileSize": 2104646,
+    "fileHash": "sha256-4db2b9619b144b339850d8511f6a063a4a0aacd67d4558d8ca7c0696a0758d16",
     "apiVersion": 1
   },
   {
-    "url": "https://github.com/Wiojelt/WioSinema/releases/download/wiosinema-artifacts-2026-10-03-r2/TurkishCineStream.cs3",
+    "url": "https://github.com/Wiojelt/WioSinema/releases/download/wiosinema-artifacts-2026-10-03-r4/TurkishCineStream.cs3",
     "status": 1,
-    "version": 484,
+    "version": 485,
     "name": "1 TurkishCineStream",
     "internalName": "TurkishCineStream",
     "authors": [
@@ -32,7 +32,7 @@
       "megix"
     ],
     "description": "Yerleşik CineStream kataloğu ve Türkçe altyazı kaynakları; ikinci eklenti indirmeden çalışır.",
-    "fileSize": 806950,
+    "fileSize": 822954,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -43,7 +43,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioCinema/main/assets/providers/turkishcinestream.png",
     "apiVersion": 1,
-    "fileHash": "sha256-cba1967121597b96b45518c3254c118a88d337a3a49bbddcc400116d8fe36580"
+    "fileHash": "sha256-340bc8d1ae7aeb89f4d1935d56295a6789e1bb8be60e9f4544f629326f037447"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/BelgeselX.cs3",
@@ -138,16 +138,16 @@
     "fileHash": "sha256-82add9e9517714bc9e5c368569622d036460a18fa9a304eac076a5983720a958"
   },
   {
-    "url": "https://github.com/Wiojelt/WioSinema/releases/download/wiosinema-artifacts-2026-10-03-r2/DiziBol.cs3",
+    "url": "https://github.com/Wiojelt/WioSinema/releases/download/wiosinema-artifacts-2026-10-03-r4/DiziBol.cs3",
     "status": 3,
-    "version": 10,
+    "version": 11,
     "name": "DiziBol",
     "internalName": "DiziBol",
     "authors": [
       "Wiojelt"
     ],
     "description": "DiziBol; bazı filmlerde kaynak bulunmayabilir ve bu ayrıntı sayfasında belirtilir.",
-    "fileSize": 142001,
+    "fileSize": 143644,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -156,7 +156,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizibol.org&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-aca9824d4c20be24123371db615093b6e7116071a2b21848e623f06b1055e02e"
+    "fileHash": "sha256-9356836ae603e3eec4fd540125273a5530004e2761993c41a2067195046f65f1"
   },
   {
     "url": "https://github.com/Wiojelt/WioSinema/releases/download/wiosinema-artifacts-2026-10-03-r2/DiziMom.cs3",
@@ -270,16 +270,16 @@
     "fileHash": "sha256-38c737c896dd8882eff4009c265bba9f4433364ee6edf04bb43d430c6faa2a4a"
   },
   {
-    "url": "https://github.com/Wiojelt/WioSinema/releases/download/wiosinema-artifacts-2026-10-03/FilmMakinesi.cs3",
+    "url": "https://github.com/Wiojelt/WioSinema/releases/download/wiosinema-artifacts-2026-10-03-r4/FilmMakinesi.cs3",
     "status": 3,
-    "version": 10,
+    "version": 11,
     "name": "FilmMakinesi",
     "internalName": "FilmMakinesi",
     "authors": [
       "Wiojelt"
     ],
     "description": "Film Makinesi · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 117462,
+    "fileSize": 119571,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -290,7 +290,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.to&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-ac699ec330e010e1434d384cecf46e449ddd5d2a3b90594168f792c07f50c630"
+    "fileHash": "sha256-7c0da0322905347177102bdf93a8d7535616663ceb20501c5fdfd082608fb2fb"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/FilmModu.cs3",
@@ -614,11 +614,11 @@
   {
     "internalName": "SelcukFlix",
     "name": "SelcukFlix",
-    "version": 2,
-    "url": "https://github.com/Wiojelt/WioSinema/releases/download/wiosinema-artifacts-2026-10-03-r2/SelcukFlix.cs3",
+    "version": 3,
+    "url": "https://github.com/Wiojelt/WioSinema/releases/download/wiosinema-artifacts-2026-10-03-r4/SelcukFlix.cs3",
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "fileHash": "sha256-533ef070b0e3ebf09baa42b5e09f6dee9c972d84e02f93ab72b83e252b5bc395",
-    "fileSize": 39786,
+    "fileHash": "sha256-8849f28c0a1d033d44f26721231d33846bb8d88beb825b19a85012e410933c95",
+    "fileSize": 40570,
     "status": 1,
     "apiVersion": 1,
     "language": "tr",
@@ -808,16 +808,16 @@
     "fileHash": "sha256-ec1bcc6dff8bea79413243a8ce92201ea5a858688a6d6bbbd992f3969c40deaf"
   },
   {
-    "url": "https://github.com/Wiojelt/WioSinema/releases/download/wiosinema-artifacts-2026-10-03-r3/WebteIzle.cs3",
+    "url": "https://github.com/Wiojelt/WioSinema/releases/download/wiosinema-artifacts-2026-10-03-r4/WebteIzle.cs3",
     "status": 3,
-    "version": 11,
+    "version": 12,
     "name": "WebteIzle",
     "internalName": "WebteIzle",
     "authors": [
       "Wiojelt"
     ],
     "description": "WebteIzle tekil sağlayıcı; katalog ve oynatma isteklerinde Cloudflare çözücü kullanır.",
-    "fileSize": 136798,
+    "fileSize": 140815,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -825,6 +825,6 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle.info&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-25d5a439ab844b4c3e4450999f22c9e63b4ce9cc12507e18a6619345c86f8e16"
+    "fileHash": "sha256-80a96dee872221a020b2eae1cd44a842298d36cb0534749370854c9056f86f43"
   }
 ]
