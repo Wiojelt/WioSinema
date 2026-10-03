@@ -2,13 +2,13 @@
   {
     "name": "0 WioSinema",
     "internalName": "WioSinema",
-    "version": 66,
+    "version": 71,
     "description": "WioSinema - Türkçe film ve dizi sağlayıcıları tek katalogda. Seçili kaynaklar ve alternatif eşleşmeler taranır.",
     "authors": [
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "url": "https://github.com/Wiojelt/WioSinema/releases/download/wiosinema-artifacts-2026-10-03-r8/WioSinema.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/WioSinema.cs3?v=3fef5c640fe5885e801e604269aae3bc3375e86a3f35227f7e0620aa399ff11f",
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png",
     "tvTypes": [
       "Movie",
@@ -17,8 +17,8 @@
     ],
     "language": "tr",
     "status": 3,
-    "fileSize": 2122499,
-    "fileHash": "sha256-79769931e804ed1b7861575ac0ecdc654f41abe000d5c4c99c8c4aeeffed8bd8",
+    "fileSize": 2109312,
+    "fileHash": "sha256-3fef5c640fe5885e801e604269aae3bc3375e86a3f35227f7e0620aa399ff11f",
     "apiVersion": 1
   },
   {
@@ -808,16 +808,16 @@
     "fileHash": "sha256-ec1bcc6dff8bea79413243a8ce92201ea5a858688a6d6bbbd992f3969c40deaf"
   },
   {
-    "url": "https://github.com/Wiojelt/WioSinema/releases/download/wiosinema-artifacts-2026-10-03-r5/WebteIzle.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/WebteIzle.cs3?v=04b713b4ca4675ab6df2f8868d0fcaa838af0f723be7e822ff2478f1074ce07d",
     "status": 3,
-    "version": 13,
+    "version": 15,
     "name": "WebteIzle",
     "internalName": "WebteIzle",
     "authors": [
       "Wiojelt"
     ],
     "description": "WebteIzle tekil sağlayıcı; katalog ve oynatma isteklerinde Cloudflare çözücü kullanır.",
-    "fileSize": 140896,
+    "fileSize": 117745,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -825,6 +825,6 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle.info&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-aa3b3aa1204a64fa5e3a6ff5980da3ceafb71c7bd2d173387875725fadfea32c"
+    "fileHash": "sha256-04b713b4ca4675ab6df2f8868d0fcaa838af0f723be7e822ff2478f1074ce07d"
   }
 ]
