@@ -15,11 +15,6 @@
   <img src="https://img.shields.io/badge/made_with-%E2%99%A5-c394d5?style=flat" alt="made with ♥">
   <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin"></a>
 </p>
-
-<p align="center">
-  <img src="assets/banner.png" alt="WioSinema Banner" width="100%">
-</p>
-
 ---
 
 ## 📥 CloudStream'e Ekle
