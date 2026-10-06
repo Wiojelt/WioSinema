@@ -7,8 +7,6 @@
 
 <h1 align="center">🎬 WioSinema</h1>
 
-<p align="center">CloudStream için TMDB v3 Türkçe katalog ve seçilebilir çoklu kaynak desteğine sahip birleşik sinema ve dizi eklentisi.</p>
-
 <p align="center">
   <a href="https://t.me/wiolandcs3"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="https://kreosus.com/wiojelt"><img src="https://img.shields.io/badge/Kreosus-Destek_ol-6C5CE7?style=flat" alt="Kreosus üzerinden destek ol"></a>
@@ -32,37 +30,9 @@ https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/repo.json
 
 ---
 
-## 🌟 Öne Çıkan Özellikler
+Anime kaynakları **WioAnime**, Asya dizileri **WioAsya**, çizgi filmler "WioKids", kısa dramalar **WioDrama** deposuna taşınmıştır.
 
-- ⚡ **ClipBox Direkt TMDB Motoru + Harici CineStream:** WioSinema kendi CineStream kopyasını derlemez; CineStream depoda doğrudan `SaurabhKaperwan/CSX` upstream `.cs3` bağlantısıyla sunulur.
-- 🎬 **TMDB v3 Türkçe Katalog:** 23 ayrıştırılmış kategori (Trend Filmler, Popüler Diziler, Vizyondakiler, Türk Sineması, Yerli Diziler ve daha fazlası).
-- ⭐ **Canlı IMDb Puan Rozetleri:** Afişlerin üzerinde doğrudan puan göstergesi.
-- 👥 **Detaylı Oyuncu Kadrosu & Özetler:** Türkçe sinopsis, oyuncu fotoğrafları, tür etiketleri ve fragmanlar.
-- 📺 **TV Box Modu:** Zayıf donanımlı Android TV cihazları için eşzamanlı istek kısıtlama ve bellek koruması.
-- ⚙️ **Gelişmiş Sağlayıcı Yönetimi:** Sağlayıcılar Türk/yabancı gruplarıyla veya tek tek açılıp kapatılabilir; StreamXTV yabancı kaynaklar arasındadır.
-
----
-
-## 📱 Ekran Görüntüleri
-
-<p align="center">
-  <img src="assets/preview_home.png" alt="Ana Sayfa Kataloğu" width="48%">
-  <img src="assets/preview_details.png" alt="Film Detayları ve Oyuncular" width="48%">
-</p>
-
----
-
-## 🔌 Sağlayıcı Grupları
-
-| Tür | Sayı | Sağlayıcılar |
-|-----|------|-------------|
-| ⚡ **Direkt TMDB / Hızlı Akış** | — | ClipBox; CineStream *(harici CSX upstream paketi)*; CineSimkl, FlixNetwork ve seçili uluslararası kaynaklar |
-| 🍿 **Sinema & Film Sağlayıcıları** | 24 | FilmMakinesi, HDFilmCehennemi, HDFilmCehennemi Alternatif, FilmModu, FullHDFilm, FullHDFilmizlesene, InatBox, JetFilmizle, SetFilmIzle, WebteIzle, HDFilmDelisi, 666Filmİzle, Kült Filmler, RareFilmm, SinemaCX, Sinewix, Sinemakolik, NetFilmizle, HDFilmizleBest, HDFilmİzle Vip, Filmİzzle, LiderFilm, Watch2Movies, Internet Archive |
-| 📺 **Dizi & Belgesel** | — | Dizilla, DiziBox, DiziPal, SezonlukDizi, DDizi, YabancıDizi, BelgeselX ve diğer etkin kaynaklar |
-
-Anime kaynakları **WioAnime**, Asya dizileri **WioAsya**, kısa dramalar **WioDrama** deposuna taşınmıştır.
-
----
+--- 
 
 ## ☕ Destek Ol & İletişim
 
