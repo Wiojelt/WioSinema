@@ -2,13 +2,13 @@
   {
     "name": "0 WioSinema",
     "internalName": "WioSinema",
-    "version": 76,
+    "version": 77,
     "description": "WioSinema - Türkçe film ve dizi sağlayıcıları tek katalogda. Seçili kaynaklar ve alternatif eşleşmeler taranır.",
     "authors": [
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/WioSinema.cs3?v=438b5ae796e4",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/WioSinema.cs3?v=2c39b4a652e7",
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png",
     "tvTypes": [
       "Movie",
@@ -17,8 +17,8 @@
     ],
     "language": "tr",
     "status": 3,
-    "fileSize": 2143682,
-    "fileHash": "sha256-438b5ae796e488974574ea2911ea2a0c02c037285f69ce5deac15077940a76f1",
+    "fileSize": 2145454,
+    "fileHash": "sha256-2c39b4a652e736812b83dbfb940f5960dd13ff16f24c632c5cad0e866fbb89ea",
     "apiVersion": 1
   },
   {
@@ -614,11 +614,11 @@
   {
     "internalName": "SelcukFlix",
     "name": "SelcukFlix",
-    "version": 3,
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/SelcukFlix.cs3?v=8849f28c0a1d",
+    "version": 4,
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/SelcukFlix.cs3?v=01614028e766",
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "fileHash": "sha256-8849f28c0a1d033d44f26721231d33846bb8d88beb825b19a85012e410933c95",
-    "fileSize": 40570,
+    "fileHash": "sha256-01614028e766ce620af9902e4fde231a443fd7281ad0e68fa24a3eb87d10cce0",
+    "fileSize": 123495,
     "status": 1,
     "apiVersion": 1,
     "language": "tr",
