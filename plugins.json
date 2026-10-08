@@ -2,13 +2,13 @@
   {
     "name": "0 WioSinema",
     "internalName": "WioSinema",
-    "version": 75,
+    "version": 76,
     "description": "WioSinema - Türkçe film ve dizi sağlayıcıları tek katalogda. Seçili kaynaklar ve alternatif eşleşmeler taranır.",
     "authors": [
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/WioSinema.cs3?v=bcdde4fb9f11",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/WioSinema.cs3?v=808b54e6ff15",
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png",
     "tvTypes": [
       "Movie",
@@ -17,8 +17,8 @@
     ],
     "language": "tr",
     "status": 3,
-    "fileSize": 2135220,
-    "fileHash": "sha256-bcdde4fb9f11bb62405af68979549037cb7c02a77f0c2f647fd9c7ea6aaefa55",
+    "fileSize": 2143385,
+    "fileHash": "sha256-808b54e6ff15c50eca56a6b15deef9020ed4551982f473820d45c635dd16c2be",
     "apiVersion": 1
   },
   {
@@ -46,16 +46,16 @@
     "fileHash": "sha256-ca1989aeea4c068d2315d67a72ae64e2c5c5f2c9e4436dea124b897925f5322d"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/BelgeselX.cs3?v=546755a46bdf",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/BelgeselX.cs3?v=94647bf8581c",
     "status": 3,
-    "version": 7,
+    "version": 8,
     "name": "BelgeselX",
     "internalName": "BelgeselX",
     "authors": [
       "Wiojelt"
     ],
     "description": "Belgesel X · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 86029,
+    "fileSize": 129964,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -66,7 +66,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=belgeselx.com&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-546755a46bdf56d241bff8a1ca936aca9d402e3e3a6d6d7d80db7dd5ba1f73a7"
+    "fileHash": "sha256-94647bf8581cb42c38251165f909b755b1abb975d80c1272db7068891a488606"
   },
   {
     "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DDizi.cs3?v=f42167612090",
