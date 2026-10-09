@@ -2,13 +2,13 @@
   {
     "name": "0 WioSinema",
     "internalName": "WioSinema",
-    "version": 79,
+    "version": 80,
     "description": "WioSinema - Türkçe film ve dizi sağlayıcıları tek katalogda. Seçili kaynaklar ve alternatif eşleşmeler taranır.",
     "authors": [
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/WioSinema.cs3?v=9e59a74d2d9e",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/WioSinema.cs3?v=a43ffa136f26",
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png",
     "tvTypes": [
       "Movie",
@@ -17,8 +17,8 @@
     ],
     "language": "tr",
     "status": 3,
-    "fileSize": 2157809,
-    "fileHash": "sha256-9e59a74d2d9e75989bf81f5e53ffdcc1acb886569a0273b125a55eea31fa8ca6",
+    "fileSize": 2142548,
+    "fileHash": "sha256-a43ffa136f262f8e1f8122f7cffaeff5467c4769d63ca26b58fa13ac8552c38f",
     "apiVersion": 1
   },
   {
@@ -179,16 +179,16 @@
     "fileHash": "sha256-e85b84e528737004c6d631ed943a63362ff8bf97878e116aa102fe837f024e9c"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DiziPal.cs3?v=667e512ebdb0",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DiziPal.cs3?v=39bf0f227193",
     "status": 3,
-    "version": 11,
+    "version": 12,
     "name": "DiziPal",
     "internalName": "DiziPal",
     "authors": [
       "Wiojelt"
     ],
     "description": "Dizi Pal · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 126373,
+    "fileSize": 130108,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -199,7 +199,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DiziPal.png",
     "apiVersion": 1,
-    "fileHash": "sha256-667e512ebdb0013cd73f3827e03d76fa494ba37774eebf3d6211eec4dc402da1"
+    "fileHash": "sha256-39bf0f227193a53727d8c08b570f0eed34d4f698a09c8e3c697fc3245562881d"
   },
   {
     "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DiziRella.cs3?v=63b2fa3ebb99",
