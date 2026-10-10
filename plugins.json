@@ -92,16 +92,16 @@
     "fileHash": "sha256-f4216761209064eef9813b2bcb0eabe644ca3fd7c78f3f37771fe9b940bf7fe9"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DiziBox.cs3?v=8653a810cddc",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DiziBox.cs3?v=3699262224c0",
     "status": 3,
-    "version": 10,
+    "version": 11,
     "name": "DiziBox",
     "internalName": "DiziBox",
     "authors": [
       "Wiojelt"
     ],
     "description": "Dizi Box · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 117434,
+    "fileSize": 117986,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -112,7 +112,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.live&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-8653a810cddca50a9bdd2ce072d85b05ae212f371639b9fb23d9929d2789f2ea"
+    "fileHash": "sha256-3699262224c091e197ffe3df3d7b0e1b6f01f4ac922144576be588a2adebbfc1"
   },
   {
     "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/Dizilla.cs3?v=e5c02f0ac4aa",
@@ -225,16 +225,16 @@
     "fileHash": "sha256-e961d531c8df82fc52c537735d7fbe6ec4115b3702e27ee8ce3fad7ef88ce23f"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DiziRella.cs3?v=63b2fa3ebb99",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DiziRella.cs3?v=b4155b28465e",
     "status": 3,
-    "version": 7,
+    "version": 8,
     "name": "DiziRella",
     "internalName": "DiziRella",
     "authors": [
       "Wiojelt"
     ],
     "description": "DiziRella · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 132321,
+    "fileSize": 135438,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -245,7 +245,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizirella.net&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-63b2fa3ebb990f4ce708884b28b9c91baa94e2398ae1087aeff1ec56039a33eb"
+    "fileHash": "sha256-b4155b28465ef29fabe72d2660d5f877a510003d5fc751a8980411c924cdaa04"
   },
   {
     "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DiziYou.cs3?v=5bd69044e258",
