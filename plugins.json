@@ -92,7 +92,7 @@
     "fileHash": "sha256-f4216761209064eef9813b2bcb0eabe644ca3fd7c78f3f37771fe9b940bf7fe9"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DiziBox.cs3?v=3699262224c0",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DiziBox.cs3?v=3699262224c091e1",
     "status": 3,
     "version": 11,
     "name": "DiziBox",
@@ -179,16 +179,16 @@
     "fileHash": "sha256-e85b84e528737004c6d631ed943a63362ff8bf97878e116aa102fe837f024e9c"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DiziPalHub.cs3?v=e961d531c8df",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DiziPal.cs3?v=45d349038e7a8ce0",
     "status": 3,
-    "version": 16,
+    "version": 14,
     "name": "DiziPal",
     "internalName": "DiziPal",
     "authors": [
       "Wiojelt"
     ],
     "description": "DiziPal Hub · 2225, DDiziPal, Orjinal 14 ve 1588 kaynakları tek merkezde",
-    "fileSize": 199995,
+    "fileSize": 199988,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -199,10 +199,10 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DiziPal.png",
     "apiVersion": 1,
-    "fileHash": "sha256-7d5f667433c1f08c52875a39513a928a0c6ef7289cb26c9085a9c16aadeecb55"
+    "fileHash": "sha256-45d349038e7a8ce0bf651f927081b6e012c2a918129c3defa612093c6e11917f"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DiziPalHub.cs3?v=e961d531c8df",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DiziPalHub.cs3?v=7d5f667433c1f08c",
     "status": 3,
     "version": 16,
     "name": "DiziPalHub",
@@ -225,7 +225,7 @@
     "fileHash": "sha256-7d5f667433c1f08c52875a39513a928a0c6ef7289cb26c9085a9c16aadeecb55"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DiziRella.cs3?v=b4155b28465e",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DiziRella.cs3?v=b4155b28465ef29f",
     "status": 3,
     "version": 8,
     "name": "DiziRella",
@@ -408,7 +408,7 @@
     "fileHash": "sha256-f8ab7eaac85cfdc09e8089a6096cc043d7f5805caf9616ae5c69f58ee1ae0b2f"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/HDFilmDelisi.cs3?v=50d34cc85b13",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/HDFilmDelisi.cs3?v=75ae7388d22c35c0",
     "status": 3,
     "version": 7,
     "name": "HDFilmDelisi",
@@ -417,7 +417,7 @@
       "Wiojelt"
     ],
     "description": "H D Film Delisi · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 153237,
+    "fileSize": 152478,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -428,7 +428,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmdelisi.one&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-50d34cc85b130d266b2395b3f643992464c45a9a463e92192c6e6474fc7bf610"
+    "fileHash": "sha256-75ae7388d22c35c0490c323df4e4790fc2941e418ff1c7253777a216c048f4af"
   },
   {
     "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/HDFilmizleBest.cs3?v=35146b2bdc40",
