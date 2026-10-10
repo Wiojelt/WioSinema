@@ -181,14 +181,14 @@
   {
     "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DiziPalHub.cs3?v=e961d531c8df",
     "status": 3,
-    "version": 15,
+    "version": 16,
     "name": "DiziPal",
     "internalName": "DiziPal",
     "authors": [
       "Wiojelt"
     ],
-    "description": "DiziPal Hub · Orijinal (1588) ve Alternatif (2138) DiziPal kaynakları tek eklentide",
-    "fileSize": 162522,
+    "description": "DiziPal Hub · 2225, DDiziPal, Orjinal 14 ve 1588 kaynakları tek merkezde",
+    "fileSize": 199995,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -199,19 +199,19 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DiziPal.png",
     "apiVersion": 1,
-    "fileHash": "sha256-e961d531c8df82fc52c537735d7fbe6ec4115b3702e27ee8ce3fad7ef88ce23f"
+    "fileHash": "sha256-7d5f667433c1f08c52875a39513a928a0c6ef7289cb26c9085a9c16aadeecb55"
   },
   {
     "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DiziPalHub.cs3?v=e961d531c8df",
     "status": 3,
-    "version": 15,
+    "version": 16,
     "name": "DiziPalHub",
     "internalName": "DiziPalHub",
     "authors": [
       "Wiojelt"
     ],
-    "description": "DiziPal Hub · Orijinal (1588) ve Alternatif (2138) DiziPal kaynakları tek eklentide",
-    "fileSize": 162522,
+    "description": "DiziPal Hub · 2225, DDiziPal, Orjinal 14 ve 1588 kaynakları tek merkezde",
+    "fileSize": 199995,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -222,7 +222,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DiziPal.png",
     "apiVersion": 1,
-    "fileHash": "sha256-e961d531c8df82fc52c537735d7fbe6ec4115b3702e27ee8ce3fad7ef88ce23f"
+    "fileHash": "sha256-7d5f667433c1f08c52875a39513a928a0c6ef7289cb26c9085a9c16aadeecb55"
   },
   {
     "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DiziRella.cs3?v=b4155b28465e",
