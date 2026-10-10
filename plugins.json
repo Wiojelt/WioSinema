@@ -179,39 +179,16 @@
     "fileHash": "sha256-e85b84e528737004c6d631ed943a63362ff8bf97878e116aa102fe837f024e9c"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DiziPal.cs3?v=45d349038e7a8ce0",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DiziPalHub.cs3?v=fafa238655cb",
     "status": 3,
-    "version": 14,
-    "name": "DiziPal",
-    "internalName": "DiziPal",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "DiziPal Hub · 2225, DDiziPal, Orjinal 14 ve 1588 kaynakları tek merkezde",
-    "fileSize": 199988,
-    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DiziPal.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-45d349038e7a8ce0bf651f927081b6e012c2a918129c3defa612093c6e11917f"
-  },
-  {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DiziPalHub.cs3?v=7d5f667433c1f08c",
-    "status": 3,
-    "version": 16,
+    "version": 17,
     "name": "DiziPalHub",
     "internalName": "DiziPalHub",
     "authors": [
       "Wiojelt"
     ],
     "description": "DiziPal Hub · 2225, DDiziPal, Orjinal 14 ve 1588 kaynakları tek merkezde",
-    "fileSize": 199995,
+    "fileSize": 205974,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -220,9 +197,9 @@
       "Anime",
       "Documentary"
     ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DiziPal.png",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/DiziPalHub.png",
     "apiVersion": 1,
-    "fileHash": "sha256-7d5f667433c1f08c52875a39513a928a0c6ef7289cb26c9085a9c16aadeecb55"
+    "fileHash": "sha256-fafa238655cb9108bf4def845f98c7f226f3e69e207d9e9a62f06b15469f95f0"
   },
   {
     "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DiziRella.cs3?v=b4155b28465ef29f",
