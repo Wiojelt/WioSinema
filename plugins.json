@@ -179,16 +179,16 @@
     "fileHash": "sha256-e85b84e528737004c6d631ed943a63362ff8bf97878e116aa102fe837f024e9c"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DiziPal.cs3?v=39bf0f227193",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DiziPalHub.cs3?v=e961d531c8df",
     "status": 3,
-    "version": 12,
+    "version": 15,
     "name": "DiziPal",
     "internalName": "DiziPal",
     "authors": [
       "Wiojelt"
     ],
-    "description": "Dizi Pal · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 130108,
+    "description": "DiziPal Hub · Orijinal (1588) ve Alternatif (2138) DiziPal kaynakları tek eklentide",
+    "fileSize": 162522,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -199,7 +199,30 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DiziPal.png",
     "apiVersion": 1,
-    "fileHash": "sha256-39bf0f227193a53727d8c08b570f0eed34d4f698a09c8e3c697fc3245562881d"
+    "fileHash": "sha256-e961d531c8df82fc52c537735d7fbe6ec4115b3702e27ee8ce3fad7ef88ce23f"
+  },
+  {
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DiziPalHub.cs3?v=e961d531c8df",
+    "status": 3,
+    "version": 15,
+    "name": "DiziPalHub",
+    "internalName": "DiziPalHub",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "DiziPal Hub · Orijinal (1588) ve Alternatif (2138) DiziPal kaynakları tek eklentide",
+    "fileSize": 162522,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DiziPal.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-e961d531c8df82fc52c537735d7fbe6ec4115b3702e27ee8ce3fad7ef88ce23f"
   },
   {
     "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DiziRella.cs3?v=63b2fa3ebb99",
