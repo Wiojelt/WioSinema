@@ -69,7 +69,7 @@
     "fileHash": "sha256-ad6312e611dab4c2a8cff5eae2d74f5a8b58b135c77565d84a4385a68c7012fd"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DDizi.cs3?v=f42167612090",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DDizi.cs3?v=3881353583d1",
     "status": 3,
     "version": 8,
     "name": "DDizi",
@@ -78,7 +78,7 @@
       "Wiojelt"
     ],
     "description": "D Dizi · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 111525,
+    "fileSize": 113110,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -89,10 +89,10 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.ddizi.tel&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-f4216761209064eef9813b2bcb0eabe644ca3fd7c78f3f37771fe9b940bf7fe9"
+    "fileHash": "sha256-3881353583d130d0a9b1346a24361ef46b99e1a9b0b6778089a2bbc1f4585090"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DiziBox.cs3?v=3699262224c091e1",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DiziBox.cs3?v=11ac03407cac",
     "status": 3,
     "version": 11,
     "name": "DiziBox",
@@ -101,7 +101,7 @@
       "Wiojelt"
     ],
     "description": "Dizi Box · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 117986,
+    "fileSize": 119488,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -112,7 +112,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.live&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-3699262224c091e197ffe3df3d7b0e1b6f01f4ac922144576be588a2adebbfc1"
+    "fileHash": "sha256-11ac03407cac87e32fab87601856d906e9d035b8f0ddb95a070590508cec43a3"
   },
   {
     "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/Dizilla.cs3?v=e5c02f0ac4aa",
@@ -138,7 +138,7 @@
     "fileHash": "sha256-e5c02f0ac4aadc8dca2b207c42ef0d233fdabf681bc8c22d9b095558f9f77ee7"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DiziBol.cs3?v=7f9fa7ea2107",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DiziBol.cs3?v=2ae7dfc47dac",
     "status": 3,
     "version": 7,
     "name": "DiziBol",
@@ -147,7 +147,7 @@
       "Wiojelt"
     ],
     "description": "DiziBol; bazı filmlerde kaynak bulunmayabilir ve bu ayrıntı sayfasında belirtilir.",
-    "fileSize": 135421,
+    "fileSize": 137125,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -156,7 +156,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizibol.org&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-7f9fa7ea2107aa2c1630db0f69ba062347b603623324a7519f77cb68c9297539"
+    "fileHash": "sha256-2ae7dfc47dacaa80baea833373b454e4ab595edd35f3f137011e7e32de136b45"
   },
   {
     "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DiziMom.cs3?v=363b18e633f4",
@@ -202,7 +202,7 @@
     "fileHash": "sha256-fafa238655cb9108bf4def845f98c7f226f3e69e207d9e9a62f06b15469f95f0"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DiziRella.cs3?v=b4155b28465ef29f",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DiziRella.cs3?v=7c1a63a96d49",
     "status": 3,
     "version": 8,
     "name": "DiziRella",
@@ -211,7 +211,7 @@
       "Wiojelt"
     ],
     "description": "DiziRella · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 135438,
+    "fileSize": 137139,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -222,7 +222,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizirella.net&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-b4155b28465ef29fabe72d2660d5f877a510003d5fc751a8980411c924cdaa04"
+    "fileHash": "sha256-7c1a63a96d49b750cbb6624813fa6b5089d175a96af19eea4ef83bd051f9fbcb"
   },
   {
     "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DiziYou.cs3?v=fb8343407603",
@@ -385,7 +385,7 @@
     "fileHash": "sha256-d16b591cdfbb26a577492143f21b567a6cb929187edb3d9d09fb4f2dd6e37272"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/HDFilmDelisi.cs3?v=75ae7388d22c35c0",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/HDFilmDelisi.cs3?v=db4d36566bc5",
     "status": 3,
     "version": 7,
     "name": "HDFilmDelisi",
@@ -394,7 +394,7 @@
       "Wiojelt"
     ],
     "description": "H D Film Delisi · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 152478,
+    "fileSize": 154304,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -405,7 +405,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmdelisi.one&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-75ae7388d22c35c0490c323df4e4790fc2941e418ff1c7253777a216c048f4af"
+    "fileHash": "sha256-db4d36566bc5483a9de0864785c1b0ff0deb419ffe34f828da0d57ebc992f716"
   },
   {
     "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/HDFilmizleBest.cs3?v=a3fde6548985",
@@ -545,7 +545,7 @@
     "fileHash": "sha256-dd311e265a47220e0858f3950a580ffac594d856b41a18948426cf4d2d806e0c"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/LiderFilmIzle.cs3?v=63870fe2403b",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/LiderFilmIzle.cs3?v=3547650abc3b",
     "status": 3,
     "version": 7,
     "name": "LiderFilmIzle",
@@ -554,7 +554,7 @@
       "Wiojelt"
     ],
     "description": "LiderFilmİzle · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 135445,
+    "fileSize": 137142,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -565,7 +565,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=liderfilmizle.com&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-63870fe2403b1a16c09cdae8759eb1ba53288cdad5605467d6b66907ab3256fa"
+    "fileHash": "sha256-3547650abc3b787462fb290f6ed3e545dff4e92fdbf8b413b7408506dcff16b4"
   },
   {
     "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/PowerSinema.cs3?v=8a946b6541ef",
@@ -723,7 +723,7 @@
     "fileHash": "sha256-f81006b91b12dc76737309eece58fc7e1053a95db2c29d87ed42dfee1def7ece"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/TrDiziIzle.cs3?v=3cafe5a12d77",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/TrDiziIzle.cs3?v=b0d388ffe29d",
     "status": 3,
     "version": 7,
     "name": "TrDiziIzle",
@@ -732,7 +732,7 @@
       "Wiojelt"
     ],
     "description": "TrDiziİzle · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 135416,
+    "fileSize": 137065,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -743,7 +743,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=trdiziizle.tv&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-3cafe5a12d77298b604ee7f315d63a380411f3bc896806f492cfd5d8c42831c8"
+    "fileHash": "sha256-b0d388ffe29d45bdf5f3feb06bc7721a4066c2e3c61453654c52612d385d14cd"
   },
   {
     "internalName": "TvDiziler",
