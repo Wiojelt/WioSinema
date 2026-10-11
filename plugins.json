@@ -115,7 +115,7 @@
     "fileHash": "sha256-11ac03407cac87e32fab87601856d906e9d035b8f0ddb95a070590508cec43a3"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/Dizilla.cs3?v=e5c02f0ac4aa",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/Dizilla.cs3?v=f89de7b97bb3",
     "status": 3,
     "version": 8,
     "name": "Dizilla",
@@ -124,7 +124,7 @@
       "Wiojelt"
     ],
     "description": "Dizilla · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 129862,
+    "fileSize": 131693,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -135,7 +135,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-e5c02f0ac4aadc8dca2b207c42ef0d233fdabf681bc8c22d9b095558f9f77ee7"
+    "fileHash": "sha256-f89de7b97bb39cb12f5b10074c99c61d9db0af48ab8ea6956f02943a3dff55ce"
   },
   {
     "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DiziBol.cs3?v=2ae7dfc47dac",
@@ -615,10 +615,10 @@
     "internalName": "SelcukFlix",
     "name": "SelcukFlix",
     "version": 4,
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/SelcukFlix.cs3?v=01614028e766",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/SelcukFlix.cs3?v=6bab4dca262e",
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "fileHash": "sha256-01614028e766ce620af9902e4fde231a443fd7281ad0e68fa24a3eb87d10cce0",
-    "fileSize": 123495,
+    "fileHash": "sha256-6bab4dca262e8cc0d9ba4a0d8e3c82d2fdd1a66bb74eefc1b7703e12a212018d",
+    "fileSize": 125208,
     "status": 1,
     "apiVersion": 1,
     "language": "tr",
@@ -654,7 +654,7 @@
     "fileHash": "sha256-de6a3491c29768727dc05697a8e4de50d1777d96aa293894e1238fd0a3f3c548"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/SezonlukDizi.cs3?v=e3dedf1ab02b",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/SezonlukDizi.cs3?v=a4614d53a3cc",
     "status": 3,
     "version": 8,
     "name": "SezonlukDizi",
@@ -663,7 +663,7 @@
       "Wiojelt"
     ],
     "description": "Sezonluk Dizi · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 114593,
+    "fileSize": 116060,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -674,7 +674,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=sezonlukdizi.cc&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-e3dedf1ab02bb95da47ab4aed580857a6c246c86f31558c085fed54282387f18"
+    "fileHash": "sha256-a4614d53a3cce443e4a31ff0e5e02cb4527d05b4ab990448ea87935d1439b7ab"
   },
   {
     "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/Sinewix.cs3?v=cd9ec2a5f040",
