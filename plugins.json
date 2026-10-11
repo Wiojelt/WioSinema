@@ -179,16 +179,16 @@
     "fileHash": "sha256-363b18e633f4547081f5798282e183bc82024360e0479b4f3d30825d553adc0f"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DiziPalHub.cs3?v=cff0735037bf",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DiziPalHub.cs3?v=216025651329",
     "status": 3,
-    "version": 17,
+    "version": 18,
     "name": "DiziPalHub",
     "internalName": "DiziPalHub",
     "authors": [
       "Wiojelt"
     ],
     "description": "DiziPal Hub · 2225, DDiziPal, Orjinal 14 ve 1588 kaynakları tek merkezde",
-    "fileSize": 207437,
+    "fileSize": 208248,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -199,7 +199,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/DiziPalHub.png",
     "apiVersion": 1,
-    "fileHash": "sha256-cff0735037bf816e079dc566c5e2593773d5e6c8ec168c6807c2fc27ccab7cdf"
+    "fileHash": "sha256-2160256513291bc1b4406c24b10819ad66d860d528a606cd4df4636377da7963"
   },
   {
     "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DiziRella.cs3?v=7c1a63a96d49",
@@ -339,16 +339,16 @@
     "fileHash": "sha256-5aa2f17318f714cce7348c06b05e8920bab931cae9aec8a04fb0e982fc43bece"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/FullHDFilmizlesene.cs3?v=6f2f80375441",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/FullHDFilmizlesene.cs3?v=554a50415dd1",
     "status": 3,
-    "version": 9,
+    "version": 10,
     "name": "FullHDFilmizlesene",
     "internalName": "FullHDFilmizlesene",
     "authors": [
       "Wiojelt"
     ],
     "description": "Full H D Filmizlesene · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 135490,
+    "fileSize": 137274,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -359,7 +359,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.now&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-6f2f80375441403a10643c80d993da24201c4ffe94cca2b47eb146d7382fdd54"
+    "fileHash": "sha256-554a50415dd1356d3f4ab65ca252243a481032f53fb6e5814deff2d95fa528b9"
   },
   {
     "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/HDFilmCehennemi.cs3?v=d16b591cdfbb",
