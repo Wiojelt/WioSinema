@@ -8,7 +8,7 @@
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/WioSinema.cs3?v=984ad489bcb3",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/WioSinema.cs3?v=fc4b6c1cef2a",
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png",
     "tvTypes": [
       "Movie",
@@ -115,7 +115,7 @@
     "fileHash": "sha256-11ac03407cac87e32fab87601856d906e9d035b8f0ddb95a070590508cec43a3"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/Dizilla.cs3?v=9365d4d8d472",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/Dizilla.cs3?v=59dae9663628",
     "status": 3,
     "version": 10,
     "name": "Dizilla",
@@ -179,7 +179,7 @@
     "fileHash": "sha256-e54265fa3acab5b50e6e5d02f4d2d89479b08816b6c319601afaaf659eb47fa8"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DiziPalHub.cs3?v=f5a5ce5ef655",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DiziPalHub.cs3?v=61e770d1e1ea",
     "status": 3,
     "version": 21,
     "name": "DiziPalHub",
@@ -677,7 +677,7 @@
     "fileHash": "sha256-97a38b36f5c012f975ae3de9c160da6e44496234ef86f22c8b88555f60da147b"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/Sinewix.cs3?v=5ecb0e5b9683",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/Sinewix.cs3?v=54649395dc00",
     "status": 3,
     "version": 11,
     "name": "Sinewix",
