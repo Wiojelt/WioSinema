@@ -2,13 +2,13 @@
   {
     "name": "0 WioSinema",
     "internalName": "WioSinema",
-    "version": 81,
+    "version": 83,
     "description": "WioSinema - Türkçe film ve dizi sağlayıcıları tek katalogda. Seçili kaynaklar ve alternatif eşleşmeler taranır.",
     "authors": [
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/WioSinema.cs3?v=efe072df39a9",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/WioSinema.cs3?v=98d69820be37",
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png",
     "tvTypes": [
       "Movie",
@@ -17,8 +17,8 @@
     ],
     "language": "tr",
     "status": 3,
-    "fileSize": 2142275,
-    "fileHash": "sha256-efe072df39a91213bbf3dae73dd28667c5dbd2ffb325f723a8f37ec25f14b701",
+    "fileSize": 2317077,
+    "fileHash": "sha256-98d69820be37cac8cbdbc31e8dc7b3425de47da66a4e62fa46595e0d915d98da",
     "apiVersion": 1
   },
   {
@@ -115,16 +115,16 @@
     "fileHash": "sha256-11ac03407cac87e32fab87601856d906e9d035b8f0ddb95a070590508cec43a3"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/Dizilla.cs3?v=f89de7b97bb3",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/Dizilla.cs3?v=9365d4d8d472",
     "status": 3,
-    "version": 8,
+    "version": 9,
     "name": "Dizilla",
     "internalName": "Dizilla",
     "authors": [
       "Wiojelt"
     ],
     "description": "Dizilla · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 131693,
+    "fileSize": 134291,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -135,7 +135,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-f89de7b97bb39cb12f5b10074c99c61d9db0af48ab8ea6956f02943a3dff55ce"
+    "fileHash": "sha256-9365d4d8d472c463ac4e820fb546d1b06c025c9af4ca971d3171ad6a16450098"
   },
   {
     "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DiziBol.cs3?v=2ae7dfc47dac",
@@ -159,16 +159,16 @@
     "fileHash": "sha256-2ae7dfc47dacaa80baea833373b454e4ab595edd35f3f137011e7e32de136b45"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DiziMom.cs3?v=363b18e633f4",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DiziMom.cs3?v=e54265fa3aca",
     "status": 3,
-    "version": 8,
+    "version": 9,
     "name": "DiziMom",
     "internalName": "DiziMom",
     "authors": [
       "Wiojelt"
     ],
     "description": "Dizi Mom · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 126724,
+    "fileSize": 127829,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -176,19 +176,19 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DiziMom.png",
     "apiVersion": 1,
-    "fileHash": "sha256-363b18e633f4547081f5798282e183bc82024360e0479b4f3d30825d553adc0f"
+    "fileHash": "sha256-e54265fa3acab5b50e6e5d02f4d2d89479b08816b6c319601afaaf659eb47fa8"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DiziPalHub.cs3?v=216025651329",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DiziPalHub.cs3?v=04423f79abd1",
     "status": 3,
-    "version": 18,
+    "version": 19,
     "name": "DiziPalHub",
     "internalName": "DiziPalHub",
     "authors": [
       "Wiojelt"
     ],
     "description": "DiziPal Hub · 2225, DDiziPal, Orjinal 14 ve 1588 kaynakları tek merkezde",
-    "fileSize": 208248,
+    "fileSize": 214366,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -199,7 +199,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/DiziPalHub.png",
     "apiVersion": 1,
-    "fileHash": "sha256-2160256513291bc1b4406c24b10819ad66d860d528a606cd4df4636377da7963"
+    "fileHash": "sha256-04423f79abd1061f4aff48dcff2fa40e07d05d08c3bfb0e4bb02ba4c3c663424"
   },
   {
     "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DiziRella.cs3?v=7c1a63a96d49",
@@ -614,11 +614,11 @@
   {
     "internalName": "SelcukFlix",
     "name": "SelcukFlix",
-    "version": 4,
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/SelcukFlix.cs3?v=6bab4dca262e",
+    "version": 5,
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/SelcukFlix.cs3?v=7648b31bf94b",
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "fileHash": "sha256-6bab4dca262e8cc0d9ba4a0d8e3c82d2fdd1a66bb74eefc1b7703e12a212018d",
-    "fileSize": 125208,
+    "fileHash": "sha256-7648b31bf94b4de9db0a7790060e00630ced8485c7f7735f8ce6bb74e3e3c6f7",
+    "fileSize": 271356,
     "status": 1,
     "apiVersion": 1,
     "language": "tr",
@@ -654,7 +654,7 @@
     "fileHash": "sha256-de6a3491c29768727dc05697a8e4de50d1777d96aa293894e1238fd0a3f3c548"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/SezonlukDizi.cs3?v=97a38b36f5c0_1",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/SezonlukDizi.cs3?v=97a38b36f5c0",
     "status": 3,
     "version": 9,
     "name": "SezonlukDizi",
