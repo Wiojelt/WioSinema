@@ -8,7 +8,7 @@
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/WioSinema.cs3?v=fc4b6c1cef2a",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/WioSinema.cs3?v=fc4b6c1cef2a",
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png",
     "tvTypes": [
       "Movie",
@@ -22,7 +22,7 @@
     "apiVersion": 1
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/TurkishCineStream.cs3?v=ca1989aeea4c",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/TurkishCineStream.cs3?v=ca1989aeea4c",
     "status": 1,
     "version": 487,
     "name": "1 TurkishCineStream",
@@ -46,7 +46,7 @@
     "fileHash": "sha256-ca1989aeea4c068d2315d67a72ae64e2c5c5f2c9e4436dea124b897925f5322d"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/BelgeselX.cs3?v=00996f7478e8",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/BelgeselX.cs3?v=00996f7478e8",
     "status": 3,
     "version": 9,
     "name": "BelgeselX",
@@ -69,7 +69,7 @@
     "fileHash": "sha256-00996f7478e8b42b9e9f6fe97e107a88b9a607c6a855e6b226893fe291d1376d"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DDizi.cs3?v=3881353583d1",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/DDizi.cs3?v=3881353583d1",
     "status": 3,
     "version": 8,
     "name": "DDizi",
@@ -92,7 +92,7 @@
     "fileHash": "sha256-3881353583d130d0a9b1346a24361ef46b99e1a9b0b6778089a2bbc1f4585090"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DiziBox.cs3?v=11ac03407cac",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/DiziBox.cs3?v=11ac03407cac",
     "status": 3,
     "version": 11,
     "name": "DiziBox",
@@ -115,7 +115,7 @@
     "fileHash": "sha256-11ac03407cac87e32fab87601856d906e9d035b8f0ddb95a070590508cec43a3"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/Dizilla.cs3?v=59dae9663628",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/Dizilla.cs3?v=59dae9663628",
     "status": 3,
     "version": 10,
     "name": "Dizilla",
@@ -138,7 +138,7 @@
     "fileHash": "sha256-59dae966362854f58fbf97c8083d080cb27d524399b0ce09a3e044c049c158aa"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DiziBol.cs3?v=2ae7dfc47dac",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/DiziBol.cs3?v=2ae7dfc47dac",
     "status": 3,
     "version": 7,
     "name": "DiziBol",
@@ -159,7 +159,7 @@
     "fileHash": "sha256-2ae7dfc47dacaa80baea833373b454e4ab595edd35f3f137011e7e32de136b45"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DiziMom.cs3?v=e54265fa3aca",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/DiziMom.cs3?v=e54265fa3aca",
     "status": 3,
     "version": 9,
     "name": "DiziMom",
@@ -179,7 +179,7 @@
     "fileHash": "sha256-e54265fa3acab5b50e6e5d02f4d2d89479b08816b6c319601afaaf659eb47fa8"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DiziPalHub.cs3?v=61e770d1e1ea",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/DiziPalHub.cs3?v=61e770d1e1ea",
     "status": 3,
     "version": 21,
     "name": "DiziPalHub",
@@ -202,7 +202,7 @@
     "fileHash": "sha256-61e770d1e1ea9404e88b8774d8da91b8bf720a57499ecc93df909243bc469db6"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DiziRella.cs3?v=7c1a63a96d49",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/DiziRella.cs3?v=7c1a63a96d49",
     "status": 3,
     "version": 8,
     "name": "DiziRella",
@@ -225,7 +225,7 @@
     "fileHash": "sha256-7c1a63a96d49b750cbb6624813fa6b5089d175a96af19eea4ef83bd051f9fbcb"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DiziYou.cs3?v=fb8343407603",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/DiziYou.cs3?v=fb8343407603",
     "status": 3,
     "version": 7,
     "name": "DiziYou",
@@ -248,7 +248,7 @@
     "fileHash": "sha256-fb834340760364dd67d6611b57f7635de634d1f62062f9b30d1a5431e29840ac"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/Dmax.cs3?v=f03c1d5fdb4f",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/Dmax.cs3?v=f03c1d5fdb4f",
     "status": 3,
     "version": 1,
     "name": "Dmax",
@@ -270,7 +270,7 @@
     "fileHash": "sha256-f03c1d5fdb4f7fac476a763e6686cd58e40dc5d6a950f65e05797a43e7b52f13"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/FilmMakinesi.cs3?v=cfb9a5c37535",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/FilmMakinesi.cs3?v=cfb9a5c37535",
     "status": 3,
     "version": 8,
     "name": "FilmMakinesi",
@@ -293,7 +293,7 @@
     "fileHash": "sha256-cfb9a5c375351f8a1adc97a4c5482c7d4bba1fde55925f6f0e09ca2a9705ef03"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/FilmModu.cs3?v=e8dd82237e33",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/FilmModu.cs3?v=e8dd82237e33",
     "status": 3,
     "version": 8,
     "name": "FilmModu",
@@ -316,7 +316,7 @@
     "fileHash": "sha256-e8dd82237e3398b260413768f3fab981b4fb582211a945dd14b22f0b98058c8b"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/FullHDFilm.cs3?v=5aa2f17318f7",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/FullHDFilm.cs3?v=5aa2f17318f7",
     "status": 3,
     "version": 7,
     "name": "FullHDFilm",
@@ -339,7 +339,7 @@
     "fileHash": "sha256-5aa2f17318f714cce7348c06b05e8920bab931cae9aec8a04fb0e982fc43bece"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/FullHDFilmizlesene.cs3?v=554a50415dd1",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/FullHDFilmizlesene.cs3?v=554a50415dd1",
     "status": 3,
     "version": 10,
     "name": "FullHDFilmizlesene",
@@ -362,7 +362,7 @@
     "fileHash": "sha256-554a50415dd1356d3f4ab65ca252243a481032f53fb6e5814deff2d95fa528b9"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/HDFilmCehennemi.cs3?v=d16b591cdfbb",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/HDFilmCehennemi.cs3?v=d16b591cdfbb",
     "status": 3,
     "version": 7,
     "name": "HDFilmCehennemi",
@@ -385,7 +385,7 @@
     "fileHash": "sha256-d16b591cdfbb26a577492143f21b567a6cb929187edb3d9d09fb4f2dd6e37272"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/HDFilmDelisi.cs3?v=db4d36566bc5",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/HDFilmDelisi.cs3?v=db4d36566bc5",
     "status": 3,
     "version": 7,
     "name": "HDFilmDelisi",
@@ -408,7 +408,7 @@
     "fileHash": "sha256-db4d36566bc5483a9de0864785c1b0ff0deb419ffe34f828da0d57ebc992f716"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/HDFilmizleBest.cs3?v=a3fde6548985",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/HDFilmizleBest.cs3?v=a3fde6548985",
     "status": 3,
     "version": 1,
     "name": "HDFilmizleBest",
@@ -431,7 +431,7 @@
     "fileHash": "sha256-a3fde654898531666627f70f96724ba741045772008af3a97c9ed7a994b8ed6d"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/HDFilmIzleInk.cs3?v=e79a966fa1fa",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/HDFilmIzleInk.cs3?v=e79a966fa1fa",
     "status": 3,
     "version": 7,
     "name": "HDFilmIzleInk",
@@ -454,7 +454,7 @@
     "fileHash": "sha256-e79a966fa1fae26f9ca37be24150a22b186e8c74b8557c995b813ae5f596fb5f"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/HDFilmIzleVip.cs3?v=934583ab1da7",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/HDFilmIzleVip.cs3?v=934583ab1da7",
     "status": 3,
     "version": 7,
     "name": "HDFilmIzleVip",
@@ -477,7 +477,7 @@
     "fileHash": "sha256-934583ab1da754f0a5fdf27ac91f2398e8ef7f844470e716ff50f087c66f90d3"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/InatBox.cs3?v=977b432a5fc3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/InatBox.cs3?v=977b432a5fc3",
     "status": 3,
     "version": 1,
     "name": "InatBox",
@@ -499,7 +499,7 @@
     "fileHash": "sha256-977b432a5fc3da7b411894d41cbede13e6a4fe3cd774849a3db196ef43d197ab"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/JetFilmizle.cs3?v=89c2ca6b9ba7",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/JetFilmizle.cs3?v=89c2ca6b9ba7",
     "status": 3,
     "version": 8,
     "name": "JetFilmizle",
@@ -522,7 +522,7 @@
     "fileHash": "sha256-89c2ca6b9ba7cc254ba9297d75ffd4995387df95d429be4512d8dd69a265d273"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/KultFilmler.cs3?v=dd311e265a47",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/KultFilmler.cs3?v=dd311e265a47",
     "status": 3,
     "version": 7,
     "name": "KultFilmler",
@@ -545,7 +545,7 @@
     "fileHash": "sha256-dd311e265a47220e0858f3950a580ffac594d856b41a18948426cf4d2d806e0c"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/LiderFilmIzle.cs3?v=3547650abc3b",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/LiderFilmIzle.cs3?v=3547650abc3b",
     "status": 3,
     "version": 7,
     "name": "LiderFilmIzle",
@@ -568,7 +568,7 @@
     "fileHash": "sha256-3547650abc3b787462fb290f6ed3e545dff4e92fdbf8b413b7408506dcff16b4"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/PowerSinema.cs3?v=8a946b6541ef",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/PowerSinema.cs3?v=8a946b6541ef",
     "status": 3,
     "version": 1,
     "name": "PowerSinema",
@@ -590,7 +590,7 @@
     "fileHash": "sha256-8a946b6541ef9226556df4ae421b0b2449bd97607241a5de7942bd6e2bd2207c"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/RecTV.cs3?v=e13eb4ff1ea1",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/RecTV.cs3?v=e13eb4ff1ea1",
     "status": 3,
     "version": 2,
     "name": "RecTV",
@@ -615,7 +615,7 @@
     "internalName": "SelcukFlix",
     "name": "SelcukFlix",
     "version": 5,
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/SelcukFlix.cs3?v=7648b31bf94b",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/SelcukFlix.cs3?v=7648b31bf94b",
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "fileHash": "sha256-7648b31bf94b4de9db0a7790060e00630ced8485c7f7735f8ce6bb74e3e3c6f7",
     "fileSize": 271356,
@@ -631,7 +631,7 @@
     ]
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/SetFilmIzle.cs3?v=de6a3491c297",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/SetFilmIzle.cs3?v=de6a3491c297",
     "status": 3,
     "version": 7,
     "name": "SetFilmIzle",
@@ -654,7 +654,7 @@
     "fileHash": "sha256-de6a3491c29768727dc05697a8e4de50d1777d96aa293894e1238fd0a3f3c548"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/SezonlukDizi.cs3?v=97a38b36f5c0",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/SezonlukDizi.cs3?v=97a38b36f5c0",
     "status": 3,
     "version": 9,
     "name": "SezonlukDizi",
@@ -677,7 +677,7 @@
     "fileHash": "sha256-97a38b36f5c012f975ae3de9c160da6e44496234ef86f22c8b88555f60da147b"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/Sinewix.cs3?v=54649395dc00",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/Sinewix.cs3?v=54649395dc00",
     "status": 3,
     "version": 11,
     "name": "Sinewix",
@@ -700,7 +700,7 @@
     "fileHash": "sha256-54649395dc009a182c2f80b074df8917edb98b124dff08d7cf5f6f38628f8415"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/Tlctr.cs3?v=f81006b91b12",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/Tlctr.cs3?v=f81006b91b12",
     "status": 3,
     "version": 7,
     "name": "Tlctr",
@@ -723,7 +723,7 @@
     "fileHash": "sha256-f81006b91b12dc76737309eece58fc7e1053a95db2c29d87ed42dfee1def7ece"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/TrDiziIzle.cs3?v=b0d388ffe29d",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/TrDiziIzle.cs3?v=b0d388ffe29d",
     "status": 3,
     "version": 7,
     "name": "TrDiziIzle",
@@ -749,7 +749,7 @@
     "internalName": "TvDiziler",
     "name": "TvDiziler",
     "version": 1,
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/TvDiziler.cs3?v=09aa49b326aa",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/TvDiziler.cs3?v=09aa49b326aa",
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "fileHash": "sha256-09aa49b326aa151d9c73f58d6c4dec50cf40bb13e688cfb0c4da38f578d8f5e8",
     "fileSize": 2028325,
@@ -765,7 +765,7 @@
     ]
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/YabanciDizi.cs3?v=9000debd7717",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/YabanciDizi.cs3?v=9000debd7717",
     "status": 3,
     "version": 7,
     "name": "YabanciDizi",
@@ -788,7 +788,7 @@
     "fileHash": "sha256-9000debd77172d88c55b64e9439d06f4543e89593e93418a7b044eb9c052f564"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/YesilCamTv.cs3?v=144c2cf233e3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/YesilCamTv.cs3?v=144c2cf233e3",
     "status": 3,
     "version": 1,
     "name": "YesilCamTv",
@@ -808,7 +808,7 @@
     "fileHash": "sha256-144c2cf233e315eccb2d796f11b83a7309ec8d7ce975a612ddea6e63aa11c056"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/WebteIzle.cs3?v=fe93e5d1cdf0",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/WebteIzle.cs3?v=fe93e5d1cdf0",
     "status": 3,
     "version": 15,
     "name": "WebteIzle",
