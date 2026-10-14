@@ -2,13 +2,13 @@
   {
     "name": "0 WioSinema",
     "internalName": "WioSinema",
-    "version": 84,
+    "version": 85,
     "description": "WioSinema - Türkçe film ve dizi sağlayıcıları tek katalogda. Seçili kaynaklar ve alternatif eşleşmeler taranır.",
     "authors": [
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/WioSinema.cs3?v=984ad489bcb3",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/WioSinema.cs3?v=fc4b6c1cef2a",
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png",
     "tvTypes": [
       "Movie",
@@ -17,8 +17,8 @@
     ],
     "language": "tr",
     "status": 3,
-    "fileSize": 2325493,
-    "fileHash": "sha256-984ad489bcb3ad5e0e049036b0ec0e66d8648c850bc2169e33387dd012f3f10c",
+    "fileSize": 2328244,
+    "fileHash": "sha256-fc4b6c1cef2a44fb617a098767a32e5dce02a078fae6a99b9751d258aabfe8e9",
     "apiVersion": 1
   },
   {
@@ -179,7 +179,7 @@
     "fileHash": "sha256-e54265fa3acab5b50e6e5d02f4d2d89479b08816b6c319601afaaf659eb47fa8"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DiziPalHub.cs3?v=e11ccd4906f0",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DiziPalHub.cs3?v=61e770d1e1ea",
     "status": 3,
     "version": 21,
     "name": "DiziPalHub",
@@ -188,7 +188,7 @@
       "Wiojelt"
     ],
     "description": "DiziPal Hub · 2225, DDiziPal, Orjinal 14 ve 1588 kaynakları tek merkezde",
-    "fileSize": 221880,
+    "fileSize": 219063,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -199,7 +199,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/DiziPalHub.png",
     "apiVersion": 1,
-    "fileHash": "sha256-e11ccd4906f0bfac1d7e7afb5a64cb7cb78a84ae19e6c36992d4d9f87cd4f2e3"
+    "fileHash": "sha256-61e770d1e1ea9404e88b8774d8da91b8bf720a57499ecc93df909243bc469db6"
   },
   {
     "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DiziRella.cs3?v=7c1a63a96d49",
@@ -788,7 +788,7 @@
     "fileHash": "sha256-9000debd77172d88c55b64e9439d06f4543e89593e93418a7b044eb9c052f564"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/YesilCamTv.cs3?v=55e75de0e2bf",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/YesilCamTv.cs3?v=144c2cf233e3",
     "status": 3,
     "version": 1,
     "name": "YesilCamTv",
@@ -797,7 +797,7 @@
       "Wiojelt"
     ],
     "description": "Yeşilçam TV · Klasik Türk Sineması, Kemal Sunal, Cüneyt Arkın arşivi",
-    "fileSize": 111764,
+    "fileSize": 111759,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -805,7 +805,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=yesilcamtv.com.tr&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-55e75de0e2bfb58e0fb3e8b52ef70fddee6d91760cccef21f35fa560dbd32013"
+    "fileHash": "sha256-144c2cf233e315eccb2d796f11b83a7309ec8d7ce975a612ddea6e63aa11c056"
   },
   {
     "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/WebteIzle.cs3?v=fe93e5d1cdf0",
