@@ -677,16 +677,16 @@
     "fileHash": "sha256-97a38b36f5c012f975ae3de9c160da6e44496234ef86f22c8b88555f60da147b"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/Sinewix.cs3?v=f3a4a6312dd3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/Sinewix.cs3?v=e678c4d9ce0f",
     "status": 3,
-    "version": 12,
-    "name": "Sinewix",
+    "version": 13,
+    "name": "fragileTV",
     "internalName": "Sinewix",
     "authors": [
       "Wiojelt"
     ],
-    "description": "Sinewix · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 132025,
+    "description": "fragileTV · Film, Dizi ve Animasyon arşivi",
+    "fileSize": 132022,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -695,9 +695,9 @@
       "Anime",
       "Documentary"
     ],
-    "iconUrl": "https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX=w240-h480",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/fragiletv.png",
     "apiVersion": 1,
-    "fileHash": "sha256-f3a4a6312dd3bddbce34606b75344aed1701407adf5709da393bbe2474b11536"
+    "fileHash": "sha256-e678c4d9ce0fa56569ae3a6098155263372bb7d00d7c92ba3dcd80fbdd8f9661"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/Tlctr.cs3?v=f81006b91b12",
