@@ -478,28 +478,6 @@
     "fileHash": "sha256-934583ab1da754f0a5fdf27ac91f2398e8ef7f844470e716ff50f087c66f90d3"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/InatBox.cs3?v=977b432a5fc3",
-    "status": 3,
-    "version": 1,
-    "name": "InatBox",
-    "internalName": "InatBox",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "İnatBox · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 141345,
-    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Live"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/assets/inatbox.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-977b432a5fc3da7b411894d41cbede13e6a4fe3cd774849a3db196ef43d197ab"
-  },
-  {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/JetFilmizle.cs3?v=89c2ca6b9ba7",
     "status": 3,
     "version": 8,
@@ -589,28 +567,6 @@
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/logo.png",
     "apiVersion": 1,
     "fileHash": "sha256-8a946b6541ef9226556df4ae421b0b2449bd97607241a5de7942bd6e2bd2207c"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/RecTV.cs3?v=e13eb4ff1ea1",
-    "status": 3,
-    "version": 2,
-    "name": "RecTV",
-    "internalName": "RecTV",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "RecTV · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 142785,
-    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Live"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/assets/rectv.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-e13eb4ff1ea1b80e9da9309c9dfba77abd4928e51a2e883a9edd2afb23ffc27a"
   },
   {
     "internalName": "SelcukFlix",
