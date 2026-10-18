@@ -140,14 +140,14 @@
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/DiziBol.cs3?v=2ae7dfc47dac",
     "status": 3,
-    "version": 7,
+    "version": 8,
     "name": "DiziBol",
     "internalName": "DiziBol",
     "authors": [
       "Wiojelt"
     ],
     "description": "DiziBol; bazı filmlerde kaynak bulunmayabilir ve bu ayrıntı sayfasında belirtilir.",
-    "fileSize": 137125,
+    "fileSize": 139195,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -156,7 +156,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizibol.org&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-2ae7dfc47dacaa80baea833373b454e4ab595edd35f3f137011e7e32de136b45"
+    "fileHash": "sha256-80d33a6d0d4328d257388e82694888c4603b32a03f6cfd90c6a20fadee172654"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/DiziMom.cs3?v=9db0c2057c9b",
