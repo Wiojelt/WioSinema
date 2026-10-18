@@ -787,7 +787,7 @@
   {
     "name": "SinemaTV",
     "internalName": "SinemaTV",
-    "version": 8,
+    "version": 9,
     "description": "SinemaTV · Azərbaycan və xarici filmlər, seriallar və cizgi filmləri.",
     "authors": [
       "Wiojelt"
@@ -803,9 +803,9 @@
     ],
     "language": "az",
     "status": 1,
-    "fileSize": 128035,
-    "fileHash": "sha256-80833f4d333735fdc18062d7f1e37dfcf86503e3ea9ac91dbf624badcb01c993",
+    "fileSize": 135132,
+    "fileHash": "sha256-d1460d24bf2543ac1c399f7cddcb8bbd07e21fef15c0fa0b053b840e12aa87d9",
     "apiVersion": 1,
-    "hash": "80833f4d333735fdc18062d7f1e37dfcf86503e3ea9ac91dbf624badcb01c993"
+    "hash": "d1460d24bf2543ac1c399f7cddcb8bbd07e21fef15c0fa0b053b840e12aa87d9"
   }
 ]
