@@ -179,16 +179,16 @@
     "fileHash": "sha256-9db0c2057c9b41be745b6a5aa38d087ba7e32031b6a45627febc1a33b4c1155e"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/DiziPalHub.cs3?v=70f18ab8350b_1792234622",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/DiziPalHub.cs3?v=6648ae8c77ad_1792324574",
     "status": 3,
-    "version": 23,
+    "version": 24,
     "name": "DiziPalHub",
     "internalName": "DiziPalHub",
     "authors": [
       "Wiojelt"
     ],
-    "description": "DiziPal Hub · Son Bölümler, 1590, 2225, DDiziPal ve Orjinal 14 kaynakları tek merkezde",
-    "fileSize": 223245,
+    "description": "DiziPal Hub · Son Bölümler, 1590, 2225, DDiziPal ve Orjinal 15 kaynakları tek merkezde",
+    "fileSize": 224419,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -199,8 +199,8 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/DiziPalHub.png",
     "apiVersion": 1,
-    "fileHash": "sha256-70f18ab8350b1b474f31bc99671a43ab9fc772ffb01d3eba4b33491049672c76",
-    "hash": "70f18ab8350b1b474f31bc99671a43ab9fc772ffb01d3eba4b33491049672c76"
+    "fileHash": "sha256-6648ae8c77addf4484af41096de9123a144efe5c2c56067a04e570d2d48603b5",
+    "hash": "6648ae8c77addf4484af41096de9123a144efe5c2c56067a04e570d2d48603b5"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/DiziRella.cs3?v=7c1a63a96d49",
@@ -783,5 +783,29 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle.info&sz=128",
     "apiVersion": 1,
     "fileHash": "sha256-fe93e5d1cdf057ca5a1bfbf6a770653750ba6b36e7465692e0309895f3f51d49"
+  },
+  {
+    "name": "SinemaTV",
+    "internalName": "SinemaTV",
+    "version": 8,
+    "description": "SinemaTV · Azərbaycan və xarici filmlər, seriallar və cizgi filmləri.",
+    "authors": [
+      "Wiojelt"
+    ],
+    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/SinemaTV.cs3?v=80833f4d3337_1792324574",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/sinematv.png",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Cartoon"
+    ],
+    "language": "az",
+    "status": 1,
+    "fileSize": 128035,
+    "fileHash": "sha256-80833f4d333735fdc18062d7f1e37dfcf86503e3ea9ac91dbf624badcb01c993",
+    "apiVersion": 1,
+    "hash": "80833f4d333735fdc18062d7f1e37dfcf86503e3ea9ac91dbf624badcb01c993"
   }
 ]
