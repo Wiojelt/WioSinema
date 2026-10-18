@@ -179,7 +179,7 @@
     "fileHash": "sha256-9db0c2057c9b41be745b6a5aa38d087ba7e32031b6a45627febc1a33b4c1155e"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/DiziPalHub.cs3?v=6648ae8c77ad_1792324574",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/DiziPalHub.cs3?v=6648ae8c77ad",
     "status": 3,
     "version": 24,
     "name": "DiziPalHub",
@@ -793,7 +793,7 @@
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/SinemaTV.cs3?v=80833f4d3337_1792324574",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/SinemaTV.cs3?v=d1460d24bf25",
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/sinematv.png",
     "tvTypes": [
       "Movie",
