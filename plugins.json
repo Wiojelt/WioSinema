@@ -2,13 +2,13 @@
   {
     "name": "0 WioSinema",
     "internalName": "WioSinema",
-    "version": 85,
+    "version": 86,
     "description": "WioSinema - Türkçe film ve dizi sağlayıcıları tek katalogda. Seçili kaynaklar ve alternatif eşleşmeler taranır.",
     "authors": [
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/WioSinema.cs3?v=fc4b6c1cef2a",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/WioSinema.cs3?v=8ff724dd0556",
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png",
     "tvTypes": [
       "Movie",
@@ -17,8 +17,8 @@
     ],
     "language": "tr",
     "status": 3,
-    "fileSize": 2328244,
-    "fileHash": "sha256-fc4b6c1cef2a44fb617a098767a32e5dce02a078fae6a99b9751d258aabfe8e9",
+    "fileSize": 2284260,
+    "fileHash": "sha256-8ff724dd05561be242c0330fa8e66f1cf26a4172e8ca9c34ab266b5dd5cfa436",
     "apiVersion": 1
   },
   {
@@ -611,16 +611,16 @@
     "fileHash": "sha256-de6a3491c29768727dc05697a8e4de50d1777d96aa293894e1238fd0a3f3c548"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/SezonlukDizi.cs3?v=97a38b36f5c0",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/SezonlukDizi.cs3?v=98d81130e276",
     "status": 3,
-    "version": 9,
+    "version": 10,
     "name": "SezonlukDizi",
     "internalName": "SezonlukDizi",
     "authors": [
       "Wiojelt"
     ],
     "description": "Sezonluk Dizi · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 122853,
+    "fileSize": 124477,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -631,7 +631,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=sezonlukdizi.cc&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-97a38b36f5c012f975ae3de9c160da6e44496234ef86f22c8b88555f60da147b"
+    "fileHash": "sha256-98d81130e276abdaef899bb4395d7efef182b57606cb265096ec4c27a4b93f6a"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/Sinewix.cs3?v=808c2ea72fd5",
