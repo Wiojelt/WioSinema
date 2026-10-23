@@ -179,16 +179,16 @@
     "fileHash": "sha256-9db0c2057c9b41be745b6a5aa38d087ba7e32031b6a45627febc1a33b4c1155e"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/DiziPalHub.cs3?v=6648ae8c77ad",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/DiziPalHub.cs3?v=9edbba7de771",
     "status": 3,
-    "version": 24,
+    "version": 25,
     "name": "DiziPalHub",
     "internalName": "DiziPalHub",
     "authors": [
       "Wiojelt"
     ],
-    "description": "DiziPal Hub · Son Bölümler, 1590, 2225, DDiziPal ve Orjinal 15 kaynakları tek merkezde",
-    "fileSize": 224419,
+    "description": "DiziPal Hub · Son Bölümler, 1592, 2225, DDiziPal ve Orjinal 15 kaynakları tek merkezde",
+    "fileSize": 232194,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -199,8 +199,8 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/DiziPalHub.png",
     "apiVersion": 1,
-    "fileHash": "sha256-6648ae8c77addf4484af41096de9123a144efe5c2c56067a04e570d2d48603b5",
-    "hash": "6648ae8c77addf4484af41096de9123a144efe5c2c56067a04e570d2d48603b5"
+    "fileHash": "sha256-9edbba7de77174e2ed2828238b05ef16fedfb42e2a5f5561ff8af53c8ec59a34",
+    "hash": "9edbba7de77174e2ed2828238b05ef16fedfb42e2a5f5561ff8af53c8ec59a34"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/DiziRella.cs3?v=7c1a63a96d49",
