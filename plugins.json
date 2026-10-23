@@ -179,16 +179,16 @@
     "fileHash": "sha256-e54265fa3acab5b50e6e5d02f4d2d89479b08816b6c319601afaaf659eb47fa8"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DiziPalHub.cs3?v=61e770d1e1ea",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DiziPalHub.cs3?v=9edbba7de771",
     "status": 3,
-    "version": 21,
+    "version": 25,
     "name": "DiziPalHub",
     "internalName": "DiziPalHub",
     "authors": [
       "Wiojelt"
     ],
-    "description": "DiziPal Hub · 2225, DDiziPal, Orjinal 14 ve 1588 kaynakları tek merkezde",
-    "fileSize": 219063,
+    "description": "DiziPal Hub · Son Bölümler, 1592, 2225, DDiziPal ve Orjinal 15 kaynakları tek merkezde",
+    "fileSize": 232194,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -199,7 +199,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/DiziPalHub.png",
     "apiVersion": 1,
-    "fileHash": "sha256-61e770d1e1ea9404e88b8774d8da91b8bf720a57499ecc93df909243bc469db6"
+    "fileHash": "sha256-9edbba7de77174e2ed2828238b05ef16fedfb42e2a5f5561ff8af53c8ec59a34"
   },
   {
     "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DiziRella.cs3?v=7c1a63a96d49",
