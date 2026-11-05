@@ -8,7 +8,7 @@
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/WioSinema.cs3?v=59810c5315ab",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/WioSinema.cs3?v=b0287e06105f",
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png",
     "tvTypes": [
       "Movie",
@@ -17,8 +17,8 @@
     ],
     "language": "tr",
     "status": 3,
-    "fileSize": 2392825,
-    "fileHash": "sha256-59810c5315ab1eb27270e0469b6f75986ef17e7b9c4dc89356572c3de13c23d3",
+    "fileSize": 2396072,
+    "fileHash": "sha256-b0287e06105f1b8600d43093ed416637c02ea721cbbb34342159f49ebcd2c3f7",
     "apiVersion": 1
   },
   {
@@ -179,16 +179,16 @@
     "fileHash": "sha256-9db0c2057c9b41be745b6a5aa38d087ba7e32031b6a45627febc1a33b4c1155e"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/DiziPalHub.cs3?v=9edbba7de771",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/DiziPalHub.cs3?v=434d1102cd81",
     "status": 3,
-    "version": 25,
+    "version": 26,
     "name": "DiziPalHub",
     "internalName": "DiziPalHub",
     "authors": [
       "Wiojelt"
     ],
     "description": "DiziPal Hub · Son Bölümler, 1592, 2225, DDiziPal ve Orjinal 15 kaynakları tek merkezde",
-    "fileSize": 232194,
+    "fileSize": 234477,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -199,8 +199,8 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/DiziPalHub.png",
     "apiVersion": 1,
-    "fileHash": "sha256-9edbba7de77174e2ed2828238b05ef16fedfb42e2a5f5561ff8af53c8ec59a34",
-    "hash": "9edbba7de77174e2ed2828238b05ef16fedfb42e2a5f5561ff8af53c8ec59a34"
+    "fileHash": "sha256-434d1102cd812e176efe0d853aa05a27c1d640d4f392593ddaf8d6003d178530",
+    "hash": "434d1102cd812e176efe0d853aa05a27c1d640d4f392593ddaf8d6003d178530"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/DiziRella.cs3?v=7c1a63a96d49",
@@ -811,7 +811,7 @@
   {
     "name": "RecTV",
     "internalName": "RecTV",
-    "version": 1,
+    "version": 5,
     "description": "RecTV - Canlı TV, Spor, Film ve Dizi sağlayıcısı.",
     "authors": [
       "Wiojelt"
