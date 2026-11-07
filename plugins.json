@@ -634,9 +634,9 @@
     "fileHash": "sha256-98d81130e276abdaef899bb4395d7efef182b57606cb265096ec4c27a4b93f6a"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/Sinewix.cs3?v=6d56282c04b5",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/Sinewix.cs3?v=90e7fc4544b5",
     "status": 3,
-    "version": 20,
+    "version": 21,
     "name": "fragileTV",
     "internalName": "Sinewix",
     "authors": [
@@ -654,7 +654,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/fragiletv.png",
     "apiVersion": 1,
-    "fileHash": "sha256-6d56282c04b5e52c807e52fc38b861a70bfeb966b9eb44611d6caa8c460a3002"
+    "fileHash": "sha256-90e7fc4544b589759584dfc1cbd028255bde3a122c6684aeb1fb6a7248681619"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/Tlctr.cs3?v=f81006b91b12",
