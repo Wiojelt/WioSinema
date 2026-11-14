@@ -8,7 +8,7 @@
             "Wiojelt"
         ],
         "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-        "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/WioSinema.cs3?v=c322e716a65c",
+        "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/WioSinema.cs3?v=65e0635404bf",
         "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png",
         "tvTypes": [
             "Movie",
@@ -17,8 +17,8 @@
         ],
         "language": "tr",
         "status": 3,
-        "fileSize": 2435067,
-        "fileHash": "sha256-c322e716a65cbc7b2cf3bb5f221740dda85322f6aaf14f0a896da9a2d316327b",
+        "fileSize": 2389254,
+        "fileHash": "sha256-65e0635404bf1c24c7883390fa5a0333fffac76d3fb37c2f01498098fbdb5b02",
         "apiVersion": 1
     },
     {
