@@ -243,16 +243,16 @@
     "hash": "986928647db780ee7165199dfaf416e265def505c6b681cdf0f31d9cc36e80ae"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/DiziYou.cs3?v=e79a647bf781",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/DiziYou.cs3?v=b80d5a39f73b",
     "status": 3,
-    "version": 9,
+    "version": 10,
     "name": "DiziYou",
     "internalName": "DiziYou",
     "authors": [
       "Wiojelt"
     ],
     "description": "Dizi You · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 110761,
+    "fileSize": 109256,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -263,7 +263,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.diziyou.one&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-e79a647bf78186f409982b10c1cc4d0e62e268cf287c635f53392083f070ffb0",
+    "fileHash": "sha256-b80d5a39f73b50c2b2b015894ec2f44c0b60784e734cb166773e0b427f3ffba1",
     "filesize": 110761,
     "hash": "e79a647bf78186f409982b10c1cc4d0e62e268cf287c635f53392083f070ffb0"
   },
@@ -392,16 +392,16 @@
     "hash": "e6bc82db13d06fcc324b42ef812c8ff53c57d23b15e348ee2ec74dee069ef2c8"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/HDFilmCehennemi.cs3?v=953b30cda390",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/HDFilmCehennemi.cs3?v=c43091af7f9a",
     "status": 3,
-    "version": 8,
+    "version": 9,
     "name": "HDFilmCehennemi",
     "internalName": "HDFilmCehennemi",
     "authors": [
       "Wiojelt"
     ],
     "description": "H D Film Cehennemi · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 122948,
+    "fileSize": 122949,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -412,7 +412,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.hdfilmcehennemi.nl&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-953b30cda390f9d2f784529c0f10f862654f889d9aa75ca37e1b0dc8a9454b77",
+    "fileHash": "sha256-c43091af7f9adf7a04a3c1c5df9b5fe298c9278d8c858def43969c0fb5f177a4",
     "filesize": 122948,
     "hash": "953b30cda390f9d2f784529c0f10f862654f889d9aa75ca37e1b0dc8a9454b77"
   },
