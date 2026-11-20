@@ -123,16 +123,16 @@
     "hash": "cadb8a6abaa06517b21cd0ded9e7420466090beb42d037fd2566f79289585257"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/Dizilla.cs3?v=0d296bada3a8",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/Dizilla.cs3?v=379b7a648abf",
     "status": 3,
-    "version": 17,
+    "version": 18,
     "name": "Dizilla",
     "internalName": "Dizilla",
     "authors": [
       "Wiojelt"
     ],
     "description": "Dizilla · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 273791,
+    "fileSize": 269819,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -143,7 +143,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-0d296bada3a817a51e673c213554bde1385c8112a8ab8543fd2fde693d46ba9a",
+    "fileHash": "sha256-379b7a648abfba824e87810c00dfc53120669ddff3bce5bdc2dd91d37a7ba01c",
     "filesize": 273791,
     "hash": "0d296bada3a817a51e673c213554bde1385c8112a8ab8543fd2fde693d46ba9a"
   },
@@ -756,7 +756,7 @@
     "hash": "09aa49b326aa151d9c73f58d6c4dec50cf40bb13e688cfb0c4da38f578d8f5e8"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/YabanciDizi.cs3?v=8d613299b30b",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/YabanciDizi.cs3?v=2a42218e15b7",
     "status": 3,
     "version": 7,
     "name": "YabanciDizi",
@@ -765,7 +765,7 @@
       "Wiojelt"
     ],
     "description": "Yabanci Dizi · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 139268,
+    "fileSize": 137869,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -776,9 +776,8 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=yabancidizi.news&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-8d613299b30b17f77110f596b3b804f6e4f7e8a28f922e9df3185b8bd4323e85",
-    "filesize": 139268,
-    "hash": "8d613299b30b17f77110f596b3b804f6e4f7e8a28f922e9df3185b8bd4323e85"
+    "fileHash": "sha256-2a42218e15b76d1da7d74bab1051b36c04b1bb35c2f1fab94e7e74c753f64efe",
+    "hash": "2a42218e15b76d1da7d74bab1051b36c04b1bb35c2f1fab94e7e74c753f64efe"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/YesilCamTv.cs3?v=55e75de0e2bf",
