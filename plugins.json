@@ -245,7 +245,7 @@
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/DiziYou.cs3?v=b80d5a39f73b",
     "status": 3,
-    "version": 10,
+    "version": 9,
     "name": "DiziYou",
     "internalName": "DiziYou",
     "authors": [
@@ -264,8 +264,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.diziyou.one&sz=128",
     "apiVersion": 1,
     "fileHash": "sha256-b80d5a39f73b50c2b2b015894ec2f44c0b60784e734cb166773e0b427f3ffba1",
-    "filesize": 110761,
-    "hash": "e79a647bf78186f409982b10c1cc4d0e62e268cf287c635f53392083f070ffb0"
+    "hash": "b80d5a39f73b50c2b2b015894ec2f44c0b60784e734cb166773e0b427f3ffba1"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/Dmax.cs3?v=f03c1d5fdb4f",
@@ -394,7 +393,7 @@
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/HDFilmCehennemi.cs3?v=c43091af7f9a",
     "status": 3,
-    "version": 9,
+    "version": 8,
     "name": "HDFilmCehennemi",
     "internalName": "HDFilmCehennemi",
     "authors": [
@@ -413,8 +412,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.hdfilmcehennemi.nl&sz=128",
     "apiVersion": 1,
     "fileHash": "sha256-c43091af7f9adf7a04a3c1c5df9b5fe298c9278d8c858def43969c0fb5f177a4",
-    "filesize": 122948,
-    "hash": "953b30cda390f9d2f784529c0f10f862654f889d9aa75ca37e1b0dc8a9454b77"
+    "hash": "c43091af7f9adf7a04a3c1c5df9b5fe298c9278d8c858def43969c0fb5f177a4"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/HDFilmDelisi.cs3?v=87ca54d40dd8",
