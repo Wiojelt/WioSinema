@@ -2,13 +2,13 @@
   {
     "name": "0 WioSinema",
     "internalName": "WioSinema",
-    "version": 91,
+    "version": 92,
     "description": "WioSinema - Türkçe film ve dizi sağlayıcıları tek katalogda. Seçili kaynaklar ve alternatif eşleşmeler taranır.",
     "authors": [
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/WioSinema.cs3?v=65e0635404bf",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/WioSinema.cs3?v=b8aafb956b62",
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png",
     "tvTypes": [
       "Movie",
@@ -17,11 +17,10 @@
     ],
     "language": "tr",
     "status": 3,
-    "fileSize": 2389254,
-    "fileHash": "sha256-65e0635404bf1c24c7883390fa5a0333fffac76d3fb37c2f01498098fbdb5b02",
+    "fileSize": 2399650,
+    "fileHash": "sha256-b8aafb956b62e6f7fabaaa97a6e49292f7da2ec5fdbd210a18c8caadbc77f40b",
     "apiVersion": 1,
-    "filesize": 2389254,
-    "hash": "65e0635404bf1c24c7883390fa5a0333fffac76d3fb37c2f01498098fbdb5b02"
+    "hash": "b8aafb956b62e6f7fabaaa97a6e49292f7da2ec5fdbd210a18c8caadbc77f40b"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/TurkishCineStream.cs3?v=8490832e53db",
@@ -48,16 +47,16 @@
     "fileHash": "sha256-8490832e53db8193c6f1ab039c33c620f7b9946b5ac2d50b782c995f21edcced"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/BelgeselX.cs3?v=a8339e63be80",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/BelgeselX.cs3?v=5a281f86ddd5",
     "status": 3,
-    "version": 9,
+    "version": 10,
     "name": "BelgeselX",
     "internalName": "BelgeselX",
     "authors": [
       "Wiojelt"
     ],
     "description": "Belgesel X · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 139197,
+    "fileSize": 143611,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -68,9 +67,8 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=belgeselx.com&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-a8339e63be80eb81ad217e4150d48c7478066044996808835347da609a722969",
-    "filesize": 139197,
-    "hash": "a8339e63be80eb81ad217e4150d48c7478066044996808835347da609a722969"
+    "fileHash": "sha256-5a281f86ddd532e4e352c7e1847ae0efbe5d8d90e27b104b093a6c49317dd3a1",
+    "hash": "5a281f86ddd532e4e352c7e1847ae0efbe5d8d90e27b104b093a6c49317dd3a1"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/DDizi.cs3?v=3881353583d1",
