@@ -17,10 +17,10 @@
     ],
     "language": "tr",
     "status": 3,
-    "fileSize": 2429544,
-    "fileHash": "sha256-d12058c5b71bf172ca712f19457a66c64af430b0fead70d38b398bed97d894a8",
+    "fileSize": 2429529,
+    "fileHash": "sha256-e82db11710c6863635db90cc433f8aa225a450dcaf6951fcd05df7d997fe3794",
     "apiVersion": 1,
-    "hash": "d12058c5b71bf172ca712f19457a66c64af430b0fead70d38b398bed97d894a8"
+    "hash": "e82db11710c6863635db90cc433f8aa225a450dcaf6951fcd05df7d997fe3794"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/TurkishCineStream.cs3?v=8490832e53db",
@@ -188,14 +188,14 @@
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/DiziPalHub.cs3?v=c9bc8c46b45f",
     "status": 3,
-    "version": 28,
+    "version": 29,
     "name": "DiziPalHub",
     "internalName": "DiziPalHub",
     "authors": [
       "Wiojelt"
     ],
     "description": "DiziPal Hub · Son Bölümler, 1592, 2225, DDiziPal ve Orjinal 15 kaynakları tek merkezde",
-    "fileSize": 242385,
+    "fileSize": 242650,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -206,8 +206,8 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/DiziPalHub.png",
     "apiVersion": 1,
-    "fileHash": "sha256-d7d1e1b94b7b36ee666f6c9c84ae33fdcd751d9b4c00c403389c1284da47e8b5",
-    "hash": "d7d1e1b94b7b36ee666f6c9c84ae33fdcd751d9b4c00c403389c1284da47e8b5"
+    "fileHash": "sha256-dbdc3c873c07758118ce656e50a23e43a0d2bad88b2caf66b39f6ed2cfefcb37",
+    "hash": "dbdc3c873c07758118ce656e50a23e43a0d2bad88b2caf66b39f6ed2cfefcb37"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/DiziRella.cs3?v=986928647db7",
