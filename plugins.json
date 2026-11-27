@@ -2,7 +2,7 @@
   {
     "name": "0 WioSinema",
     "internalName": "WioSinema",
-    "version": 97,
+    "version": 98,
     "description": "WioSinema - Türkçe film ve dizi sağlayıcıları tek katalogda. Seçili kaynaklar ve alternatif eşleşmeler taranır.",
     "authors": [
       "Wiojelt"
@@ -17,7 +17,7 @@
     ],
     "language": "tr",
     "status": 3,
-    "fileSize": 2426479,
+    "fileSize": 2429544,
     "fileHash": "sha256-d12058c5b71bf172ca712f19457a66c64af430b0fead70d38b398bed97d894a8",
     "apiVersion": 1,
     "hash": "d12058c5b71bf172ca712f19457a66c64af430b0fead70d38b398bed97d894a8"
